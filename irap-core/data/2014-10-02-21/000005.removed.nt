@@ -1,0 +1,1129 @@
+# started 2014-10-02T19:02:18Z
+<http://dbpedia.org/contributor/Aaron-Tripel> <http://dbpedia.org/meta/contributorID> "15668721"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Joseph_Diescho> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Joseph_Diescho&oldid=601916375> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda> <http://xmlns.com/foaf/0.1/name> "Miguel Angel Lavié da Cunda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Shawn_vs._the_red_phantom> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Agent> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/caps> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Tricks_&_Treats> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/nameOfMill> "De Zwaluw"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/dissolved> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://dbpedia.org/ontology/wikiPageLength> "1263"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://dbpedia.org/ontology/wikiPageLength> "1993"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Richard_Overson> <http://xmlns.com/foaf/0.1/name> "Richard Overson"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Volodymyr_Horily__7> <http://dbpedia.org/ontology/numberOfMatches> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2009_Dally_M_Awards> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://dbpedia.org/ontology/wikiPageOutDegree> "13"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/Local_tangent_space_alignment> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Rjwilmsi> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/locationOfMill> "Mounewei 17, 9111 HB Burdaard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isia_intricata> <http://dbpedia.org/ontology/wikiPageRevisionID> "591544389"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://xmlns.com/foaf/0.1/name> "Ischnurges lancinalis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Walker_Celtic_F.C.> <http://dbpedia.org/property/clubname> "Walker Celtic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/American_somoa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__7> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Ukraine_national_football_team> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/ontology/wikiPageLength> "4720"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Volodymyr_Horily__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/From_Earth_to_the_Starbucks> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ad_Herennium> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Dawynn> <http://www.w3.org/2000/01/rdf-schema#label> "Dawynn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://dbpedia.org/ontology/wikiPageRevisionID> "614071534"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-11T01:15:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/property/placeOfBirth> "Milwaukee, WI"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_civilians_killed_in_World_War_II> .
+<http://dbpedia.org/resource/Harry_Pugh> <http://xmlns.com/foaf/0.1/name> "Harry Pugh"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/goals> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T09:31:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horiliy> <http://dbpedia.org/ontology/wikiPageRevisionID> "500262960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/property/imagename> "Ball-and-stick model of chromium trioxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Extreme_Makeover:_Home_Edition_(season_1)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/clubs> <http://dbpedia.org/resource/Hapoel_Haifa_F.C.> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/property/iupacname> "Chromium trioxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://xmlns.com/foaf/0.1/name> "Wolfgang Trapp"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/1_E-15_s> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://tygodnik.onet.pl/1,23369,druk.html> .
+<http://dbpedia.org/resource/Allegorical_representations_of_Argentina> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/dPn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/contributor/Oliszydlowski> <http://www.w3.org/2000/01/rdf-schema#label> "Oliszydlowski"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1874> .
+<http://dbpedia.org/contributor/Ruigeroeland> <http://dbpedia.org/meta/contributorID> "1294969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/subdivisionName> "Cape Breton Regional Municipality"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/General_Code_of_Operating_Rules> <http://dbpedia.org/ontology/wikiPageRevisionID> "587728944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/nationalteam> <http://dbpedia.org/resource/Ukraine_national_football_team> .
+<http://en.wikipedia.org/wiki/Doll_Domination> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ss112> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://xmlns.com/foaf/0.1/name> "Stefan Starzynski"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Walt_Palmer__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-05T06:06:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Angaria_delphinus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/2000/01/rdf-schema#label> "Volodymyr Horily"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageRevisionID> "567344594"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/imagefile> <http://www.w3.org/2000/01/rdf-schema#label> "ImageFile"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Buzz_(dinghy)> <http://dbpedia.org/property/mainsailandjib> "."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://xmlns.com/foaf/0.1/name> "??? ?????????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/dissolved> <http://www.w3.org/2000/01/rdf-schema#label> "dissolved"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1889> .
+<http://en.wikipedia.org/wiki/Paul_Kelly_(footballer)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/OccultZone> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/storeys> "Two-storey smock"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/John_Oswald_(footballer)> <http://xmlns.com/foaf/0.1/name> "John Oswald"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Isia_alcumena> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://xmlns.com/foaf/0.1/name> "Isoceras bipunctata"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Beth_Clark> <http://xmlns.com/foaf/0.1/name> "Elizabeth Clark"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://xmlns.com/foaf/0.1/surname> "Fox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__6> <http://dbpedia.org/ontology/numberOfMatches> "65"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/FrescoBot> <http://www.w3.org/2000/01/rdf-schema#label> "FrescoBot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/ontology/iupacName> "Chromium trioxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_jaguarina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-30T15:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-29T12:14:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Dynamo_Kyiv> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/clubs> <http://dbpedia.org/resource/FC_Dynamo_Kyiv> .
+<http://dbpedia.org/resource/Alpine_skiing_at_the_2014_Winter_Paralympics> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Alpine_skiing_at_the_2014_Winter_Paralympics&oldid=609101236> .
+<http://dbpedia.org/resource/Beth_Clark> <http://xmlns.com/foaf/0.1/name> "Clark, Beth"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://dbpedia.org/ontology/wikiPageLength> "1323"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/Joseph_Diescho> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/1982vdven> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-05T12:54:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-23T04:09:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/T?leq?n> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/deathYear> "1943"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Herman_Naegels> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Verification_vs_validation> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Mr.Z-bot> <http://dbpedia.org/meta/contributorID> "4260898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bertucci_Valiero> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda> <http://xmlns.com/foaf/0.1/name> "Miguel Lavié"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_jaguarina> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Nature_kindergarten> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Politicians_who_died_in_Nazi_concentration_camps> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Nonpartisan_Bloc_for_Cooperation_with_the_Government_politicians> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Beth_Clark> <http://xmlns.com/foaf/0.1/name> "Beth Clark"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Hollywood_Confidential&oldid=612637732> .
+<http://dbpedia.org/property/divisio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/bestBowling> "–"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Dachau_concentration_camp> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/ontology/wikiPageRevisionID> "602370426"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://en.wikipedia.org/wiki/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Lang-uk> .
+<http://dbpedia.org/resource/Media_in_Denver> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Media_in_Denver&oldid=617336994> .
+<http://dbpedia.org/resource/Segunda_Divisi%C3%B3n_1960-61> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Winch_Gate> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Aaron-Tripel> <http://www.w3.org/2000/01/rdf-schema#label> "Aaron-Tripel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Wakefield_Trinity_FC> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/SC_Tavriya_Simferopol> .
+<http://dbpedia.org/resource/Spartak_Brno_ZJ%C5%A0> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/nationalgoals> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://dbpedia.org/property/binomialAuthority> "Brid."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Volodymyr_Horily> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Aleksandr_Grigoryev> .
+<http://dbpedia.org/resource/Schinia_approximata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/G.P._%22Bud%22_Peterson> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Oswald_(footballer)__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Carlos_Miguel_Brand%C3%A3o_Fernandes> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Fortdj33> <http://www.w3.org/2000/01/rdf-schema#label> "Fortdj33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/ontology/wikiPageRevisionID> "612977298"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://www.georss.org/georss/point> "33.6136 130.4777"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Christoph_Kunz&oldid=598516771> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/demographics1Title> "French"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Keracyaninum> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://xmlns.com/foaf/0.1/name> "Jason Fox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/T?luq?n> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Montrose,_Forfarshire> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox settlement Taqiabad-e Telayi (Persian: ??? ??????????, also Romanized as Taq??b?d-e Tel?y?; also known as Taq??b?d) is a village in Darbqazi Rural District, in the Central District of Nishapur County, Razavi Khorasan Province, Iran. At the 2006 census, its existence was noted, but its population was not reported."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_ar> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mysost> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/??????> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/property/imagefile> "CrO3-from-xtal-1970-bulk-3D-balls.png"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)__1> <http://dbpedia.org/ontology/title> "innovation management consultant,"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Volodymyr_Horily> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/name> "Stefan Starzy?ski"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/baseStoreys> <http://www.w3.org/2000/01/rdf-schema#label> "base storeys"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:FC_Zenit_Saint_Petersburg_players> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/caps> "58"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Ss112> <http://dbpedia.org/meta/contributorID> "1286970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-22T04:08:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Isia_intricata> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Volodymyr_Horily__3> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/ontology/iupacName> "(2S,3R,4S,5S,6R)-2-[2-(3,4-dihydroxyphenyl)-5,7-dihydroxychromenylium-3-yl]oxy-6-(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxane-3,4,5-triol chloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Jazz_Soul_of_Little_Stevie_Wonder> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bananas_(Comedy_Club)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://dbpedia.org/property/regnum> "Plantae"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Zenit_St._Petersburg> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/ontology/wikiPageLength> "2634"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ralph_Pake__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/name> "De Zwaluw, Burdaard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/deathDate> "1943"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:57:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Sambucin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Chromium_trioxide> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ktlabe> .
+<http://dbpedia.org/resource/Volodymyr_Horily__4> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Dnipro_Dnipropetrovsk> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://dbpedia.org/property/species> "C. introflexus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageLength> "16863"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/T?luq?n> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=T?luq?n&action=history> .
+<http://dbpedia.org/resource/T?leq?n> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=T?leq?n&action=history> .
+<http://dbpedia.org/resource/Samuel_Page_(footballer)> <http://xmlns.com/foaf/0.1/name> "Samuel Page"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jimmy_McGeachan__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "130.4777"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/ref> "P/Paul_Kelly.html"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/B%C3%A5rd_Andr%C3%A9_Hoksrud> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://dbpedia.org/ontology/abstract> "The Conservative Muslim Forum is a group within the British Conservative Party. It aims to increase Conservative Party's knowledge and comprehension of issues and circumstances that have particular relevance to Muslim communities and develop suitable responses. It also seeks to increase support for the Conservative Party within the Muslim community. Anyone who is eligible to vote in British general or local elections regardless of race, colour or creed may become a member of the Conservative Muslim Forum. It will however be necessary for a person applying for membership of the Conservative Muslim Forum to be an existing member of the Conservative Party or apply for such membership simultaneously.[1]Lord Sheikh (Mohamed Iltaf Sheikh) is Chairman of Conservative Muslim Forum. Members of the Executive Committee are listed on the Conservative Muslim Forum website. [2]"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/nickname> "D.B.D., 'Deebs'"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/catches/stumpings> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Doll_Domination> <http://dbpedia.org/ontology/wikiPageModified> "2014-07-11T16:57:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-17T16:06:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Dachau_concentration_camp> .
+<http://dbpedia.org/resource/Hohenlohe-Bartenstein> <http://dbpedia.org/property/auto> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_hulstia> <http://xmlns.com/foaf/0.1/name> "Schinia hulstia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/storeys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/contributor/Ruigeroeland> <http://www.w3.org/2000/01/rdf-schema#label> "Ruigeroeland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-01T15:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/deathDate> "1943-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Broughton-in-Furness_railway_station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/clubs> <http://dbpedia.org/resource/FC_Zenit_St._Petersburg> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Camp_of_National_Unity_politicians> .
+<http://dbpedia.org/resource/Photon_Correlation_Spectroscopy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Isocentris_retinalis> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Dawynn> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://dbpedia.org/ontology/wikiPageOutDegree> "13"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/R._Plot> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Volodymyr_Horily__6> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://dbpedia.org/property/binomial> "Campylopus introflexus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/pushpinLabelPosition> "none"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Other_Martin_Loring> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Julian_Felsenburgh> <http://www.w3.org/2000/01/rdf-schema#label> "Julian Felsenburgh"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Volodymyr_Horily&oldid=567344594> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-15T11:19:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Volodymyr_Horily> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Agent> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://xmlns.com/foaf/0.1/name> "Hollywood Confidential"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://dbpedia.org/ontology/wikiPageLength> "1195"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Sula_(bird)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Media_in_Denver> <http://dbpedia.org/ontology/wikiPageRevisionID> "617336994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-30T07:47:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joseph_Diescho> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-04-10T10:14:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/subdivisionType> "Province"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/topScore> "103"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Doctrine_of_Discovery> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://dbpedia.org/ontology/wikiPageRevisionID> "589132544"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Buzz_(dinghy)> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox Sailboat SpecificationsThe Buzz is a sailing dinghy designed in 1994 by Ian Howlett and manufactured by Reg White Limited of Brightlingsea as part of the \"White Formula\" range of boats marketed by Topper International Ltd. The Buzz is a double handed racing boat, with a single trapeze for the crewman. The boat has a fully battened mainsail, furling jib and an asymmetric spinnaker. There have been around 500 boats built."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T00:47:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Linking_Open_Data> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Samuel_Page_(footballer)__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/source> "http://www.cricketarchive.com/Archive/Players/344/344553/344553.html CricketArchive"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gury_Nikitin> <http://xmlns.com/foaf/0.1/name> "Nikitin, Gury"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)> <http://xmlns.com/foaf/0.1/name> "John Oliver"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/fullname> "Volodymyr Ivanovych Horily"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/abstract> "Volodymyr Ivanovych Horily (Ukrainian: ????????? ???????? ???????; born 11 October 1965) is a retired Soviet and Ukrainian football defender and a football coach. He manages Dnipro Dnipropetrovsk reserves."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_people_of_World_War_I> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/purpose> "Corn mill, barley mill and sawmill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Buzz_(dinghy)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://xmlns.com/foaf/0.1/name> "McVeagh, Robert"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.um.warszawa.pl/v_syrenka/new/index.php?dzial=aktualnosci&strona=aktualnosci_archiwum&poczatek=2004-09&ak_id=1177&kat=3> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/property/managerclubs> "FVP Maximiliansau"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/1982vdven> <http://www.w3.org/2000/01/rdf-schema#label> "1982vdven"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_people_executed_in_Nazi_concentration_camps> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/property/name> "Jason Aaron Fox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/property/occupation> "innovation management consultant,"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://dbpedia.org/ontology/wikiPageLength> "5796"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__5> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/ontology/wikiPageModified> "2013-03-11T05:05:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://wiadomosci.gazeta.pl/Wiadomosci/1,80708,5003805.html> .
+<http://dbpedia.org/resource/Volodymyr_Horily__4> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__2> <http://dbpedia.org/ontology/numberOfMatches> "58"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Cyanidin_3-rutinoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Croatian_literature> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Broughton-in-Furness_railway_station> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1979_Individual_Speedway_Junior_World_Championship> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/years> "1982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/years> "1990"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageID> "24271512"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q5> .
+<http://dbpedia.org/resource/Pittsgrove> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Linear_vector_space> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/windshaft> <http://www.w3.org/2000/01/rdf-schema#label> "windshaft"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Walt_Palmer> <http://xmlns.com/foaf/0.1/name> "Palmer, Walt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1854> .
+<http://dbpedia.org/resource/Environment_pollution_in_India> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Metropolitan_Association_for_Befriending_Young_Servants> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_International_Journal_of_Jaina_Studies> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__3> <http://dbpedia.org/ontology/years> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Stage_designers> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Walker_Celtic_F.C.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isoceras_bipunctatum&oldid=614347277> .
+<http://dbpedia.org/resource/Volodymyr_Horily__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bessels_equation> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tokaimura_Nuclear_Disaster> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/dateOfDeath> "1943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Kings_of_U%C3%AD_D%C3%ADarmata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://dbpedia.org/ontology/wikiPageLength> "2052"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Use_dmy_dates> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/batting> "Right-handed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/iupacname> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_nubilosa&oldid=591539926> .
+<http://dbpedia.org/resource/FYR_of_Macedonia_national_football_team> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/subclassis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Joseph_Diescho> <http://dbpedia.org/ontology/wikiPageRevisionID> "601916375"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily__4> <http://dbpedia.org/ontology/years> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/property/confusing> "September 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Doll_Domination> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Doll_Domination&oldid=616547524> .
+<http://dbpedia.org/contributor/Dawynn> <http://dbpedia.org/meta/contributorID> "6655086"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Rjwilmsi> <http://dbpedia.org/meta/contributorID> "203434"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Oliszydlowski> <http://dbpedia.org/meta/contributorID> "19158033"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/T?luq?n> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T11:44:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Alpine_skiing_at_the_2014_Winter_Paralympics> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-18T14:59:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/Marian_Zyndram-Ko?cia?kowski> .
+<http://dbpedia.org/resource/National_airborne_day> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Haunts_of_the_Very_Rich> <http://xmlns.com/foaf/0.1/name> "Haunts of the Very Rich"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/position> <http://dbpedia.org/resource/Defender_(association_football)> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_Army_officers> .
+<http://dbpedia.org/resource/William_Goodwin_(priest)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/T?luq?n> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=T?luq?n&action=edit> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://dbpedia.org/ontology/wikiPageRevisionID> "615186920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Charles_Freeman_(cricketer)> <http://xmlns.com/foaf/0.1/name> "Freeman, Charles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Ser_Amantio_di_Nicolao> <http://www.w3.org/2000/01/rdf-schema#label> "Ser Amantio di Nicolao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/placeOfBirth> "West Wyalong, NSW, Australia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Vladimer_Dvalishvili> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horiliy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/T?leq?n> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T11:44:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/OccultZone> <http://dbpedia.org/meta/contributorID> "19583588"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/name> "Gorilyi, Vladimir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_economists> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T09:56:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/name> "Starzynski, Stefan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Keraciannai> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://dbpedia.org/ontology/wikiPageModified> "2012-07-09T17:47:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://dbpedia.org/property/genus> "Campylopus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://en.wikipedia.org/wiki/Hollywood_Confidential> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Fortdj33> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/birthDate> "1965-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/property/verifiedfields> <http://www.w3.org/2000/01/rdf-schema#label> "Verifiedfields"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://dbpedia.org/ontology/wikiPageRevisionID> "591539776"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jimmy_McGeachan> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://xmlns.com/foaf/0.1/givenName> "Stefan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/auto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/subdivisionName> "Canada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/givenName> "Vladimir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/subclassis> <http://www.w3.org/2000/01/rdf-schema#label> "subclassis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sarah_Small> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/dateOfBirth> "1893-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/smockSides> "Eight sides"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/verifiedfields> "changed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_sordida> <http://xmlns.com/foaf/0.1/name> "Schinia sordida"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Haunts_of_the_Very_Rich> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jimmy_McGeachan__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joe_Ponsonby> <http://xmlns.com/foaf/0.1/name> "Joe Ponsonby"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/2000/01/rdf-schema#comment> "Stefan Starzy?ski (August 19, 1893 - c. October 17, 1943) was a Polish politician, economist, writer and statesman, Mayor of Warsaw before and during the Siege of Warsaw in 1939, infantry major of the Polish Army."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/winding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://dbpedia.org/ontology/abstract> "Robert McVeagh (22 September 1866–30 May 1944) was a New Zealand lawyer. He was born in Maungakawa, Waikato, New Zealand on 22 September 1866."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Chromium_trioxide&oldid=613000047> .
+<http://dbpedia.org/resource/Phylum_polyzoa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jeffery_tambor> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/caps> "65"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/100s/50s> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/name> "Bell-Drummond, Daniel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/clubs> <http://dbpedia.org/resource/SC_Tavriya_Simferopol> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-02T06:21:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/National_Health_Research_Institutes_(Taiwan)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/termEnd> "1939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://dbpedia.org/ontology/wikiPageRevisionID> "591539926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/placeOfDeath> "Unknown, probably the Dachau concentration camp"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__2> <http://dbpedia.org/ontology/numberOfGoals> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Benjamin_Franklin_Yoakum&oldid=591974468> .
+<http://en.wikipedia.org/wiki/Robert_McVeagh> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Od_Mishehu_AWB> .
+<http://dbpedia.org/resource/Boulevard_Drive-In_Theatre> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__3> .
+<http://dbpedia.org/resource/Walker_Celtic_F.C.> <http://xmlns.com/foaf/0.1/name> "Walker Celtic Football Club"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hohenlohe-Bartenstein> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Schinia_hulstia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://dbpedia.org/ontology/wikiPageModified> "2013-03-20T16:51:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://xmlns.com/foaf/0.1/surname> "Starzynski"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://dbpedia.org/ontology/wikiPageRevisionID> "582522199"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Schinia_terrifica> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Doll_Domination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:InformationEntity> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://www.w3.org/2000/01/rdf-schema#comment> "Robert McVeagh (22 September 1866–30 May 1944) was a New Zealand lawyer. He was born in Maungakawa, Waikato, New Zealand on 22 September 1866."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Keracyanin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/sailNumber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum__1> <http://dbpedia.org/ontology/title> "Railroad executive"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://xmlns.com/foaf/0.1/name> "Paul Kelly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/tenfor> "n/a"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/nameOfMill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/demographics1Title> "English"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/birthDate> "1965-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Jason_Fox_(motivation_consultant)&oldid=532624010> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/property/imagename> "Powder of chromium trioxide"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pigeon_Grove> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1927%E2%80%9328_Huddersfield_Town_F.C._season> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Oswald_(footballer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Ischnocampa_tristis> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Chinese_National_Human_Genome_Center> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/iupacname> <http://www.w3.org/2000/01/rdf-schema#label> "IUPACName"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://dbpedia.org/ontology/wikiPageLength> "1330"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Monti_Cimini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Volodymyr_Horily__1> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/ontology/wikiPageModified> "2013-12-26T12:21:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Media_in_Denver> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-22T12:04:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/deathPlace> "Unknown"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Cyanidin 3-O-rutinoside"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://xmlns.com/foaf/0.1/name> "Von Eggenberg, Ruprecht"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Addbot> <http://dbpedia.org/meta/contributorID> "6569922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/years> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Singapore_Straits_Times> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://dbpedia.org/ontology/abstract> "Template:Infobox settlement Taqiabad-e Telayi (Persian: ??? ??????????, also Romanized as Taq??b?d-e Tel?y?; also known as Taq??b?d) is a village in Darbqazi Rural District, in the Central District of Nishapur County, Razavi Khorasan Province, Iran. At the 2006 census, its existence was noted, but its population was not reported."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/years> "1984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1892> .
+<http://dbpedia.org/resource/Andrea_Crowther> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Alpine_skiing_at_the_2014_Winter_Paralympics> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-01T07:37:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Libyan_Islamic_Fighting_Group_guest_house,_Jalalabad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Isocentris_filalis> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Dawynn> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/founder> "Captain William Cox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Ch?jabaru_Station&action=history> .
+<http://dbpedia.org/resource/Walker_Celtic_F.C.> <http://xmlns.com/foaf/0.1/name> "Walker Celtic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__7> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Ukraine_national_football_team> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://xmlns.com/foaf/0.1/name> "Bell-Drummond, Daniel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageOutDegree> "36"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/confusing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Plekocheilus_distortus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/ontology/wikiPageOutDegree> "34"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Keracyaninum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Mr.Z-bot> <http://www.w3.org/2000/01/rdf-schema#label> "Mr.Z-bot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Volodymyr_Horily> <http://purl.org/dc/elements/1.1/language> "en"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/ontology/abstract> "Template:Infobox settlementCoxheath is a community in the Canadian province of Nova Scotia, located north of the Sydney River in the Cape Breton Regional Municipality on Cape Breton Island. The community is home to Riverview Rural High School, a secondary school with approximately 900 students in Grades 10-12 and Coxheath Elementary."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/ROC_date_format> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/verifiedfields> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/elements/1.1/description> "footballer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Sudanese_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/fullname> "Daniel James Bell-Drummond"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Himalayan_states> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isotta_Fraschini_Motori> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q215627> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://xmlns.com/foaf/0.1/name> "Kunz, Christoph"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://books.google.com/books?vid=ISBN0960179003&id=MSYBAAAAMAAJ&q=Starzynski&dq=Starzynski&pgis=1> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/country> "England"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Cyanidin-3-rutinoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/ontology/wikiPageModified> "2013-01-12T00:31:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Hapoel_Haifa_F.C._players> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_Calvinist_and_Reformed_Christians> .
+<http://dbpedia.org/resource/Joe_Ponsonby> <http://xmlns.com/foaf/0.1/name> "Joseph Ponsonby"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/baseStoreys> "Five-storey base"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/General_Code_of_Operating_Rules> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=General_Code_of_Operating_Rules&oldid=587728944> .
+<http://dbpedia.org/resource/Extreme_Makeover:_Home_Edition_(season_1)> <http://xmlns.com/foaf/0.1/name> "Extreme Makeover: Home Edition Season 1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Agent> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://dbpedia.org/ontology/wikiPageRevisionID> "501429708"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Navel_Displacement> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Saudi_Arabia_Prince_Faisal_Cup> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/sawType> <http://www.w3.org/2000/01/rdf-schema#label> "saw type"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Beth_Clark__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "33.6136"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_murder_victims> .
+<http://dbpedia.org/resource/??????> <http://dbpedia.org/ontology/wikiPageModified> "2012-04-12T19:53:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://dbpedia.org/ontology/wikiPageLength> "1666"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/??????> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=??????&action=edit> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1887> .
+<http://dbpedia.org/property/mainsailandjib> <http://www.w3.org/2000/01/rdf-schema#label> "mainsailandjib"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Yobot> <http://www.w3.org/2000/01/rdf-schema#label> "Yobot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horiliy> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Volodymyr_Horiliy&oldid=500262960> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/wickets> "–"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/ryaPn> <http://www.w3.org/2000/01/rdf-schema#label> "rya-pn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hidden@24271657> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Allans_Flat> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/alt> "Paul Kelly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-17T12:29:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-29T23:31:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/subdivisionName> "Nova Scotia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Addbot> <http://www.w3.org/2000/01/rdf-schema#label> "Addbot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Richard_Overson> <http://xmlns.com/foaf/0.1/name> "Overson, Richard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Nford24> <http://dbpedia.org/meta/contributorID> "4688754"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Exit_Dying> <http://xmlns.com/foaf/0.1/name> "Exit Dying"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Harry_Pugh> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1996_ARL_Premiership> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Air_Tungaru> <http://dbpedia.org/property/airline> "Air Tungaru"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/goals> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/ontology/wikiPageRevisionID> "612637719"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily__7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Jimmy_McGeachan__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ray_O._Light_Group> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/successor> <http://dbpedia.org/resource/Julian_Kulski> .
+<http://dbpedia.org/resource/Chaotic_(Britney_Song)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Ischnocampa_sordida> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Air_Tungaru> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/William_Goodwin_(Dean)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/T?luq?n> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=T?luq?n&oldid=312572495> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-15T17:27:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/topScore> "42"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/property/name> "Fox, Jenifer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/locationOfMill> <http://www.w3.org/2000/01/rdf-schema#label> "location of mill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1965_births> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jimmy_McGeachan__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joe_Ponsonby> <http://xmlns.com/foaf/0.1/name> "Ponsonby, Joe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/bowlAvg> "–"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_gloriosa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Racklever> <http://dbpedia.org/meta/contributorID> "623903"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://dbpedia.org/ontology/wikiPageRevisionID> "613970299"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/unitPref> "Metric"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/20-pound_banknote> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/confusing> <http://www.w3.org/2000/01/rdf-schema#label> "confusing"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/birthYear> "1893"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/contributor/Rjwilmsi> <http://www.w3.org/2000/01/rdf-schema#label> "Rjwilmsi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/ontology/wikiPageLength> "4582"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://xmlns.com/foaf/0.1/name> "Kelly, Paul"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Michael_J._Thomas> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Funny_people> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/General_Code_of_Operating_Rules> <http://dbpedia.org/ontology/wikiPageModified> "2013-12-26T11:04:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Beth_Clark> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/date> "--06-12"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Doll_Domination> <http://dbpedia.org/ontology/abstract> "Doll Domination is the second and final studio album by American pop girl group The Pussycat Dolls. It was released on September 19, 2008 by Interscope Records. Initially titled To Those Who Wait, the group later stated in an interview that the album had been renamed Doll Domination after many requests from fans. Doll Domination was the first album released following the departure of group member Carmit Bachar, and was the last album released with the remaining group members from the original lineup—Ashley Roberts, Jessica Sutta, Melody Thornton, Kimberly Wyatt and Nicole Scherzinger. Throughout 2009 the album was reissued in several different forms.Doll Domination generally received mixed to negative reviews, with most critics citing poor efforts to offer better material than their debut album. Nevertheless, the album debuted at number four on the Billboard 200 chart, selling 80,000 copies in its first week. It experienced similar peaks on charts worldwide, reaching the top five on the albums chart in Australia, Canada, Switzerland and the United Kingdom. Doll Domination sold less than PCD in the United States, however has sold 5 million copies worldwide.Six singles were released in support of Doll Domination. The album was preceded by the release of the lead single, \"When I Grow Up\", which reached the top ten in 16 countries. The second international single, \"I Hate This Part\", reached number eleven on the Billboard Hot 100 and also charted within the top ten in most countries. \"Jai Ho! (You Are My Destiny)\" caused controversy as the single was credited as \"Pussycat Dolls featuring Nicole Scherzinger\", which caused tension within the group and rumored that Scherzinger would be going solo. It peaked atop the charts in 17 countries and reached a milestone in United States for the largest single-week leap from number 100."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sportni_Park_Stozice> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/South_West_Essex_Technical_College> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cyanidin-3-rhamnoglucoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Keracyanin_chloride> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HMS_Stuart_(D00)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://dbpedia.org/ontology/wikiPageLength> "1250"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taqiabad-e_Telayi&oldid=501429708> .
+<http://dbpedia.org/resource/Pripet_marshes> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Wolfgang_Trapp> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Mr.Z-bot> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://dbpedia.org/ontology/wikiPageRevisionID> "591539634"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/birthYear> "1965"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ralph_Pake> <http://xmlns.com/foaf/0.1/name> "Ralph Pake"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-15T14:33:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/windshaft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/property/smockSides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/sailType> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/name> "Volodymyr Horily"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ukrainian_expatriate_footballers> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageOutDegree> "116"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Joe_Ponsonby__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Taliban_transit_house,_Jalalabad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/placeofburial> <http://www.w3.org/2000/01/rdf-schema#label> "placeofburial"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__5> <http://dbpedia.org/ontology/years> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Volodymyr_Horiliy> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Volodymyr_Horily> .
+<http://dbpedia.org/contributor/Deor> <http://dbpedia.org/meta/contributorID> "3022076"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/imagename> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/deathDate> "--10-17"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/ontology/wikiPageLength> "1866"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/contributor/Cydebot> <http://www.w3.org/2000/01/rdf-schema#label> "Cydebot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/shortDescription> "Austrian general"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Walt_Palmer> <http://xmlns.com/foaf/0.1/name> "Walter Palmer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Stefan_Starzy?ski&oldid=612637658> .
+<http://dbpedia.org/resource/Schinia_sordida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://xmlns.com/foaf/0.1/nick> "D.B.D., 'Deebs'"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1884> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/pushpinMapCaption> "Coxheath in Nova Scotia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Walt_Palmer> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horiliy> <http://dbpedia.org/ontology/wikiPageLength> "30"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:BLP_unsourced> .
+<http://dbpedia.org/resource/Slavonic_Bible> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Nesnesiteln%C3%A1_lehkost_byt%C3%AD> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/name> "Coxheath"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__5> <http://dbpedia.org/ontology/numberOfMatches> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Oswald_(footballer)__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ryazan_State_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://xmlns.com/foaf/0.1/surname> "Fox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/subdivisionType> "Country"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Arnold_F.C.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Conservative_Muslim_Forum&oldid=555731951> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Wolfgang_Trapp&oldid=613892191> .
+<http://dbpedia.org/property/dPn> <http://www.w3.org/2000/01/rdf-schema#label> "d-pn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://xmlns.com/foaf/0.1/givenName> "Jason"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Stefan_Starzy?ski> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oliszydlowski> .
+<http://dbpedia.org/resource/Buzz_(dinghy)> <http://dbpedia.org/property/caption> "A Buzz ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/name> "Paul Kelly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/birthDate> "1893-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Samuel_Page_(footballer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/divisio> <http://www.w3.org/2000/01/rdf-schema#label> "divisio"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-17T16:06:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Karl_Gehlen> <http://xmlns.com/foaf/0.1/name> "Gehlen, Karl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dyserythropoietic_anemia,_congenital> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/caps> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ryazan_State_University> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Aleksandr_Grigoryev> <http://www.w3.org/2000/01/rdf-schema#label> "Aleksandr Grigoryev"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/sailType> <http://www.w3.org/2000/01/rdf-schema#label> "sail type"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_demaculata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Richard_Overson__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Allenvale> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/BattyBot> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/caps> "39"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Keracyanin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/watchedfields> "changed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=De_Zwaluw,_Burdaard&oldid=543347530> .
+<http://en.wikipedia.org/wiki/Christoph_Kunz> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Racklever> .
+<http://dbpedia.org/resource/Ralph_Pake__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/Person/height> "184.0"^^<http://dbpedia.org/datatype/centimetre> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Presidents_of_Warsaw> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://naszastolica.blox.pl/html/1310721,262146,14,15.html?9,2009> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__6> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/runs> "1415"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/demographicsType> "Languages"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ukrainian_Premier_League_players> .
+<http://dbpedia.org/contributor/Julian_Felsenburgh> <http://dbpedia.org/meta/contributorID> "18126889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Jalan_Sungai_Pusu&oldid=582522199> .
+<http://dbpedia.org/resource/Serial_peripheral_interface> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.klisf.info/numeric/index.app?cmd=ln&lang=ru&id=592067803621965> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1864> .
+<http://dbpedia.org/resource/TearDrop> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cyaninoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/De_Zwaluw,_Burdaard> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Addbot> .
+<http://dbpedia.org/resource/Doll_Domination> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-11T17:14:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/SC_Tavriya_Simferopol> .
+<http://dbpedia.org/resource/Volodymyr_Horily__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Mayor_of_Warsaw> .
+<http://dbpedia.org/property/auto> <http://www.w3.org/2000/01/rdf-schema#label> "auto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Garshasp_(video_game)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Dynamo_Kyiv> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/shortDescription> "footballer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Harrison_College> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Stefan_Starzy?ski&action=edit> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Stefan_Starzy?ski&action=history> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/subdivisionType> "Municipality"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__6> <http://dbpedia.org/ontology/years> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1882> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/establishedTitle> "First settled"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/latns> "N"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://xmlns.com/foaf/0.1/name> "Isidiella divitella"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Jenifer_Fox&oldid=587735290> .
+<http://dbpedia.org/resource/Moshe_Sternbuch> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/orderInOffice> "Mayor of Warsaw"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Cape_Verdean_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cyanidin_3-O-rutinoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/property/refimprove> "September 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Richard_Overson__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Cyaninoside"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Ischnocampa_nubilosa> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Sibai> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_sordida&oldid=591541929> .
+<http://dbpedia.org/resource/Tsar_Alexei> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__1> .
+<http://dbpedia.org/resource/Volodymyr_Horily__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Dnipro_Dnipropetrovsk> .
+<http://dbpedia.org/resource/Air_Tungaru> <http://dbpedia.org/property/icao> "TUN"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Amyrgians> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Doll_Domination> <http://xmlns.com/foaf/0.1/name> "Doll Domination 2.0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/property/occupation> "motivational speaker, author"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://xmlns.com/foaf/0.1/name> "Taqiabad-e Telayi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/batAvg> "19.16"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://en.wikipedia.org/wiki/Isidiella_divitella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Cydebot> .
+<http://dbpedia.org/resource/Harry_Pugh> <http://xmlns.com/foaf/0.1/name> "Henry David Pugh"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_football_biography> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/ontology/wikiPageRevisionID> "613892191"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Nelson_Mandela_Primary_School> <http://dbpedia.org/ontology/wikiPageRevisionID> "601434727"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/name> "Gorilyi, Vladimir"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Kenyan_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://dbpedia.org/ontology/wikiPageLength> "1250"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageModified> "2013-08-06T02:12:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-12T14:14:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T20:14:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/K%C3%BCberkaitse_Kompetentsikeskus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/property/imagefile> "Chrom-oxid.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/contributor/Yobot> <http://dbpedia.org/meta/contributorID> "7328338"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://dbpedia.org/ontology/wikiPageRevisionID> "614347277"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/property/shortDescription> "German footballer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__1> <http://dbpedia.org/ontology/years> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnurges_lancinalis&oldid=584033309> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1885> .
+<http://dbpedia.org/resource/Alpine_skiing_at_the_2014_Winter_Paralympics> <http://dbpedia.org/ontology/wikiPageRevisionID> "609101236"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/watchedfields> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Daniel_Bell-Drummond&oldid=612637719> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://xmlns.com/foaf/0.1/name> "Trapp, Wolfgang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/property/othernames> "Chromic anhydride, Chromium oxide, Chromic acid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/name> "Volodymyr Horily"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Nelson_Mandela_Primary_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-04-09T04:48:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__6> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Dnipro_Dnipropetrovsk> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/ontology/abstract> "Wolfgang Trapp (born August 1, 1957) is a German football coach and a former player."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/tenfor> "–"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Al-tawil> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Broughton-in-Furness_railway_station> <http://xmlns.com/foaf/0.1/name> "Broughton-in-Furness"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/1_E-6_s> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Prunicyanin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://xmlns.com/foaf/0.1/name> "Ruprecht von Eggenberg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/managerclubs> <http://www.w3.org/2000/01/rdf-schema#label> "managerclubs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Indian_Ocean_Island_States> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://xmlns.com/foaf/0.1/name> "Jason Aaron Fox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/caps> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wakefield_Trinity_Football_Club> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Doll_Domination> <http://dbpedia.org/ontology/wikiPageLength> "80433"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/contributor/Od_Mishehu_AWB> <http://www.w3.org/2000/01/rdf-schema#label> "Od Mishehu AWB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/pairsOfMillstones> <http://www.w3.org/2000/01/rdf-schema#label> "pairs of millstones"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/caption> "Ruprecht von Eggenberg, kaiserlicher General"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/property/name> "Wolfgang Trapp"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jimmy_McGeachan> <http://xmlns.com/foaf/0.1/name> "James McGeachan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Richard_Overson> <http://xmlns.com/foaf/0.1/name> "Richard John Overson"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://xmlns.com/foaf/0.1/name> "Coxheath"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Windows_games_starting_with_F> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Passaporto_italiano> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/populationDensityKm> "auto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Ktlabe> <http://www.w3.org/2000/01/rdf-schema#label> "Ktlabe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Local_tangent_space_alignment&oldid=607162311> .
+<http://dbpedia.org/resource/Dan_Kurzman> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/ontology/wikiPageLength> "8504"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/spinnaker> <http://www.w3.org/2000/01/rdf-schema#label> "spinnaker"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:NaturalPerson> .
+<http://dbpedia.org/contributor/OccultZone> <http://www.w3.org/2000/01/rdf-schema#label> "OccultZone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/elements/1.1/description> "Polish politician"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.fanatukr.com/igrok/horily.html> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://xmlns.com/foaf/0.1/name> "Yoakum, Benjamin Franklin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageLength> "3121"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alpine_skiing_at_the_2014_Winter_Paralympics> <http://dbpedia.org/ontology/wikiPageLength> "16647"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Cloudy...Chance_of_Murder_(Psych_episode)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Nelson_Mandela_Primary_School> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Deor> .
+<http://dbpedia.org/resource/Walt_Palmer> <http://xmlns.com/foaf/0.1/name> "Walt Palmer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://dbpedia.org/property/name> "Trapp, Wolfgang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/London_Hotels> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__2> <http://dbpedia.org/ontology/years> "1984"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/longew> "W"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lesbos_Island> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Isidiella_nickerlii> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Yobot> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Ru_icon> .
+<http://dbpedia.org/resource/Schinia_sordida> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://xmlns.com/foaf/0.1/name> "Starzynski, Stefan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Exit_Dying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1887> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isia_alcumena&oldid=615186920> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:NaturalPerson> .
+<http://dbpedia.org/property/baseStoreys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Extreme_Makeover:_Home_Edition_(season_1)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Virginia_Tech_Hokies_bowl_games> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Beijing_Institute_of_Genomics> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Senators_of_the_Second_Polish_Republic> .
+<http://dbpedia.org/contributor/BattyBot> <http://dbpedia.org/meta/contributorID> "15996738"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-29T08:45:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Herman_Naegels> <http://xmlns.com/foaf/0.1/name> "Naegels, Herman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://xmlns.com/foaf/0.1/name> "Daniel James Bell-Drummond"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/batAvg> "21.09"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Schinia_hulstia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_executed_by_Germany_by_firearm> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageRevisionID> "612637658"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Angaria_delphinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Robert_McVeagh&oldid=521646465> .
+<http://en.wikipedia.org/wiki/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Nford24> .
+<http://dbpedia.org/resource/Volodymyr_Horily__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://dbpedia.org/ontology/wikiPageLength> "1926"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/matches> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://xmlns.com/foaf/0.1/name> "Isidiella nickerlii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/R.P._Plot> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__5> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox settlementCoxheath is a community in the Canadian province of Nova Scotia, located north of the Sydney River in the Cape Breton Regional Municipality on Cape Breton Island. The community is home to Riverview Rural High School, a secondary school with approximately 900 students in Grades 10-12 and Coxheath Elementary."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Wheel_cactus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/smockSides> <http://www.w3.org/2000/01/rdf-schema#label> "smock sides"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gury_Nikitin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/2000/01/rdf-schema#comment> "Volodymyr Ivanovych Horily (Ukrainian: ????????? ???????? ???????; born 11 October 1965) is a retired Soviet and Ukrainian football defender and a football coach. He manages Dnipro Dnipropetrovsk reserves."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://xmlns.com/foaf/0.1/name> "Jenifer Fox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/BattyBot> <http://www.w3.org/2000/01/rdf-schema#label> "BattyBot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jimmy_McGeachan> <http://xmlns.com/foaf/0.1/name> "Mcgeachan, Jimmy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Reward_points> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/nationalyears> "1995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Samuel_Phillips_(educator)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isocentris_filalis&oldid=589132528> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Volodymyr_Horily&action=edit> .
+<http://dbpedia.org/resource/Isia_intricata> <http://dbpedia.org/ontology/wikiPageLength> "1215"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-12T14:15:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/name> "Volodymyr Ivanovych Horily"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Chaotic_(Britney_Spears_Song)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Politician> .
+<http://dbpedia.org/resource/Onteora> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/d0:Location> .
+<http://dbpedia.org/contributor/Nford24> <http://www.w3.org/2000/01/rdf-schema#label> "Nford24"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-04T12:45:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/name> "Kelly, Paul"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://dbpedia.org/ontology/wikiPageRevisionID> "591541929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://en.wikipedia.org/wiki/General_Code_of_Operating_Rules> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Aaron-Tripel> .
+<http://dbpedia.org/resource/Louis_Gueymard> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Agent> .
+<http://dbpedia.org/resource/Volodymyr_Horily__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/ontology/wikiPageModified> "2014-04-02T04:42:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rafael_Ferlosio> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Isia_intricata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:14:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Exit_Dying> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dan_Kurzman> <http://xmlns.com/foaf/0.1/name> "Kurzman, Dan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://dbpedia.org/ontology/wikiPageRevisionID> "555731951"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/property/name> "Fox, Jason"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/FrescoBot> <http://dbpedia.org/meta/contributorID> "9021902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/winding> <http://www.w3.org/2000/01/rdf-schema#label> "winding"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/careerhighlights> "AFL\n* Brownlow Medal 1995\n* All-Australian 1995, 1996, 1997\n* Australian Football Hall of Fame \n\nSydney\n* Sydney Best and Fairest 1992, 1993, 1996, 1997\n* Sydney Captain 1993-2002"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/nameOfMill> <http://www.w3.org/2000/01/rdf-schema#label> "name of mill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Moroccan_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/General_Code_of_Operating_Rules> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-11T01:05:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/shortDescription> "Cricketer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Murdered_military_personnel> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1893_births> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Segunda_Divisi%C3%B3n_1991-92> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Danone_Cup> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Richard_Overson> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Wakefield_Trinity_F.C.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/MABYS> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-04T12:45:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/ontology/wikiPageOutDegree> "62"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://dbpedia.org/ontology/wikiPageLength> "1781"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Joe_Ponsonby__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/T?leq?n> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=T?leq?n&action=edit> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Norgani_Hotels> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-12T16:28:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://dbpedia.org/ontology/wikiPageRevisionID> "591974468"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Meratus_mountains> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Plekocheilus_distortus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/1982vdven> <http://dbpedia.org/meta/contributorID> "19784584"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-22T16:36:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://dbpedia.org/ontology/wikiPageModified> "2013-12-01T09:50:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)> <http://xmlns.com/foaf/0.1/name> "Oliver, John"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:FC_Dnipro_Dnipropetrovsk_players> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/abstract> "Stefan Starzy?ski (August 19, 1893 - c. October 17, 1943) was a Polish politician, economist, writer and statesman, Mayor of Warsaw before and during the Siege of Warsaw in 1939, infantry major of the Polish Army."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jenisch_house> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1980_Individual_Speedway_Junior_World_Championship> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taliban_guest_house,_Jalalabad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:FC_Dynamo_Kyiv_players> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://xmlns.com/foaf/0.1/name> "Fox, Jason"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/manageryears> <http://www.w3.org/2000/01/rdf-schema#label> "manageryears"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/John_Wilson_(judge)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/catches/stumpings> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Congolese_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Warrington_FC> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://dbpedia.org/ontology/wikiPageModified> "2012-11-06T09:40:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://warszawa.gazeta.pl/warszawa/1,34889,6984655,Warszawa_1939___przewodnik.html> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q5> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://dbpedia.org/ontology/wikiPageLength> "800"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://dbpedia.org/ontology/wikiPageModified> "2013-05-19T02:19:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://dbpedia.org/ontology/wikiPageRevisionID> "614475489"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/catches/stumpings> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://dbpedia.org/ontology/wikiPageLength> "9763"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/We_Need_Girlfriends> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Samprangan> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/termStart> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Thomas_Howard,_23rd_Earl_of_Arundel> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Keraciannai"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Divine_prescience> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/storeys> <http://www.w3.org/2000/01/rdf-schema#label> "storeys"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/imagefile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/winding> "Tailpole and winch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Game_camera> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://dbpedia.org/ontology/wikiPageRevisionID> "587735290"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/sailNumber> <http://www.w3.org/2000/01/rdf-schema#label> "sail number"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/William_Goodwin_(priest)> <http://xmlns.com/foaf/0.1/name> "Goodwin, William"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__7> <http://dbpedia.org/ontology/years> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/property/classSymbol> <http://www.w3.org/2000/01/rdf-schema#label> "class symbol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Britney_Spears'_songs> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Deor> <http://www.w3.org/2000/01/rdf-schema#label> "Deor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__5> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Hapoel_Haifa_F.C.> .
+<http://dbpedia.org/resource/Hossein_Behruzinia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Buzz_(dinghy)> <http://dbpedia.org/ontology/abstract> "Template:Infobox Sailboat SpecificationsThe Buzz is a sailing dinghy designed in 1994 by Ian Howlett and manufactured by Reg White Limited of Brightlingsea as part of the \"White Formula\" range of boats marketed by Topper International Ltd. The Buzz is a double handed racing boat, with a single trapeze for the crewman. The boat has a fully battened mainsail, furling jib and an asymmetric spinnaker. There have been around 500 boats built. The Buzz is designed to be an easy to sail boat, but it can also be raced competitively."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/1981_Individual_Speedway_Junior_World_Championship> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/General_Code_of_Operating_Rules> <http://dbpedia.org/ontology/wikiPageLength> "11794"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/bowling> "Right-arm medium-fast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://xmlns.com/foaf/0.1/name> "Benjamin Franklin Yoakum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Taqi_ad-Din_Ahmad_ibn_Taymiyyah> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)> <http://dbpedia.org/ontology/alias> "\"Jack\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Financial_scandal_in_the_Orthodox_Church_in_America> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/??????> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=??????&action=history> .
+<http://dbpedia.org/resource/Shashidhar_Reddy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-23T09:58:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/matches> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Campylopus_introflexus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/placeofburial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Doll_Domination> <http://dbpedia.org/ontology/wikiPageRevisionID> "616547524"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Fortdj33> <http://dbpedia.org/meta/contributorID> "9056972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Haunts_of_the_Very_Rich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T09:28:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/verifiedrevid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Walt_Palmer__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/placeofburial> "Mausoleum in Ehrenhausen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Ser_Amantio_di_Nicolao> <http://dbpedia.org/meta/contributorID> "753665"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://dbpedia.org/ontology/wikiPageRevisionID> "584033309"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Karl_Gehlen> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-12T14:15:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Keracyanine> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/name> "Vladimir Gorilyi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Scott_Hill_(rugby_league_footballer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/matches> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://dbpedia.org/ontology/wikiPageLength> "1811"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/viafId> "27872662"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pigi_Devetzi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joe_Ponsonby> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://dbpedia.org/ontology/wikiPageRevisionID> "598516771"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_Military_Organisation_members> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Expatriate_footballers_in_Israel> .
+<http://dbpedia.org/resource/Robert_McVeagh> <http://dbpedia.org/ontology/wikiPageRevisionID> "521646465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://xmlns.com/foaf/0.1/name> "Stefan Starzy?ski"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/name> "Daniel Bell-Drummond"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/ontology/wikiPageLength> "8269"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Broughton-in-Furness_railway_station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Air_Tungaru> <http://dbpedia.org/property/iata> "VK"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Media_in_Denver> <http://dbpedia.org/ontology/wikiPageOutDegree> "290"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/managerclubs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/manageryears> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Ida_Wells-Barnet> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/deliveries> "–"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://dbpedia.org/ontology/wikiPageModified> "2014-03-07T07:24:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily__3> <http://dbpedia.org/ontology/numberOfMatches> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Branch_Prediction> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ukraine_international_footballers> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Hapoel_Haifa_F.C.> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T09:30:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Jenifer_Fox> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/FrescoBot> .
+<http://dbpedia.org/resource/Taqiabad-e_Telayi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/nationalcaps> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Ss112> <http://www.w3.org/2000/01/rdf-schema#label> "Ss112"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-11T00:45:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Benjamin_Franklin_Yoakum> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Julian_Felsenburgh> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/shortDescription> "Polish politician"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Aleksandr_Grigoryev> <http://dbpedia.org/meta/contributorID> "2425663"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Broughton-in-Furness_railway_station> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:SC_Tavriya_Simferopol_players> .
+<http://dbpedia.org/resource/Unity_(Superman:_The_Animated_Series)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Od_Mishehu_AWB> <http://dbpedia.org/meta/contributorID> "5294192"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ireasa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Volodymyr_Horily&action=history> .
+<http://dbpedia.org/resource/Schinia_triolata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/clubs> <http://dbpedia.org/resource/FC_Dnipro_Dnipropetrovsk> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Cimini_Hills> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/debutfor> "Kent"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Air_Tungaru> <http://dbpedia.org/property/callsign> "—"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/ontology/wikiPageOutDegree> "46"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:08:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/othernames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Luidger_of_Utrecht> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1_E-12_s> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/demographics1Info> "0.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Volodymyr_Horily__4> <http://dbpedia.org/ontology/numberOfMatches> "39"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Keracyanine"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Prunicyanin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pierre-Richard_Willm> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:NaturalPerson> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://xmlns.com/foaf/0.1/name> "Daniel Bell-Drummond"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Warrington_F.C.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/runs> "232"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/years> "1993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://xmlns.com/foaf/0.1/givenName> "Jenifer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/name> "Von Eggenberg, Ruprecht"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Charles_Freeman_(cricketer)> <http://xmlns.com/foaf/0.1/name> "Charles Freeman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-05T12:17:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/From_the_Earth_to_Starbucks> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/T?leq?n> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=T?leq?n&oldid=312572419> .
+<http://dbpedia.org/resource/C27H31ClO15> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Defender_(association_football)> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://dbpedia.org/ontology/wikiPageLength> "1222"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ephebe_of_Kritios> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/verifiedrevid> <http://www.w3.org/2000/01/rdf-schema#label> "verifiedrevid"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Norgani_Hotels_ASA> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://xmlns.com/foaf/0.1/surname> "Gorilyi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Murdered_mayors> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Hohenlohe-Bartenstein> <http://dbpedia.org/property/date> "December 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Paul_Kelly_(footballer)&oldid=602370426> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "cyanidin-3-rhamnoglucoside"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Doll_Domination> <http://www.w3.org/2000/01/rdf-schema#comment> "Doll Domination is the second and final studio album by American pop girl group The Pussycat Dolls. It was released on September 19, 2008 by Interscope Records. Initially titled To Those Who Wait, the group later stated in an interview that the album had been renamed Doll Domination after many requests from fans."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://dbpedia.org/ontology/wikiPageLength> "1223"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ralph_Pake> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/placeOfBirth> "Habsburg Monarchy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Conservative_Muslim_Forum> <http://www.w3.org/2000/01/rdf-schema#comment> "The Conservative Muslim Forum is a group within the British Conservative Party. It aims to increase Conservative Party's knowledge and comprehension of issues and circumstances that have particular relevance to Muslim communities and develop suitable responses. It also seeks to increase support for the Conservative Party within the Muslim community."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Media_in_Denver> <http://dbpedia.org/ontology/wikiPageModified> "2014-07-17T16:47:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Persondata> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Chernihivka_Raion> .
+<http://dbpedia.org/resource/John_Bernard_Bosanquet> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)> <http://dbpedia.org/ontology/wikiPageRevisionID> "532624010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_people_who_died_in_Dachau_concentration_camp> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:NaturalPerson> .
+<http://dbpedia.org/resource/John_Oliver_(footballer_born_1915)__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Media_in_Denver> <http://dbpedia.org/ontology/wikiPageLength> "12449"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Harry_Pugh__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ischnocampa_nubilosa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:08:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Harry_Pugh__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/property/ceased> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__4> .
+<http://dbpedia.org/resource/Isia_intricata> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isia_intricata&oldid=591544389> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/shortDescription> "Australian rules footballer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jimmy_McGeachan> <http://xmlns.com/foaf/0.1/name> "Jimmy McGeachan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_labe> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Executed_people_from_Masovian_Voivodeship> .
+<http://dbpedia.org/resource/Gipsy_entertainment_music> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tina_Margaretis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Treason_Act_1547> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Buzz_(dinghy)> <http://dbpedia.org/property/spinnaker> "."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/locationOfMill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q215627> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily__3> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Zenit_St._Petersburg> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ch?jabaru_Station&oldid=545721045> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Ischnocampa_sordida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/M._Shashidhar_Reddy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Samuel_Page_(footballer)> <http://xmlns.com/foaf/0.1/name> "Page, Samuel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://dbpedia.org/ontology/wikiPageRevisionID> "612637732"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Walker_Celtic_F.C.> <http://dbpedia.org/property/fullname> "Walker Celtic Football Club"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/John_Oswald_(footballer)> <http://xmlns.com/foaf/0.1/name> "Oswald, John"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Walt_Palmer__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Schinia_limbalis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/fivefor> "–"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_sanguinea> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isoceras_bipunctatum> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-25T10:33:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/watchedfields> <http://www.w3.org/2000/01/rdf-schema#label> "Watchedfields"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Isoceras_bipunctata> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://en.wikipedia.org/wiki/Isoceras_bipunctatum> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Now,_Discover_your_strengths> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isia_alcumena> <http://dbpedia.org/ontology/wikiPageModified> "2014-07-01T18:19:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/spinnaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Wolfgang_Trapp> <http://www.w3.org/2000/01/rdf-schema#comment> "Wolfgang Trapp (born August 1, 1957) is a German football coach and a former player."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Genome_Center> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/ceased> <http://www.w3.org/2000/01/rdf-schema#label> "ceased"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/pairsOfMillstones> "Four pairs"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Nelson_Mandela_Primary_School> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Nelson_Mandela_Primary_School&oldid=601434727> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://dbpedia.org/ontology/wikiPageLength> "1448"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/runs> "115"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Unified_WWE_Tag_Team_Champion> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Furrycat> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Wolfgang_Trapp__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://dbpedia.org/ontology/wikiPageLength> "1476"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Doll_Domination> <http://xmlns.com/foaf/0.1/name> "Doll Domination"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Cyanidin 3-rutinoside"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_tristis&oldid=591539634> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_legionnaires_(World_War_I)> .
+<http://dbpedia.org/resource/Cyanidin-3-O-rutinoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Nelson_Mandela_Primary_School> <http://dbpedia.org/ontology/wikiPageModified> "2014-03-27T00:28:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_tristis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:08:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Isia_intricata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)__2> <http://dbpedia.org/ontology/title> "motivational speaker, author"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Ischnurges_lancinalis> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ser_Amantio_di_Nicolao> .
+<http://dbpedia.org/property/imagename> <http://www.w3.org/2000/01/rdf-schema#label> "ImageName"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__1> <http://dbpedia.org/ontology/numberOfMatches> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/ontology/wikiPageLength> "1412"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__7> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Schinia_sanguinea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/property/dateOfBirth> "1965-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Harry_Pugh> <http://xmlns.com/foaf/0.1/name> "Pugh, Harry"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1880> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_diplomats_of_the_United_Kingdom_to_Germany&oldid=612977298> .
+<http://dbpedia.org/resource/Isocentris_filalis> <http://dbpedia.org/ontology/wikiPageRevisionID> "589132528"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/C27H31O15+> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Poland> .
+<http://dbpedia.org/resource/Jalan_Sungai_Pusu> <http://dbpedia.org/ontology/wikiPageModified> "2013-11-20T13:34:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jimmy_McGeachan__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/pushpinMap> "Canada Nova Scotia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ralph_Pake> <http://xmlns.com/foaf/0.1/name> "Ralph Robinson Pake"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1943_deaths> .
+<http://dbpedia.org/resource/Jason_Fox_(motivation_consultant)__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Isia_intricata> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1856> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1854> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/property/birthDate> "1893-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/History.com> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/othernames> "Keracyanin chloride"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/name> "Antirrhinin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isoceras_bipunctata&oldid=614475489> .
+<http://dbpedia.org/resource/Isocentris_retinalis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isocentris_retinalis&oldid=589132544> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/sailNumber> "Four sails"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/property/batAvg> "32.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Ralph_Pake> <http://xmlns.com/foaf/0.1/name> "Pake, Ralph"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ukrainian_footballers> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Julian_Kulski> .
+<http://dbpedia.org/resource/KC-390> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Antirrhinin> <http://dbpedia.org/property/imagefile> "Keracyanin.svg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isoceras_bipunctata> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-26T07:20:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Almurta> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/??????> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=??????&oldid=487058324> .
+<http://dbpedia.org/resource/Fabry's_disease> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Racklever> <http://www.w3.org/2000/01/rdf-schema#label> "Racklever"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/William_Goodwyn> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Ktlabe> <http://dbpedia.org/meta/contributorID> "21041754"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/pairsOfMillstones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Stefan_Starzy?ski> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Polish_people_executed_by_firearm> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://en.wikipedia.org/wiki/Ischnocampa_mundator> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Ischnurges_lancinalis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Monti_Cimini> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Coxheath,_Nova_Scotia> <http://dbpedia.org/property/demographics1Info> "98.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/caption> "De Zwaluw, May 2008"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Schinia_jaguarina> <http://xmlns.com/foaf/0.1/name> "Schinia jaguarina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jenifer_Fox> <http://xmlns.com/foaf/0.1/name> "Fox, Jenifer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Local_tangent_space_alignment> <http://dbpedia.org/ontology/wikiPageRevisionID> "607162311"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnocampa_mundator> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_mundator&oldid=591539776> .
+<http://dbpedia.org/resource/Walt_Palmer__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/title> "Brownlow Medallist"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Christoph_Kunz> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-17T18:54:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/verifiedre> <http://www.w3.org/2000/01/rdf-schema#label> "verifiedre"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/ontology/wikiPageRevisionID> "543347530"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/name> "Ruprecht von Eggenberg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isidiella_divitella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isidiella_divitella&oldid=613970299> .
+<http://dbpedia.org/resource/Hollywood_Confidential> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Live_at_the_Paradiso> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:28Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Ghanaian_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Annuello> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Cydebot> <http://dbpedia.org/meta/contributorID> "1215485"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ruprecht_von_Eggenberg> <http://dbpedia.org/property/placeOfDeath> "Graz, Styria, Habsburg Monarchy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isia_intricata> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T10:27:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/General_Code_of_Operating_Rules> <http://dbpedia.org/ontology/wikiPageOutDegree> "52"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Chromium_trioxide> <http://dbpedia.org/ontology/wikiPageRevisionID> "613000047"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/height> "1.84"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Daniel_Bell-Drummond> <http://dbpedia.org/ontology/wikiPageLength> "11662"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_diplomats_of_the_United_Kingdom_to_Germany> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-15T06:03:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Schinia_sanguinea> <http://xmlns.com/foaf/0.1/name> "Schinia sanguinea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Charles_Freeman_(cricketer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Charles_Freeman_(cricketer)> <http://xmlns.com/foaf/0.1/name> "Charles Redfern Freeman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isidiella_nickerlii> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isidiella_nickerlii&oldid=614071534> .
+<http://dbpedia.org/resource/Paul_Kelly_(footballer)> <http://dbpedia.org/property/originalteam> "Wagga Tigers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horiliy> <http://dbpedia.org/ontology/wikiPageModified> "2012-07-02T01:09:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Benjamin_Franklin_Yoakum__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Role> .
+<http://dbpedia.org/resource/De_Zwaluw,_Burdaard> <http://dbpedia.org/property/sawType> "Frame saw with vertical blades"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/othernames> <http://www.w3.org/2000/01/rdf-schema#label> "OtherNames"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ch?jabaru_Station> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Ch?jabaru_Station&action=edit> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Volodymyr_Horily__2> .
+<http://dbpedia.org/resource/Miguel_Angel_Lavi%C3%A9_da_Cunda> <http://xmlns.com/foaf/0.1/name> "Lavie da Cunda, Miguel Angel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Volodymyr_Horily__7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Volodymyr_Horily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Joseph_Diescho> <http://dbpedia.org/ontology/wikiPageModified> "2014-03-30T04:18:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+# completed 2014-10-02T19:02:18Z

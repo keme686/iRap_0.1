@@ -1,0 +1,1050 @@
+# started 2014-10-02T19:01:53Z
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Hunkytonk"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Lily Marks"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Fleur Delacour, The Basilisk, Albus Scarfy Potter, Spider"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/scenic> "Lisa Griebel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/joinedFiba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/populationDensityKm> "auto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Sami Reese"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:AndhraPradesh-geo-stub> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_I> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/property/location> <http://dbpedia.org/resource/Andhra_Pradesh> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://en.wikipedia.org/wiki/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Seaphoto> .
+<http://en.wikipedia.org/wiki/Ischnocampa_lugubris> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/latns> "N"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/Work/runtime> "53.28333333333333"^^<http://dbpedia.org/datatype/minute> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://dbpedia.org/ontology/wikiPageModified> "2012-06-26T05:26:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_P> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageLength> "1436"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Mineral_Point_Zinc_Company> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://xmlns.com/foaf/0.1/name> "Taqiabad"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Nico Ager"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__1> <http://dbpedia.org/ontology/years> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__2> <http://dbpedia.org/ontology/numberOfGoals> "3"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/released> "1993-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Tiffany, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Joe Walker"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1836> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageOutDegree> "12"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/wikiPageLength> "10542"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_T> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Gorgeous_(808_State_album)> .
+<http://dbpedia.org/resource/Indiana_jones_dance_giants> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/costume> "Corey Lubowich"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/property/motto> "Chochma U'Mussar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/action> <http://www.w3.org/2000/01/rdf-schema#label> "action"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-01T06:35:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/editing> "Scot J. Kelly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/-e?ti> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salehurst> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox UK place Salehurst is a village in the Rother District of East Sussex, England, within the civil parish of Salehurst and Robertsbridge."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/executiveProducer> "* Pete Tartaglia\n* Amy Palmer Robertson"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=House_of_Frankenstein_(1997_film)&oldid=612637761> .
+<http://dbpedia.org/resource/List_of_lakes_in_the_Yukon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/ontology/abstract> "The Moldavian national basketball team is the basketball side that represents Moldova in international competitions."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/lastAlbum> "Gorgeous"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/name> "Gong, Zhen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_Y> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/hmb> <http://www.w3.org/2000/01/rdf-schema#label> "HMB"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Forecast_(album)&oldid=504064857> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/nationalcompetition> <http://www.w3.org/2000/01/rdf-schema#label> "nationalcompetition"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Ruigeroeland> <http://dbpedia.org/meta/contributorID> "1294969"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "Chuck Criss, Darren Criss, Mark Swiderski"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/postalCodeType> "Zip code"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/South_Harbour,_Nova_Scotia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/writer> "Matt Lang, Nick Lang, Eric Kahn Gale"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/Person/height> "185.0"^^<http://dbpedia.org/datatype/centimetre> .
+<http://dbpedia.org/property/designDate> <http://www.w3.org/2000/01/rdf-schema#label> "design date"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/DISA_(company)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/C919> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/us> <http://www.w3.org/2000/01/rdf-schema#label> "US"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/joinedFiba> <http://www.w3.org/2000/01/rdf-schema#label> "joined fiba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Zack"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__1> <http://dbpedia.org/ontology/numberOfMatches> "65"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/scenic> "Jama McMahon, Emily Thomas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Colin Creevey, Wizard Cop, Percy Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/thisAlbum> "Forecast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageOutDegree> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/Aroon_Clansey> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/ChrisGualtieri> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/title> "No Shame in My Game"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ani> "Grand Moff Tarkin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Enin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-17T17:56:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sinai_College> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/property/artists> <http://www.w3.org/2000/01/rdf-schema#label> "artists"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Filthy_Rich_(comics)> <http://dbpedia.org/property/caption> "Cover by Lee Bermejo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/costume> "Brian Holden, Matt Lang, Nick Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/NYAF> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tom_Hill_(footballer)__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Bonnie Gruesen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salehurst> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/avpm> <http://www.w3.org/2000/01/rdf-schema#label> "AVPM"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Menippus_or_the_Descent_into_Hades> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://dbpedia.org/ontology/wikiPageRevisionID> "591539473"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Hmainsbot1> <http://dbpedia.org/meta/contributorID> "16853007"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T09:22:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/property/name> "Sinai College"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://dbpedia.org/ontology/wikiPageLength> "1237"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954433"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/New_Caledonian_crows> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_G> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/rate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/ontology/wikiPageOutDegree> "4"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Sr?an_?ukanovi?__3> .
+<http://dbpedia.org/property/designDate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/scenic> "Corey Lubowich"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:07:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/shortDescription> "Ukrainian model"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Greenwood,_British_Columbia&oldid=607954433> .
+<http://dbpedia.org/contributor/Sawi-jagung> <http://www.w3.org/2000/01/rdf-schema#label> "Sawi-jagung"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Roach, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_J> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Archdeaconry_of_Oxford> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/List_of_Archdeacons_of_Oxford> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_Z> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_African_American_mathematicians> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Filthy_Rich_(comics)> <http://dbpedia.org/property/publisher> "Vertigo Crime"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ani> "Ani, Darth Vader"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/leaderName> "Greenwood City Council - Colleen Lang, Lee Cudworth, Barry Noll, Darla Ashton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/title> "Don't Tell Pam"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Nearly Headless Nick, Severus Snape"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/ontology/wikiPageModified> "2013-06-19T12:24:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/4-color_theorem> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:ZTT_Records_albums> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/starring> "* Pamela McGee\n* JaVale McGee"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/adirector> <http://www.w3.org/2000/01/rdf-schema#label> "adirector"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/property/religion> "Jewish"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Media_contacts_database> <http://dbpedia.org/ontology/wikiPageRevisionID> "565646230"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_African_American_visual_artists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Forecast_(album)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Hmainsbot1> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "The Sultan, The Djinn, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/producer> "Michael R. Joyce"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Boolarra> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/La_Solitaria_Island> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://xmlns.com/foaf/0.1/surname> "Gong"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/KMGW> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Nevrax> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/ChrisGualtieri> <http://www.w3.org/2000/01/rdf-schema#label> "ChrisGualtieri"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Fortdj33> <http://www.w3.org/2000/01/rdf-schema#label> "Fortdj33"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Beverford> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Seaphoto> <http://www.w3.org/2000/01/rdf-schema#label> "Seaphoto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/IC_assembly> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/company> "* Richard Devinki Productions\n* Pierre Entertainment\n* Sony Pictures Television"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_S> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Archdeacon_of_Oxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Richard Campbell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:SocialPerson> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/logoWidth> "120"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Hmains> <http://dbpedia.org/meta/contributorID> "508734"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/ontology/wikiPageModified> "2014-07-29T13:29:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Dick"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://dbpedia.org/ontology/wikiPageLength> "941"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Thai_Gulf> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Alex Paul"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Lauren Lopez"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Archdeaconry_of_Oxford> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Charles_Matthews> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/writer> "Matt Lang, Nick Lang, Brian Holden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Jim Povolo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Charles_Matthews> <http://dbpedia.org/meta/contributorID> "12978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "The Overqueen, Sweetheart Mosquito, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/ontology/wikiPageLength> "7058"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Mrs. Cole"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "The Old Snatch"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "A.J. Holmes, Kaley McMahon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/birthPlace> "Leninsky city-district, Dnipropetrovsk, Ukrainian SSR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/B.B._Seaton> <http://xmlns.com/foaf/0.1/name> "B.B. Seaton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Hans_R%C3%B8sjorde> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salehurst> <http://dbpedia.org/ontology/abstract> "Template:Infobox UK place Salehurst is a village in the Rother District of East Sussex, England, within the civil parish of Salehurst and Robertsbridge. It lies immediately to the north-east of the larger village of Robertsbridge, on a minor road; it is approximately thirteen miles (20.8 km) north of Hastings, just east of the A21 road.In historical terms Salehurst is much older than its neighbour; before the bridge over the River Rother was built it already existed, and it is named in the Domesday Book. At the time the river crossing was by ford or ferry, but in the 12th century a newly established order of Cistercian monks constructed the bridge, and the two settlements of Robertsbridge and Northbridge Street came into being; eventually - since the main road now bypassed the village - becoming much more important than Salehurst.Salehurst lies approximately three miles from Bodiam, Sussex, site of Bodiam Castle. One owner of Bodiam Castle was the Levett family, who lived at Salehurst during their 'occupation' of the castle. In 1588 John Levett of Salehurst contributed to the Armada loan, and in 1607 his sons John and Thomas of Salehurst were regranted by the College of Arms their right to the Levett coat of arms issued to their Sussex ancestors.The parish church is dedicated to St Mary the Virgin. It is reputed to be the largest rural parish church in East Sussex. Rev. John Lord (1614–81) was rector from 1640 until his death. In 1937 his descendants donated to the church a portrait of him which had been owned by the family for generations."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://xmlns.com/foaf/0.1/name> "Gong, Zhen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Flopsy, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ficus_palmata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Valania> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lighting> "Sarah Petty"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Techno_music> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/tto> "The Grandfather"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Ruigeroeland> <http://www.w3.org/2000/01/rdf-schema#label> "Ruigeroeland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "Clark Baxtresser, Pierce Siebers, A.J. Holmes, Darren Criss"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/MoohanBOT> <http://www.w3.org/2000/01/rdf-schema#label> "MoohanBOT"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://xmlns.com/foaf/0.1/name> "Djukanovic, Srdjan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_nonfiction_writers> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/lastMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Tony_Orlando_&_Dawn_(group)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/DISA_(company)> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.disagroup.com/us/sites/disa/content/about_us/history.aspx> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/writer> "Matt Lang, Nick Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/ZTT_Records> .
+<http://dbpedia.org/contributor/Khazar2> <http://dbpedia.org/meta/contributorID> "16460235"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Schinia_crotchii> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Windows_Cardspace> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/wcAppearances> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/zoneAppearances> "None"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Airbus_A400> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FK_Vrbas> .
+<http://dbpedia.org/resource/Palair_Lake> <http://xmlns.com/foaf/0.1/name> "Palair lake"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Corey Dorris"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Disgorge> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-24T19:47:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-23T09:58:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/zoneAppearances> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/nextAlbum> "''State to State"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Andhra_Pradesh> .
+<http://dbpedia.org/resource/Phrynobatrachus_cricogaster> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/property/shortDescription> "Association football player"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/affiliations> "University of Michigan, Basement Arts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/settlementType> "City"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Elona Finlay"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "A Very Potter Sequel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/s> "??"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Tom_Hill_(footballer)> <http://xmlns.com/foaf/0.1/name> "Tom Hill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/B.B._Seaton> <http://dbpedia.org/ontology/alias> "B. B. Seaton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Electronica> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Robin, Barack Obama, Mobster"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/LEBO> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aneiki> <http://xmlns.com/foaf/0.1/name> "Aneiki"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Trinity_Classical_School_(Houston,_TX)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Lily Potter, Mary Riddle, Fred Weasley, Hannah Abbott, Spider"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Forecast_(album)&action=edit> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://www.w3.org/2000/01/rdf-schema#label> "Archdeacon of Oxford"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_O> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T06:49:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kabul_international> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/action> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/ontology/abstract> "StarKid Productions, also known as Team StarKid, and StarkidPotter, is a Chicago-based musical theatre company founded in 2009 at the University of Michigan by Darren Criss, Brian Holden, Matt Lang, and Nick Lang. Best known for the musical A Very Potter Musical, a parody of the Harry Potter series, the troupe produces musical-comedies inspired by pop culture, with original scripts, songs, and music. StarKid use social media for theatrical distribution, to make their productions accessible to a worldwide audience.StarKid's repertoire additionally consists of albums, concerts, web series, sketch comedies, and books. The company's album Me and My Dick, featuring original songs and music, became the first charting student-produced musical recording on Billboard, debuting at #11 on the “Top Cast Albums\" chart in 2010; the following year they landed at #1 on the same chart with Starship, another original album."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/caliber> <http://www.w3.org/2000/01/rdf-schema#label> "caliber"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Ginny Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Index_of_African-American-related_articles> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Barton_Holiday> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Memory_Lane_(1929_film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Isanthrene_vespiformis> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Nick Gage"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/2000/01/rdf-schema#comment> "Forecast is an album by electronic music group 808 State which was released in 1993, exclusively in Japan. The album contains a collection of b-sides and remixes from the Gorgeous era."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gelonians> <http://dbpedia.org/ontology/wikiPageRevisionID> "608638834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "February, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/homeVenue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/name> "Prebuild"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/title> "House of Frankenstein 1997"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electronica> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Molly Weasley, Pansy Parkinson"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lighting> "Max Kaufman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lavash_Island> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Arthur Weasley, Sorty, Scarfy, Damian"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/MoohanBOT> <http://dbpedia.org/meta/contributorID> "19224014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://en.wikipedia.org/wiki/Archdeacon_of_Oxford> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Charles_Matthews> .
+<http://dbpedia.org/resource/Northerns_cricket_team_(Zimbabwe)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "Darren Criss"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/GANGgajang> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/List_of_Privy_Counsellors_(1837%E2%80%931901)> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-08T10:12:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bannerton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Robert Manion"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_ciliata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/African_American_Civil_Rights_Movement_(1896%E2%80%931954)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lighting> "Mary Clare Blake-Booth"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_astronauts> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sushant_Sing_Rajput> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Weenie, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Seamus Finnigan, James Potter, Past Ron, King's Cross Guard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Leon_Schlumpf> <http://xmlns.com/foaf/0.1/name> "Schlumpf, Leon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://xmlns.com/foaf/0.1/name> "Greenwood"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Miss Cooter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Draco Malfoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/N%C3%A6stved_Municipality> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/lighting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageModified> "2012-07-25T05:07:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ryzom_mmorpg> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ryzom_Role_play> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arthurs_Creek> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tajarhi> <http://dbpedia.org/ontology/wikiPageRevisionID> "545723634"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/property/olyAppearances> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isauria_dilucidella&oldid=614071527> .
+<http://dbpedia.org/property/feed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Evil Sherlock Holmes, Sluggers, Citizen, Storekeeper, Plastic Man"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__5> <http://dbpedia.org/ontology/numberOfMatches> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Privy_Counsellors_(1837%E2%80%931901)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_Privy_Counsellors_(1837–1901)&oldid=612061539> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/mapCaption> "Location of Greenwood in British Columbia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_officeholders_during_Reconstruction> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/property/type> "Submachine gun"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://en.wikipedia.org/wiki/List_of_Privy_Counsellors_(1837–1901)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/BrownHairedGirl> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/alias> "?ukanovi?, Sr?an; Djukanovi?, Srdjan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Moor_Hall_Primary_School&oldid=603719960> .
+<http://dbpedia.org/resource/Archdeaconry_of_Oxford> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T06:50:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Gong_Zhen&oldid=560597882> .
+<http://dbpedia.org/resource/Tina_Faichnie> <http://xmlns.com/foaf/0.1/name> "Faichnie, Tina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/releaseDate> "1993-05-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Theil_index> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954502"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Chinese_flora> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/American_journal_of_emergency_medicine> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/property/principal> "Andrea Bowden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/writer> "Chris Allen, Eric Kahn Gale, Matt Lang, Nick Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "The Caller Bug, Mister Bug, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/label> "ZTT Records"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Passaporto_Italiano> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/abstract> "Template:Infobox settlementGreenwood (2011 population 708) is a city in south central British Columbia. It was incorporated in 1897 and was formerly one of the principal cities of the Boundary Country smelting and mining district. It was incorporated as a City originally and has retained that title despite the population decline following the closure of the area's industries. \"Canada's Smallest City\" is located along Highway 3 near Rock Creek and Grand Forks.The town is served by Greenwood Elementary School which covers grades from 4-7. Students attend Midway Elementary School for grades from K-3. Following grade 7 local students attend Boundary Central Secondary School in nearby Midway.In 1942, 1200 Japanese Canadians were sent to Greenwood as part of the Japanese Canadian internment."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Media_contacts_database> <http://dbpedia.org/ontology/wikiPageLength> "1724"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/recorded> "1992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://en.wikipedia.org/wiki/Isauria_dilucidella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Yobot> .
+<http://dbpedia.org/resource/-e?ti> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=-e?ti&action=history> .
+<http://dbpedia.org/resource/Highlander_methos> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__4> <http://dbpedia.org/ontology/numberOfMatches> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Seamus Finnigan, James Potter, Quirinus Quirrell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=StarKid_Productions&oldid=618970308> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/ontology/wikiPageOutDegree> "35"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Superman/Clark Kent, Evil Huckleberry Finn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/coordinatesRegion> "CA-BC"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Privy_Counsellors_(1837%E2%80%931901)> <http://dbpedia.org/ontology/wikiPageLength> "75093"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_cupes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Media_contacts_database> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Media_contacts_database&oldid=565646230> .
+<http://dbpedia.org/resource/Royal_Philatelic_Society> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Comic_jumper> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Cho Chang, Charlie Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Overheard_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ch%C3%BCy_Province> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salehurst> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1857> .
+<http://dbpedia.org/resource/Gelonians> <http://dbpedia.org/ontology/wikiPageLength> "4941"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Antanas_Pocius_(1913%E2%80%931983)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "The Riddler, Rachel Dawes, TGI Fridays Worker, Chase Meridian, Wonder Woman, Hostage"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Book_XI_of_the_Odyssey> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_V> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Theil_index> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:51:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/lastAlbum> "Outpost Transmission"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Specs, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mangarongaro> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://xmlns.com/foaf/0.1/name> "Clansey, Aroon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:For> .
+<http://dbpedia.org/resource/Leon_Schlumpf> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tajarhi> <http://xmlns.com/foaf/0.1/name> "Tajarhi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "The Princess"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Billy_Ponting> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Josiah_William_Bailey> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> .
+<http://dbpedia.org/resource/Salehurst> <http://xmlns.com/foaf/0.1/name> "Salehurst"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__3> <http://dbpedia.org/ontology/numberOfMatches> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://xmlns.com/foaf/0.1/name> "Forecast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/C21H15N3O3S3> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/fibaZone> "FIBA Europe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jet_Airways_Konnect> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__4> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/lastMatch> <http://www.w3.org/2000/01/rdf-schema#label> "last match"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Brian Holden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/country> "U.S."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "A Very Potter Senior Year"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Sr?an_?ukanovi?__1> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Vincent Crabbe, Percy Weasley, Candy Lady"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bambill> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Rita Skeeter, Ginny Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeaconry_of_Oxford> <http://dbpedia.org/ontology/wikiPageRevisionID> "312543631"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Duder Reece"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tajarhi> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Tajarhi&oldid=545723634> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Walthamstow_Art_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_African_American_Republicans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Word-of-web> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/chgraphy> "James Tolbert, Joe Moses"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Archdeacon_of_Oxford&oldid=312543549> .
+<http://dbpedia.org/resource/Amalickiahites> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/longew> "W"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Addbot> <http://dbpedia.org/meta/contributorID> "6569922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Botanischer_Garten_Chemnitz> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Jim Povolo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Nicholas Joseph Strauss-Matathia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Prebuild> <http://xmlns.com/foaf/0.1/name> "Prebuild"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tajarhi> <http://dbpedia.org/ontology/abstract> "Template:Infobox settlement Tajarhi, Tegerhi or Tajirhi (Arabic: ??????) is an oasis and crossroads village in the Murzuq District of Libya. It lies in the Sahara desert and is the last refueling point in Libya before reaching Madama, the Niger frontier station, some 282 kilometers to the south, or 361 km by track. Tajarhi has an airstrip (HL-57) south of town."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tina_Faichnie> <http://xmlns.com/foaf/0.1/name> "Tina Faichnie"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/adirector> "Nick Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Christian_Valentin_Muscalu> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Tom Riddle/Lord Voldemort"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "Nick Gage, Scott Lamps"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Rachael Soglin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Timothy_Godwin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://xmlns.com/foaf/0.1/name> "Moor Hall Primary School"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://dbpedia.org/ontology/wikiPageLength> "2765"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Green Lantern, Narrator, Mobster, Scarecrow, Construction Worker, Egghead, Gob"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/property/birthPlace> "Auckland, New Zealand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/property/isRanged> "YES"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:08:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Lakes_of_Andhra_Pradesh> .
+<http://dbpedia.org/property/zoneChampionship> <http://www.w3.org/2000/01/rdf-schema#label> "zone championship"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Flagicon> .
+<http://dbpedia.org/property/ani> <http://www.w3.org/2000/01/rdf-schema#label> "ANI"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://dbpedia.org/ontology/wikiPageRevisionID> "614071527"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mang%E2%80%98it,_Uzbekistan> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "Darren Criss, A.J. Holmes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Aroon_Clansey__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://en.wikipedia.org/wiki/Archdeacon_of_Oxford> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Archdeacon_of_Oxford> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/type> "Studio album"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Joey's Heart"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/African_American_literature> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/David_Clarke_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/cover> "808"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Lavender Brown, George Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Poison Ivy, Candy, Gangster, The Flash"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_navarra> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/chgraphy> "Denise Donovan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Hararanga> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/B.B._Seaton> <http://xmlns.com/foaf/0.1/name> "Harris Lloyd Seaton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Titov_Vrbas> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Rick, The Kid That Hates Joey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Trichosellus_cupes> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/contributor/Yobot> <http://www.w3.org/2000/01/rdf-schema#label> "Yobot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tina_Faichnie> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Albus Dumbledore/Man with the Beard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/tto> "The Mother"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Alle-Faye Monka"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Addbot> <http://www.w3.org/2000/01/rdf-schema#label> "Addbot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/chgraphy> "Katie Spelman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/chgraphy> <http://www.w3.org/2000/01/rdf-schema#label> "chgraphy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Anders_Christian_Sjaastad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/director> "Matt Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Sawi-jagung> <http://dbpedia.org/meta/contributorID> "20964080"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/director> "Matt Lang, Nick Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T08:53:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mid-Century_Modern> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://xmlns.com/foaf/0.1/name> "Aroon Belinda Clansey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/isRanged> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Archdeacon_of_Oxford> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/title> "Amazonian Discombobulation"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/wcAppearances> "None"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Jeff Blim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Clyse> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://xmlns.com/foaf/0.1/name> "Aroon Clansey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "[Cameo]"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Vanessa, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lift_Ev'ry_Voice_and_Sing> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/name> "??????? ???????????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_obliqua> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Acid_House> .
+<http://dbpedia.org/resource/Boletus_betulicola> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Palair_Lake&oldid=575060600> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:808_State_albums> .
+<http://en.wikipedia.org/wiki/Ischnocampa_mamona> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "Me and My Dick"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/-e?ti> <http://dbpedia.org/ontology/wikiPageModified> "2013-02-10T04:01:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chinese_Flora> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Schinia_cupes> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/tto> "The Father"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/distributor> "Sony Pictures Television"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-18T06:47:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/African_American_music> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/placeOfBirth> "Jiangsu, China"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/writer> "Matt Lang, Nick Lang, Brian Holden, Eric Kahn Gale"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/title> "Successful, Sexy Singles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/fibaRanking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q215627> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Taz, Buggette Buggington, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://xmlns.com/foaf/0.1/name> "Sr?an ?ukanovi?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Nick Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tajarhi> <http://dbpedia.org/ontology/wikiPageModified> "2013-03-20T17:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://xmlns.com/foaf/0.1/name> "StarKid Productions"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov> <http://xmlns.com/foaf/0.1/name> "Andrei Kurdyumov"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/leaderTitle> "Governing body"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "Starship"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Globe_Theatre,_Boston_(1871)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Baarmutha> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/rate> <http://www.w3.org/2000/01/rdf-schema#label> "rate"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Moor_Hall_Primary_School> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/MoohanBOT> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/property/name> "Aroon Clansey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Archdeacon_of_Oxford&action=history> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://www.w3.org/2000/01/rdf-schema#comment> "StarKid Productions, also known as Team StarKid, and StarkidPotter, is a Chicago-based musical theatre company founded in 2009 at the University of Michigan by Darren Criss, Brian Holden, Matt Lang, and Nick Lang. Best known for the musical A Very Potter Musical, a parody of the Harry Potter series, the troupe produces musical-comedies inspired by pop culture, with original scripts, songs, and music."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jessie_ripoll_primary> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/p> "x?yáng f?n guó zhì"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Looney_Tunes_television_specials> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_Looney_Tunes_television_specials&oldid=607954444> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/type> "Studio album"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Moldova_national_basketball_team&oldid=607954406> .
+<http://dbpedia.org/resource/Kentro_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Charles_Matthews> <http://www.w3.org/2000/01/rdf-schema#label> "Charles Matthews"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Trofeo_Joan_Gamper> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Boigbeat> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Gregory Goyle, Firenze, Bill Weasley, Past Draco"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__5> <http://dbpedia.org/ontology/years> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/List_of_Archdeacons_of_Oxford> .
+<http://dbpedia.org/resource/B.B._Seaton> <http://xmlns.com/foaf/0.1/givenName> "Harris Lloyd Seaton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Agent> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox settlement Taqiabad (Persian: ??? ?????, also Romanized as Taq??b?d) is a village in Takht-e Jolgeh Rural District, in the Central District of Firuzeh County, Razavi Khorasan Province, Iran. At the 2006 census, its population was 832, in 218 families."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/leaderTitle> "Mayor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Neville Longbottom, Frank Longbottom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Kathryn_McCurry> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://dbpedia.org/ontology/wikiPageLength> "1268"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/olyAppearances> <http://www.w3.org/2000/01/rdf-schema#label> "oly appearances"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/length> "3197.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ficus_palmata> <http://xmlns.com/foaf/0.1/name> "Ficus palmata"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/zoneChampionship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "Monkey, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/music> "A.J. Holmes, Carlos Valdes, Darren Criss"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oddrun_K._H._Pettersen> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://dbpedia.org/ontology/wikiPageRevisionID> "591539148"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Bellatrix Lestrange, Dean Thomas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:1990s-electronic-album-stub> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1892> .
+<http://dbpedia.org/resource/Tom_Hill_(footballer)> <http://xmlns.com/foaf/0.1/name> "Hill, Tom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/ontology/wikiPageLength> "6864"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/ontology/wikiPageLength> "32119"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_African_American_United_States_presidential_and_vice_presidential_candidates> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/chgraphy> "Britney Coleman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/country> "United States"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/wikiPageModified> "2013-09-29T22:28:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Sr?an_?ukanovi?&action=edit> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_R> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/abstract> "Palair Lake is a man made lake and a major source of freshwater in the Khammam district of Andhra Pradesh, India. It is located at the Palair village in Kusumanchi mandal of the district and is about 30 kilometers away from the district headquarters of Khammam. The lake is a balancing reservoir for the Lal Bahadur Canal, a left bank canal of the Nagarjuna Sagar project. Covering an area of 1748 hectares, the lake has a storage capacity of 2.5 TMC of water. The lake is an important tourist attraction in the district and water based adventure sports and recreational facilities have been provided at the lake in recent years to develop it as a tourist site."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Eric Kahn Gale"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox settlementGreenwood (2011 population 708) is a city in south central British Columbia. It was incorporated in 1897 and was formerly one of the principal cities of the Boundary Country smelting and mining district. It was incorporated as a City originally and has retained that title despite the population decline following the closure of the area's industries."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tajarhi> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox settlement Tajarhi, Tegerhi or Tajirhi (Arabic: ??????) is an oasis and crossroads village in the Murzuq District of Libya. It lies in the Sahara desert and is the last refueling point in Libya before reaching Madama, the Niger frontier station, some 282 kilometers to the south, or 361 km by track. Tajarhi has an airstrip (HL-57) south of town."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dunns_Creek_Nsw> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/birthDate> "1980-11-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/property/us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Pat Brady"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Chris Allen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/property/chaplain> "Rabbi Levi Jaffe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Filthy_Rich_(comics)> <http://dbpedia.org/property/title> "Filthy Rich"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Forecast_(album)> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Forecast_(album)> .
+<http://dbpedia.org/resource/Advertising_education> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://xmlns.com/foaf/0.1/homepage> <http://www.oprah.com/own-moms-got-game/moms-got-game.html> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Bill Weasley, Gregory Goyle, Rumbleroar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Joey Richter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Looney_Tunes_television_specials> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:51:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__5> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Big_Bull_Radni?ki> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Beaconsfield_Upper> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/showName> "Mom's Got Game"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sinai_College> <http://xmlns.com/foaf/0.1/name> "Sinai College"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ssr> "Mega-Girl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tajarhi> <http://xmlns.com/foaf/0.1/name> "?????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/cinematography> "Neil Roach"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/leaderTitle> "Mayor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_abolitionists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Lavender Brown, George Weasley, Spider, Wang Mu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Madam Pomfrey, The Grey Lady, Spider"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Ali Gordon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Looney_Tunes_television_specials> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__2> <http://dbpedia.org/ontology/numberOfMatches> "71"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Theil_index> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Theil_index&oldid=607954502> .
+<http://dbpedia.org/property/avps> <http://www.w3.org/2000/01/rdf-schema#label> "AVPS"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gohar_Mumtaz_(singer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "Little White Lie"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Anders_Sjaastad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/fibaZone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/State_to_State> .
+<http://dbpedia.org/contributor/ChrisGualtieri> <http://dbpedia.org/meta/contributorID> "16333418"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pantry_car> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Phrynobatrachus_cryptotis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/ontology/wikiPageRevisionID> "562489767"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpm> "Gregory Goyle, Rumbleroar"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/DISA_(company)> <http://dbpedia.org/ontology/wikiPageModified> "2013-03-11T05:12:36Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Socialist_Resistance_(Russia)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_A> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_E> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_a_number> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/DISA_(company)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=DISA_(company)&oldid=543348701> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Forecast_(album)> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Mladost_Apatin> .
+<http://dbpedia.org/resource/Botanischer_Garten_der_Stadt_Chemnitz> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/language> "English"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taqiabad,_Firuzeh&oldid=499398487> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Julia Albain"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.wikidata.org/entity/Q5> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "Bird, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Mega-Girl, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_D> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/name> "House of Frankenstein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Nomenclator_(nomenclature)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageID> "24269739"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_Q> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Book_VI_of_the_Aeneid> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/ontology/wikiPageRevisionID> "618970308"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Wheel_Cactus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_celer&oldid=591536966> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Tyler Brunsman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_H> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/establishedTitle> "Incorporated"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/High_Toryism> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Matt Lang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Junior, Veeto Mosquito, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/FlowMon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Yobot> <http://dbpedia.org/meta/contributorID> "7328338"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Agent> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/name> "Tulchevska, Evgeniya"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FK_Big_Bull_Radni?ki> .
+<http://dbpedia.org/resource/Schinia_ciliata> <http://xmlns.com/foaf/0.1/name> "Schinia ciliata"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Windows_games> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/property/fibaZone> <http://www.w3.org/2000/01/rdf-schema#label> "fiba zone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_X> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gandhinagar_Notified_Area(G.N.A)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Isanthrene_vespiformis&oldid=591534882> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_F> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/ontology/wikiPageRevisionID> "437129097"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sea-air-rescue> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Dragon_Ball_episodes_(series)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/ontology/wikiPageLength> "2625"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ssr> "N/A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Sally's Heart, High Council Pussy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_South_African_Americans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/feed> <http://www.w3.org/2000/01/rdf-schema#label> "feed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Geography_of_Assam> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/ontology/wikiPageRevisionID> "612637761"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "[Cameo]"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/B.B._Seaton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__1> <http://dbpedia.org/ontology/numberOfGoals> "15"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gelonians> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-15T03:26:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/twst> <http://www.w3.org/2000/01/rdf-schema#label> "TWST"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "Prince Achmed, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageLength> "43"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Mona_Scobie_R%C3%B8kke> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Meredith Stepien"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:08:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Mr. Freeze, Matches, Hawkman, Photoshop Downloader, Joe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Notiocampus_ruber> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:SocialPerson> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox UK placeSalcombe Regis is a coastal village in Devon, England, near Sidmouth. Mentioned in the Domesday Book as \"a manor called Selcoma\" held by Osbern FitzOsbern, bishop of Exeter, the manor house stood on the site now occupied by Thorn Farm. The thorn tree growing in an enclosure at the road junction above the farm marked the cultivation boundary between manor and common ground.The church of St Peter was built circa 1107 and restored in 1845."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://xmlns.com/foaf/0.1/name> "Zhen Gong"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/imageSkyline> "Greenwood_BC_Roman_Catholic_Sacred_Heart_Chuch.JPG"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Xo%E2%80%99jayli> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/lighting> <http://www.w3.org/2000/01/rdf-schema#label> "lighting"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Gong_Zhen> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Khazar2> .
+<http://dbpedia.org/resource/Ada-Borup_Secondary_School_(Minnesota)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/property/placeOfBirth> "Auckland, New Zealand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Tanya Freemont"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_U> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/fibaRanking> <http://www.w3.org/2000/01/rdf-schema#label> "fiba ranking"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Malvidin-3-glucoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Te_Pitaka> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/2000/01/rdf-schema#label> "Forecast (album)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Prebuild&oldid=437129097> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ani> "The Emperor/Pappy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Opuntia_robusta> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/property/name> "Lettet Forsøgs-maskinpistol"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/subdivisionType> "Country"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/ssr> <http://www.w3.org/2000/01/rdf-schema#label> "SSR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Brian Rosenthal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Archies_Creek> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/ontology/wikiPageRevisionID> "560597882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Clifton_College_Preparatory_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/avpsy> <http://www.w3.org/2000/01/rdf-schema#label> "AVPSY"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/-e?ti> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=-e?ti&oldid=537488613> .
+<http://dbpedia.org/property/sights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Acid_House> .
+<http://dbpedia.org/resource/Rodrigo_Pimpao> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/BattyBot> <http://dbpedia.org/meta/contributorID> "15996738"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Media_contacts_database> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/hairColor> "blond-brown"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/isRanged> <http://www.w3.org/2000/01/rdf-schema#label> "is ranged"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Foley_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tension_(video_game)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-01T19:35:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Gelonians> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Hmains> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/wikiPageModified> "2014-04-11T09:13:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Anetode> <http://dbpedia.org/meta/contributorID> "320497"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_B> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-30T19:58:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-30T15:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/BattyBot> <http://www.w3.org/2000/01/rdf-schema#label> "BattyBot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://xmlns.com/foaf/0.1/name> "City of Greenwood"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Mom’s_Got_Game&oldid=607954515> .
+<http://dbpedia.org/resource/Bretagne_(metropolitan_region)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/nationalcompetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/artists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Fort_Wayne_News_and_Sentinel> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/South_Harbour,_Nova_Scotia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://purl.org/dc/elements/1.1/description> "footballer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Filthy_Rich_(comics)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tom_Hill_(footballer)> <http://xmlns.com/foaf/0.1/name> "Thomas Hill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Sr?an_?ukanovi?&action=history> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/-e?ti> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=-e?ti&action=edit> .
+<http://dbpedia.org/resource/Theil_index> <http://dbpedia.org/ontology/wikiPageLength> "9570"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/homeVenue> <http://www.w3.org/2000/01/rdf-schema#label> "home venue"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/caliber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Schinia_ciliata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Schinia_diffusa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Birdwoodton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Sr?an_?ukanovi?__4> .
+<http://dbpedia.org/resource/Media_contacts_database> <http://dbpedia.org/ontology/wikiPageModified> "2013-07-24T18:25:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Forecast_(album)> <http://purl.org/dc/elements/1.1/language> "en"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Vicki Vale, Evil Mother Goose, Zatanna, Martha Wayne"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Hmainsbot1> <http://www.w3.org/2000/01/rdf-schema#label> "Hmainsbot1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Harry Potter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/director> "Eric Kahn Gale"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://dbpedia.org/ontology/wikiPageRevisionID> "499398487"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/title> "Kitty Kitty Free Time"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Kiss-in> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/adirector> "Nick Lang, Brian Holden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_SUN> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Angelica_Zawadzki> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Albus Dumbledore"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dandanatha> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_C> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Malvidin_3-O-glucoside> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salehurst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/costume> "June Saito"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Sally"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Molly Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/lwl> <http://www.w3.org/2000/01/rdf-schema#label> "LWL"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Balanaea> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Devin_Moore_(murderer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://xmlns.com/foaf/0.1/name> "??????? ???????????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://dbpedia.org/ontology/wikiPageRevisionID> "591534882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/property/grades> "Prep-Year 7"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/t> "?????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/property/service> "Circa 1939-1950"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Potato_Chips> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Sr?an_?ukanovi?__2> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_album> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/ontology/wikiPageModified> "2011-06-30T22:35:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Theil_index> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Sawi-jagung> .
+<http://dbpedia.org/resource/Cranial_cruciate_ligament> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "Holy Musical B@man!"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageID> "24270028"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/viewers> "(N/A)"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/shortDescription> "Chinese admiral"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/partLength> <http://www.w3.org/2000/01/rdf-schema#label> "part length"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Botanischer_Garten_Chemnitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Theil_index> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/wikiPageRevisionID> "603719960"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Hermione Granger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_obliqua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Techno_music> .
+<http://en.wikipedia.org/wiki/Palair_Lake> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/BattyBot> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FK_Cement_Beo?in> .
+<http://dbpedia.org/resource/Comac_919> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:52:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-03-15T10:06:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Ischnocampa_celer> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ruigeroeland> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Airborne_Early_Warning_and_Control> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://www.w3.org/2000/01/rdf-schema#comment> "Palair Lake is a man made lake and a major source of freshwater in the Khammam district of Andhra Pradesh, India. It is located at the Palair village in Kusumanchi mandal of the district and is about 30 kilometers away from the district headquarters of Khammam. The lake is a balancing reservoir for the Lal Bahadur Canal, a left bank canal of the Nagarjuna Sagar project. Covering an area of 1748 hectares, the lake has a storage capacity of 2.5 TMC of water."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Fortdj33> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "The Captain of the Guards, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Barnawartha> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/country> "Moldova"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeaconry_of_Oxford> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Kevin Bushwald"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Caudal_cruciate_ligament> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/sights> <http://www.w3.org/2000/01/rdf-schema#label> "sights"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Meredith"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Harry Potter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/birthYear> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Tajarhi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/name> "StarKid Productions"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/DISA_(company)> <http://dbpedia.org/ontology/wikiPageLength> "727"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Catwoman, Pizza Guy, Black Canary"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Rubeus Hagrid, The Basilisk, Remus Lupin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/t> "??"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ryzom_RPG> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/officialName> "City of Greenwood"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/name> "Forecast"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__2> <http://dbpedia.org/ontology/years> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://dbpedia.org/ontology/abstract> "Template:Infobox UK placeSalcombe Regis is a coastal village in Devon, England, near Sidmouth. Mentioned in the Domesday Book as \"a manor called Selcoma\" held by Osbern FitzOsbern, bishop of Exeter, the manor house stood on the site now occupied by Thorn Farm. The thorn tree growing in an enclosure at the road junction above the farm marked the cultivation boundary between manor and common ground.The church of St Peter was built circa 1107 and restored in 1845. It contains monuments to Sir Ambrose Fleming and Sir Norman Lockyer."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/tto> "N/A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gelonians> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Gelonians&oldid=608638834> .
+<http://dbpedia.org/resource/Jean_Toussaint_de_la_Pierre,_Marquis_de_Fr%C3%A9meur> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Archdeaconry_of_Oxford> <http://dbpedia.org/ontology/wikiPageLength> "43"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/wikiPageOutDegree> "51"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/List_of_Looney_Tunes_television_specials> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954444"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ming_Dynasty_writers> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__3> <http://dbpedia.org/ontology/years> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/This_warm_december> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/lwl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Sweet Tooth, Aquaman, Joe Chill"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Fortdj33> <http://dbpedia.org/meta/contributorID> "9056972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/tto> "The Daughter"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Wizard Cop"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Midfielder_(association_football)> .
+<http://dbpedia.org/resource/Timothy_Godwyn> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Brant Cox"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_N> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/adirector> "Nick Lang, Brian Holden, Eric Kahn Gale"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northerns_cricket_team_(Zimbabwe)> <http://dbpedia.org/property/team> "Northerns"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_zhen> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Arielle Goldman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Camp_Cody_Deming_New_Mexico> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/tto> <http://www.w3.org/2000/01/rdf-schema#label> "TTO"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Candy Lady"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/s> "?????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Filthy_Rich_(comics)> <http://dbpedia.org/property/us> "y"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/origisbn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/placeOfBirth> "Leninsky city-district, Dnipropetrovsk, Ukrainian SSR"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Royal_Spanish_Society_of_Chemistry&oldid=598297532> .
+<http://dbpedia.org/resource/List_of_African_American_Medal_of_Honor_recipients> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Rick's Dick"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/tto> "The Son"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/SFR_Yugoslavia> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_lugubris&oldid=591539148> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://dbpedia.org/ontology/wikiPageRevisionID> "591536966"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/wikiPageRevisionID> "575060600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/DISA_(company)> <http://dbpedia.org/ontology/wikiPageRevisionID> "543348701"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/name> "Evheniya Tulchevska"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "[Cameo]"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov__8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://dbpedia.org/ontology/wikiPageLength> "1242"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/nationalcompetition> "Miss Ukraine 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sinai_College> <http://dbpedia.org/ontology/address> "20 Moxon Road"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/property/olyAppearances> "None"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__4> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Hajduk_Kula> .
+<http://dbpedia.org/resource/Archdeaconry_of_Oxford> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Archdeaconry_of_Oxford&oldid=312543631> .
+<http://dbpedia.org/contributor/Hmains> <http://www.w3.org/2000/01/rdf-schema#label> "Hmains"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_diffusa> <http://xmlns.com/foaf/0.1/name> "Schinia diffusa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/lastAired> "present"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Swiss_International_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Centrals_cricket_team> <http://dbpedia.org/property/team> "Centrals"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Angelica_Zawadzki> <http://xmlns.com/foaf/0.1/name> "Zawadzki, Angelica"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Forecast_(album)&action=history> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/ontology/wikiPageModified> "2013-07-02T03:19:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/director> "Brian Holden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/editing> "Tod Feuerman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gelonians> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-25T20:10:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__5> <http://dbpedia.org/ontology/numberOfGoals> "0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_lugubris> <http://dbpedia.org/ontology/wikiPageLength> "1258"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/postalCode> "V0H 1J0"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Cho Chang, Charlie Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Khazar2> <http://www.w3.org/2000/01/rdf-schema#label> "Khazar2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1892> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Draco Malfoy"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Anetode> <http://www.w3.org/2000/01/rdf-schema#label> "Anetode"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_writers> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/chaplain> <http://www.w3.org/2000/01/rdf-schema#label> "chaplain"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gerry_Gomez_(Footballer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/PCI_Express_2> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ryzom_game> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_M> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_W> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://xmlns.com/foaf/0.1/name> "Tulchevska, Evgeniya"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov> <http://xmlns.com/foaf/0.1/name> "Andrei Petrovich Kurdyumov"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Album> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Narrator"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Neato Mosquito, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Aroon_Clansey&oldid=562489767> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/mamd> "Big T"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/mamd> <http://www.w3.org/2000/01/rdf-schema#label> "MAMD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/ontology/wikiPageLength> "6581"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Palair_Lake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Opuntia_robusta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Parasite_Eve_1> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Odra_Opole> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://dbpedia.org/property/p> "G?ng Zh?n"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Sr?an_?ukanovi?&oldid=609982541> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Denise Donovan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/after> "Kateryna Zakharchenko"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "Twisted"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_jurists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Folie_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/property/sights> "Iron"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Jaime Lyn Beatty"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/property/language> "English"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Archdeacon_of_Oxford> <http://purl.org/dc/elements/1.1/language> "en"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/leaderTitle> "Governing body"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/African_American_dance> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Centrals_cricket_team> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/ontology/wikiPageModified> "2014-03-05T19:43:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://dbpedia.org/ontology/wikiPageModified> "2013-03-08T00:18:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Johan_Christen_L%C3%B8ken> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/808_State> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/height> "1.85"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/wikiPageRevisionID> "504064857"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/careerStation> <http://dbpedia.org/resource/Sr?an_?ukanovi?__5> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ani> "N/A"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/runtime> "3197.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Up, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Iscadia_aperta&oldid=542710430> .
+<http://dbpedia.org/resource/Schinia_diffusa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/wikiPageLength> "1947"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Dandanatha_Lankapura> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "Aladdin"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q5> .
+<http://dbpedia.org/property/scenic> <http://www.w3.org/2000/01/rdf-schema#label> "scenic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/lwl> "Toby Phillips"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/partLength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/contributor/BrownHairedGirl> <http://www.w3.org/2000/01/rdf-schema#label> "BrownHairedGirl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dialogues_of_the_Dead> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/leaderName> "Nipper Kettle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/contributor/Seaphoto> <http://dbpedia.org/meta/contributorID> "1594127"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/production> "A Very Potter Musical"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Trofeu_Joan_Gamper> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-10T19:06:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tom_Hill_(footballer)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954406"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/cartridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FK_Vrbas> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/chgraphy> "Alle-Faye Monka"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Prebuild> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Anetode> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/ZHC_(test)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Museum_of_World_War_II> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T07:21:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evans,_Howard_Ensign> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:50:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Filthy_Rich_(comics)> <http://dbpedia.org/property/type> "title"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Royal_Spanish_Society_of_Chemistry> <http://dbpedia.org/ontology/wikiPageRevisionID> "598297532"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Snake, Thoms Riddle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pietro_Paolo_Giovanni_Ernesto_Baracchi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://dbpedia.org/property/eyeColor> "Gray"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/BrownHairedGirl> <http://dbpedia.org/meta/contributorID> "754619"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ficus_palmata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_L> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Schinia_crotchii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__3> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Mladost_Apatin> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T08:26:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/chaplain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Ron Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Fenrir Greyback, Sirius Black"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/dul:Organism> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Sango Tajima"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salcombe_Regis> <http://xmlns.com/foaf/0.1/name> "Salcombe Regis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andrei_Kurdyumov> <http://xmlns.com/foaf/0.1/name> "Kurdyumov, Andrei"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:808_State> .
+<http://dbpedia.org/resource/Aneiki> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__3> <http://dbpedia.org/ontology/numberOfGoals> "1"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Interactive_Digital_Centre_Asia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/cover> "Prebuild.png"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ssr> "Tootsie Noodles"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Alfred/Lucius Fox/O'Malley/Qwang Li/Spider-Man, Two-Face,  Gangster"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/headLabel> "Headmaster"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_firsts> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/name> "Greenwood"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://www.w3.org/2000/01/rdf-schema#comment> "The Moldavian national basketball team is the basketball side that represents Moldova in international competitions."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/cartridge> <http://www.w3.org/2000/01/rdf-schema#label> "cartridge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/label> "Rephlex Records"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Hajduk_Kula> .
+<http://dbpedia.org/property/zoneAppearances> <http://www.w3.org/2000/01/rdf-schema#label> "zone appearances"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://xmlns.com/foaf/0.1/name> "House of Frankenstein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://dbpedia.org/ontology/abstract> "Template:Infobox settlement Taqiabad (Persian: ??? ?????, also Romanized as Taq??b?d) is a village in Takht-e Jolgeh Rural District, in the Central District of Firuzeh County, Razavi Khorasan Province, Iran. At the 2006 census, its population was 832, in 218 families."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Dylan Saunders"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/South_West_Essex_Technical_College_and_School_of_Art> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Privy_Counsellors_(1837%E2%80%931901)> <http://dbpedia.org/ontology/wikiPageRevisionID> "612061539"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Granai_massacre> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Privy_Counsellors_(1837%E2%80%931901)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-07-30T18:41:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/writer> "Matt Lang, Nick Lang, Brian Holden, Joe Walker"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Prebuild> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Ischnocampa_mamona&oldid=591539473> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__4> <http://dbpedia.org/ontology/years> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Sambucin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/chgraphy> "James Tolbert"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Krayonder, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Neville Longbottom, Past Hermione"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moldova_national_basketball_team> <http://dbpedia.org/ontology/wikiPageLength> "2209"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Big_Bull_Radni?ki> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/wikiPageLength> "1720"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/language> "English"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://purl.org/dc/elements/1.1/description> "Chinese admiral"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_cupes> <http://xmlns.com/foaf/0.1/name> "Schinia cupes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/wcAppearances> <http://www.w3.org/2000/01/rdf-schema#label> "wc appearances"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tajarhi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Anabuse> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gong_Zhen> <http://xmlns.com/foaf/0.1/givenName> "Zhen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Algimantas_Briaunys> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/costume> "Marguerite Woodward"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageRevisionID> "312543549"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q215627> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/property/artist> "808"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/ontology/wikiPageOutDegree> "13"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/property/name> "Clansey, Aroon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/David_Clark_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/linecolor> "FF69B4"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://dbpedia.org/ontology/abstract> "Forecast is an album by electronic music group 808 State which was released in 1993, exclusively in Japan. The album contains a collection of b-sides and remixes from the Gorgeous era."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/twst> "Sea Witch, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Prebuild> <http://dbpedia.org/property/thisAlbum> "Prebuild"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Big_real_mode> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Britney Coleman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Brightlands> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/DISA_(company)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Addbot> .
+<http://dbpedia.org/resource/Walter_Calenius> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/origisbn> <http://www.w3.org/2000/01/rdf-schema#label> "origisbn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_MS-DOS_games_starting_with_K> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:01:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://xmlns.com/foaf/0.1/name> "??? ????"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/House_of_Frankenstein_(1997_film)> <http://dbpedia.org/ontology/wikiPageModified> "2014-06-12T14:15:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aroon_Clansey> <http://dbpedia.org/property/fullname> "Aroon Belinda Clansey"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/African_American_neighborhood> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Ron Weasley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_African_American_inventors_and_scientists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Tajarhi> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Addbot> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/property/lakeName> "Palair lake"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Globe_Theatre,_Boston_(1871)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q482994> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avpsy> "Minerva McGonagall, Lucius Malfoy, Cedric Diggory"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sr?an_?ukanovi?__2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Hajduk_Kula> .
+<http://dbpedia.org/resource/Server_log> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Tootsie Noodles, Pincer, Ensemble"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Forecast_(album)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1993_albums> .
+<http://dbpedia.org/resource/Camuesa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taqiabad,_Firuzeh> <http://dbpedia.org/ontology/wikiPageLength> "1867"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Isauria_dilucidella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Palair_Lake> <http://dbpedia.org/property/basinCountries> "India"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_celer> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1892> .
+<http://dbpedia.org/resource/Lettet-Fors%C3%B8gs_submachine_gun> <http://dbpedia.org/property/feed> "Suomi KP/-31 compatible box/drum magazines"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://dbpedia.org/ontology/wikiPageRevisionID> "542710430"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "Joe Moses"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Evheniya_Tulchevska> <http://xmlns.com/foaf/0.1/name> "Evheniya Tulchevska"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Schinia_obliqua> <http://xmlns.com/foaf/0.1/name> "Schinia obliqua"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ischnocampa_mamona> <http://dbpedia.org/ontology/wikiPageModified> "2014-01-20T09:26:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/property/imageMap> "Greenwood, British Columbia Location.png"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Archdeacon_of_Oxford> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Archdeacon_of_Oxford&action=edit> .
+<http://dbpedia.org/resource/Iscadia_aperta> <http://xmlns.com/foaf/0.1/name> "Iscadia aperta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/ss> "Bug"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tajarhi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Schinia_crotchii> <http://xmlns.com/foaf/0.1/name> "Schinia crotchii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Arthur Weasley, Sorty, Scarfy, Peter Pettigrew, Mama Umbridge"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salehurst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Isanthrene_vespiformis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Animals_described_in_1876> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/hmb> "Commissioner Gordon, Calendar Man, Evil King Arthur, Green Arrow"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://dbpedia.org/property/website> <http://www.oprah.com/own-moms-got-game/moms-got-game.html> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/avps> "Severus Snape"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Moor_Hall_Primary_School> <http://dbpedia.org/ontology/wikiPageOutDegree> "9"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/Iscadia_aperta> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Yobot> .
+<http://dbpedia.org/resource/StarKid_Productions> <http://dbpedia.org/property/performer> "A.J. Holmes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Greenwood,_British_Columbia> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:51:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mom%E2%80%99s_Got_Game> <http://xmlns.com/foaf/0.1/name> "Mom's Got Game"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tina_Faichnie__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+# completed 2014-10-02T19:01:53Z

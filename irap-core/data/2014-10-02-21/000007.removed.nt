@@ -1,0 +1,733 @@
+# started 2014-10-02T19:03:06Z
+<http://dbpedia.org/resource/Papillary_axis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rahav_(Tz-73)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/Compact_disc> .
+<http://dbpedia.org/resource/Taes?ng_Kishinron> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T13:53:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Capital_Terrotiry_of_Gujarat> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Steven_Long&oldid=577804752> .
+<http://dbpedia.org/contributor/Yworo> <http://dbpedia.org/meta/contributorID> "9813438"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/diversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Phrynobatrachus_dendrobates> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://en.wikipedia.org/wiki/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/BrownHairedGirl> .
+<http://dbpedia.org/property/chief2Position> <http://www.w3.org/2000/01/rdf-schema#label> "chief2 position"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bureau_of_Drug_Policy_Administration> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pars_pianitis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://xmlns.com/foaf/0.1/name> "Adolf III of Holstein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/property/passengers> "?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/musicalBand> <http://dbpedia.org/resource/Selena> .
+<http://dbpedia.org/contributor/Keith_D> <http://www.w3.org/2000/01/rdf-schema#label> "Keith D"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/CSBXC> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/DivaKnockouts> <http://dbpedia.org/meta/contributorID> "14570379"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Whitey_and_Hogan> <http://xmlns.com/foaf/0.1/name> "Whitey and Hogan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ngkishillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/St._Paul's_Episcopal_Church_(East_Cleveland,_Ohio)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/crew> <http://www.w3.org/2000/01/rdf-schema#label> "crew"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/rebuilt> <http://www.w3.org/2000/01/rdf-schema#label> "rebuilt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesungkishillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Luis_Lozano> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ng_Kisinron> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_Kisinron&oldid=312588203> .
+<http://dbpedia.org/resource/Robert_Craigie> <http://xmlns.com/foaf/0.1/name> "Craigie, Robert"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://www.w3.org/2000/01/rdf-schema#comment> "\"Is It the Beat?\" is a freestyle pop song which was written by Pamela Phillips Oland & A.B. Quintanilla III that was recorded in 1989 by Tejano singer Selena. The song was not released until after her death on March 31, 1995, when it was included on the soundtrack album to the film, Selena. The song was intended to be part of Selena's first English-language album, Dreaming of You or was going to still be an unreleased song. \"Is It the Beat?\" was released as a CD single and 7\" vinyl single."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/postcodeDistrict> "M50"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ngkishinron> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkishinron&oldid=312588292> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=INS_Rahav_(73-?)&action=edit> .
+<http://dbpedia.org/resource/Southdean> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox UK place Southdean is a hamlet in the Scottish Borders area of Scotland, on the A6088, by the Rule Water and in the Wauchope Forest area."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ng_kishinron> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T13:53:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/property/casualties> "none"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/filename> "Enamorada de ti.ogg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pseudcalpe_anubis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ng_kishinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kemins_Island> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/thisSingle> "\"Is It the Beat?\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Rudolf_Hiden> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/jurisdiction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Formula_for_prismatic_effect_by_lens> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ngkisillon> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkisillon&action=history> .
+<http://dbpedia.org/resource/Ultrasonic_additive_manufacture> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://dbpedia.org/property/showName> "Tarrant Lets the Kids Loose"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Games_Radar> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/requireManualInspection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Joachim_Wenzke> <http://xmlns.com/foaf/0.1/name> "Wenzke, Joachim"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/spouse> "Adelheid of Querfurt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Salford_Quays> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Keith_D> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Reflist> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Selena_singles> .
+<http://dbpedia.org/resource/The_Frightened_Lady_(1932_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/E.M.M.A_(album)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salford_Quays> <http://xmlns.com/foaf/0.1/name> "Salford Quays"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ultrasonic_additive_manufacturing> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Japan_Time> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/structure> <http://www.w3.org/2000/01/rdf-schema#label> "structure"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/wikiPageOutDegree> "46"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/INS_Tanin_(S71)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Cydebot> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:53:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/destination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/staticImageName> "Salford Quays - Media City, IWMN & Lowry, April 2011.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sir_William_D.M._Paton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/birthName> "Leonard George Hayton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/jurisdiction> "State of Oregon"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesungkisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/CmdrObot> <http://dbpedia.org/meta/contributorID> "1079367"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bulia_mexicana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/property/updatePage> <http://www.w3.org/2000/01/rdf-schema#label> "update page"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageOutDegree> "1"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/parentAgency> <http://www.w3.org/2000/01/rdf-schema#label> "parent agency"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/regnum> "Animalia"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/survivors> <http://www.w3.org/2000/01/rdf-schema#label> "survivors"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/urn> <http://www.w3.org/2000/01/rdf-schema#label> "urn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/name> "Steven Long"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Africalpe_vagabunda> <http://xmlns.com/foaf/0.1/name> "Africalpe vagabunda"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/staticImageCaption> "Salford Quays & Manchester Ship Canal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/updatePage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/10th_Regiment_Tennessee_Volunteer_Infantry> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Last_Dance/The_Hustle/On_The_Radio> .
+<http://dbpedia.org/resource/The_Heath_School> <http://www.w3.org/2000/01/rdf-schema#comment> "The Heath School is a coeducational secondary school with academy status, located in Runcorn in the English county of Cheshire.The school converted to academy status in September 2012. It was previously a community school administered by Halton Borough Council. The school continues to coordinate with Halton Borough Council for admissions. The school is due to move into new buildings in December 2014.The school offers GCSEs and BTECs as programmes of study for pupils."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Robert_Anstruther_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/spouse> "Helen Maude Gifford"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Sarayu_Rao> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Tanbircdq> .
+<http://dbpedia.org/resource/Taes?ng_Kishinron> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_Kishinron&action=history> .
+<http://dbpedia.org/property/chief2Position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Wanders_to_You> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/fatalities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Listowel_Ripper> <http://dbpedia.org/ontology/wikiPageModified> "2013-10-13T21:10:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daeseung_gisillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Quickspace_(UK)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://xmlns.com/foaf/0.1/name> "Dalrymple Hamilton, Hew"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/property/occurrenceType> "Accident"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sargon_I_(Assyrian_king)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sex_Money_Murder> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Bellhalla> <http://dbpedia.org/meta/contributorID> "160900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/writer> "A.B. Quintanilla III and Pamela Phillips Oland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sarayu_Rao__1> <http://dbpedia.org/ontology/title> "Actress"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/oldUrn> <http://www.w3.org/2000/01/rdf-schema#label> "old urn"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesung_gisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Northwest_Airlines_Flight_421> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Yworo> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/headLabel> "Executive Principal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/logo> "Oregon Geographic Names Board logo.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bulia_similaris> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/property/updateCitations> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:53:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/In_the_End_(Snow_Patrol_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Mw4> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Count_of_Schauenburg_and_Holstein> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Find_a_Grave> .
+<http://dbpedia.org/resource/Taes?ngkisillon> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkisillon&action=edit> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954661"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/occurrenceType> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/The_Listowel_Ripper> <http://dbpedia.org/ontology/wikiPageRevisionID> "577040919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Africalpe_nubifera> <http://xmlns.com/foaf/0.1/name> "Africalpe nubifera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/chief1Name> "Champ C. Vaughan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Nikola_Andreev_(Odrin_vojvode)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/runtime> "249.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amyrgian> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Horizontal_gaze_center> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Atherton_Central_railway_station> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Guang_zau> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bulia_confirmans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/region> "North West England"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Latin_music> .
+<http://dbpedia.org/resource/Taes?ngkishinron> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkishinron&action=history> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/ontology/wikiPageModified> "2013-03-11T05:06:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Philips_Recording_Artists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Is_It_the_Beat%3F&oldid=552373156> .
+<http://dbpedia.org/resource/Roberto_Heinze> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Dance-pop> .
+<http://dbpedia.org/resource/Chuck_Arnoldi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Keith_D> <http://dbpedia.org/meta/contributorID> "2278355"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Daeseunggisillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Wade_Chapel> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/abstract> "The Heath School is a coeducational secondary school with academy status, located in Runcorn in the English county of Cheshire.The school converted to academy status in September 2012. It was previously a community school administered by Halton Borough Council. The school continues to coordinate with Halton Borough Council for admissions. The school is due to move into new buildings in December 2014.The school offers GCSEs and BTECs as programmes of study for pupils. The school will open its own sixth form in September 2014, and will offer students the option to study a range of A Levels and further BTECs."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mycalesis_mestra> <http://xmlns.com/foaf/0.1/name> "White-edged Bushbrown"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Water_supplies> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taesung_gishinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Whitey_and_Hogan> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/awards> "Gavel Award, State Bar of Texas"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Retrolental_fibroplasias> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bulia_mexicana> <http://xmlns.com/foaf/0.1/name> "Bulia mexicana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/placeOfDeath> "Palm Springs, California"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/INS_Rachav_(73-?)> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=INS_Rachav_(73-?)&action=edit> .
+<http://dbpedia.org/resource/Bob_Snyder_(musician)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/survivors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/chief1Name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Roberto_Heinze> <http://xmlns.com/foaf/0.1/name> "Heinze, Roberto"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Heredopathic_atactive_polyneuritiformis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mycalesis_mestra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Nikola_Andreev_(Odrin_vojvoda)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/dfeno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/C17H30N2O12S> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Africalpe_anubis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/diversityLink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Bulia_mexicana> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/site> <http://www.w3.org/2000/01/rdf-schema#label> "site"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/In_the_End_(Snow_Patrol_song)> <http://xmlns.com/foaf/0.1/name> "In the End"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/album> <http://dbpedia.org/resource/Selena_(soundtrack)> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Schisis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Warp_(First_Comics)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/chief2Name> "Dr. George L. Vogt"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Seasonal_Variation> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Midriasis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/chief1Position> <http://www.w3.org/2000/01/rdf-schema#label> "chief1 position"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Erhard_Riedrich> <http://xmlns.com/foaf/0.1/name> "Riedrich, Erhard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/wikiPageLength> "3478"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Taes?ng_Kishinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/recordDate> "1989-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Joe_Pattison> <http://xmlns.com/foaf/0.1/name> "Joseph Pattison"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bulia_bolinalis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Visual_Product_Modeling_System> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/South_Side_of_Boularderie> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ng_Kisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/tracks> <http://www.w3.org/2000/01/rdf-schema#label> "tracks"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Listen> .
+<http://dbpedia.org/resource/Taes?ngkisillon> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkisillon&oldid=312589457> .
+<http://dbpedia.org/resource/Taes?ngkisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arsisaca_bolinalis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/postTown> "HAWICK"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Northwest_Airlines_Flight_421&oldid=538812943> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/property/summaryText> "Phosphomannomutase catalyzes the conversion between D-mannose 6-phosphate and D-mannose 1-phosphate which is a substrate for GDP-mannose synthesis. GDP-mannose is used for synthesis of dolichol-phosphate-mannose, which is essential for N-linked glycosylation and thus the secretion of several glycoproteins as well as for the synthesis of glycosyl-phosphatidyl-inositol  anchored proteins."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/occurrenceType> <http://www.w3.org/2000/01/rdf-schema#label> "occurrence type"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/passengers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Gunn_syndrome> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://dbpedia.org/property/country> "United Kingdom"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Enrich_Loyalty_Programme> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Sanremo_railway_station> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Addbot> .
+<http://dbpedia.org/resource/Robert_Craigie> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/summaryText> <http://www.w3.org/2000/01/rdf-schema#label> "summary text"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/scotsName> <http://www.w3.org/2000/01/rdf-schema#label> "scots name"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/property/structure> "at-grade, crossing station"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Rod_monochromat> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/United_States_Senate_special_election_in_Massachusetts,_2009> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/updateCitations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/INS_Rachav_(S73)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tabuina> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ngkisillon> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T14:02:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salford_Quays> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox UK place Salford Quays is an area of Salford, Greater Manchester, England, near the end of the Manchester Ship Canal. Previously the site of Manchester Docks, it became one of the first and largest urban regeneration projects in the United Kingdom following the closure of the dockyards in 1982."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageRevisionID> "312499097"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Little_Sutton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/property/type> "Italian national railways"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/property/name> "Flight 421"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ng_kisillon> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_kisillon&oldid=312589254> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/logoCaption> "Official logo adopted in 2002"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Cucudeta> <http://xmlns.com/foaf/0.1/name> "Cucudeta"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/ofsted> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Guangzau> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Per_Larsson> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tabuina> <http://xmlns.com/foaf/0.1/name> "Tabuina"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
+<http://dbpedia.org/resource/INS_Tanin_(71-?)> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=INS_Tanin_(71-?)&action=edit> .
+<http://dbpedia.org/resource/INS_Tanin_(71-?)> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=INS_Tanin_(71-?)&action=history> .
+<http://dbpedia.org/resource/P.C._Hooft> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/camera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Selena_songs> .
+<http://dbpedia.org/property/ofsted> <http://www.w3.org/2000/01/rdf-schema#label> "ofsted"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/abstract> "\"Is It the Beat?\" is a freestyle pop song which was written by Pamela Phillips Oland & A.B. Quintanilla III that was recorded in 1989 by Tejano singer Selena. The song was not released until after her death on March 31, 1995, when it was included on the soundtrack album to the film, Selena. The song was intended to be part of Selena's first English-language album, Dreaming of You or was going to still be an unreleased song. \"Is It the Beat?\" was released as a CD single and 7\" vinyl single. The \"Disco Medley Part II\" was included as the B-side as an extended mix. The Spanish hit song, \"Enamorada de Tí\", also by Selena, is thought to be the \"Spanish\" version of \"Is It the Beat?\"."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Retinal_visual_cells> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Meyers_Scale> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/shortDescription> "German nobleman, Count of Holstein and Schauenburg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Psychoplegia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joe_Pattison__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Taes?ng_Kishinron> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_Kishinron&action=edit> .
+<http://dbpedia.org/resource/Taes?ngkisillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/A.B._Quintanilla_III> .
+<http://dbpedia.org/resource/Retinal_apoplexy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Eyetoy_series> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/SV_Gratkorn> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Case_of_the_Frightened_Lady> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chickering_Hall,_Boston_(1883)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chickering_Hall,_Boston_(1883)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/staticImageName> "The road leading down to Southdean Farm - geograph.org.uk - 3071486.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Pernilla_Wallgren> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mw3> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://xmlns.com/foaf/0.1/name> "Sarayu Rao"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/ofsted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Infobox_single> .
+<http://dbpedia.org/resource/The_Listowel_Ripper> <http://dbpedia.org/ontology/wikiPageLength> "2002"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/INS_Tanin_(71-?)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=INS_Tanin_(71-?)&oldid=312601074> .
+<http://dbpedia.org/resource/Bulia_morelosa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Calpe_nubifera> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/countriesAffected> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/INS_Rachav_(73-?)> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=INS_Rachav_(73-?)&action=history> .
+<http://dbpedia.org/property/oldUrn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Mervil_Larson> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Van_Recklinhausen's_disease> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sarayu_Rao__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Bolina_confirmans> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Per_Larsson> <http://xmlns.com/foaf/0.1/name> "Larsson, Per"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Andrewscool101> <http://www.w3.org/2000/01/rdf-schema#label> "Andrewscool101"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/diversityLink> "List of Salticidae species#Yamangalea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Walid_Khalil_Baroud> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Addbot> <http://dbpedia.org/meta/contributorID> "6569922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/wikiPageModified> "2013-04-27T04:14:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gamma_emitter> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/spouse> "Adelheid of Assel"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://xmlns.com/foaf/0.1/name> "Tarrant Lets the Kids Loose"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Placido_disc> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gilwell_woggle> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=INS_Rahav_(73-?)&action=history> .
+<http://dbpedia.org/resource/Physiologic_blind_spot_of_Mariotte> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ngkisinron> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkisinron&action=edit> .
+<http://dbpedia.org/resource/History_of_british_canals> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pars_ciliris> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/caption> "Statue of Adolf III by Engelbert Peiffer, on the Trostbrücke in Hamburg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/14th_Congress_of_the_League_of_Communists_of_Yugoslavia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/C-919> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/chief2Name> <http://www.w3.org/2000/01/rdf-schema#label> "chief2 name"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/musicalArtist> <http://dbpedia.org/resource/Selena> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/ontology/alias> "Adolf III of Schauenburg and Holstein, Adolf III of Schauenburg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Daeseung_gisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sutton,_Cheshire> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/updateSummary> <http://www.w3.org/2000/01/rdf-schema#label> "update summary"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/subregnum> <http://www.w3.org/2000/01/rdf-schema#label> "subregnum"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/officialName> "Salford Quays"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=INS_Rahav_(73-?)&oldid=312601923> .
+<http://dbpedia.org/property/requireManualInspection> <http://www.w3.org/2000/01/rdf-schema#label> "require manual inspection"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Manfred_Ehrhardt> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Abram_Muusse> <http://xmlns.com/foaf/0.1/name> "Muusse, Abram"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/South_Side_of_Boularderie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/property/agencyName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/tracks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T15:23:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daeseunggisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Africalpe_vagabunda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:English-language_Mexican_songs> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:53:35Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/postcode> "WA7 4SY"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ng_kishinron> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_kishinron&oldid=312588121> .
+<http://dbpedia.org/property/summaryText> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Nikola_Andreev_(Kostur_vojvode)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/7%22_single> .
+<http://dbpedia.org/resource/Salford_Quays> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Wikidata:Q532> .
+<http://dbpedia.org/resource/Oraesia_vagabunda> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Syneda_deducta> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Dance-pop> .
+<http://dbpedia.org/contributor/Addbot> <http://www.w3.org/2000/01/rdf-schema#label> "Addbot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Goodbye_Charlie_(Millennium)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/depth> <http://www.w3.org/2000/01/rdf-schema#label> "depth"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bolina_umbrosa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageRevisionID> "312601923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/wikiPageLength> "5791"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Smartie_mine> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/placeOfBirth> "New York City, New York"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/property/site> "Fountain City, Wisconsin,  NW of Winona, Minnesota"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/VP/MS_Workbench> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/INS_Rahav_(73-?)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Bellhalla> .
+<http://dbpedia.org/resource/Stupid_Song> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://dbpedia.org/property/language> "English"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/postTown> "SALFORD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bernd_Guse> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/agencyName> "Oregon Geographic Names Board"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/website> <http://stevenlongwriter.com/> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/name> "Is It the Beat?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Mycalesis_mestra> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/binomialAuthority> "Maddison, 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/staticImageCaption> "A6088 road through Southdean"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/country> "England"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesung_kisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taesunggishinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Yevhenia_Tulchevska> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/ontology/wikiPageRevisionID> "577804752"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Taes?ng_Kisinron> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T13:53:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/ontology/abstract> "Template:Infobox Station Sanremo railway station is situated in the Italian city of Sanremo."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Government_subsidy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sulfatide_lipidoris> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Walter_Elias_%22Walt%22_Disney> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Heath_School&oldid=607954707> .
+<http://dbpedia.org/resource/Taes?ngkishillon> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkishillon&oldid=312589485> .
+<http://dbpedia.org/resource/Manfred_Ehrhardt> <http://xmlns.com/foaf/0.1/name> "Erhardt, Manfred"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Tanbircdq> <http://dbpedia.org/meta/contributorID> "13415149"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Walk_on_Water_(band)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rachav_(73-?)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cirrhobolina_incandescens> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Balijepalli_Lakshmikanta_Kavi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Raonaid_Murray> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://xmlns.com/foaf/0.1/name> "Is It the Beat?"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Members_of_the_United_Kingdom_Parliament_for_Scottish_constituencies> .
+<http://dbpedia.org/resource/Taes?ngkishillon> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkishillon&action=history> .
+<http://dbpedia.org/resource/Cromwell's_Upper_House> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://xmlns.com/foaf/0.1/homepage> <http://stevenlongwriter.com/> .
+<http://dbpedia.org/resource/Kapfenberger_SC> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/birthname> "Leonard George Hayton"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Cydebot> <http://www.w3.org/2000/01/rdf-schema#label> "Cydebot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/INS_Tanin_(Tz-71)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/AuthorAuthor> <http://www.w3.org/2000/01/rdf-schema#label> "AuthorAuthor"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/7%22_single> .
+<http://dbpedia.org/resource/Mo'ynoq_District> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/DivaKnockouts> <http://www.w3.org/2000/01/rdf-schema#label> "DivaKnockouts"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Frankie_and_Neffe_Show> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/osGridReference> "NT631092"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/depth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Taes?ngkishinron> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkishinron&action=edit> .
+<http://dbpedia.org/resource/Template:State_of_Madhya_Pradesh> <http://dbpedia.org/ontology/wikiPageRevisionID> "573778346"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/John_Pickett_(canoeist)> <http://xmlns.com/foaf/0.1/name> "Pickett, John"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/property/requireManualInspection> "no"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/ontology/wikiPageLength> "11696"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Southdean> <http://xmlns.com/foaf/0.1/name> "Soothdean"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jump,_Push,_Fall> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ng_kisillon> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T14:01:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Free_Art_and_Technology_Lab> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/deathPlace> "Palm Springs, California"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/formed> <http://www.w3.org/2000/01/rdf-schema#label> "formed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/wikiPageLength> "3436"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Gwong_jau> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Quitasue%C3%B1o> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ng_Kishinron> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_Kishinron&oldid=312588160> .
+<http://dbpedia.org/property/street> <http://www.w3.org/2000/01/rdf-schema#label> "street"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Holster> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Daeseunggishillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Minister_for_Transport,_Communications,_and_Information_of_Luxembourg> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/San_Cristoforo_(AL)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Tanin_(S71)> <http://dbpedia.org/ontology/wikiPageModified> "2013-02-27T03:05:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/ontology/abstract> "The 1944 Cornwall-Massena earthquake occurred on Tuesday, September 5 at 12:38:45 am EWT in Massena, New York. It registered at magnitude 5.8 on the Richter scale and was felt for a great distance. This area is part of the Saint Lawrence River Valley and the seismically active zone known as the Saint Lawrence rift system. The earthquake is the largest known in New York's recorded history."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Is_It_the_Beat%3F> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/DivaKnockouts> .
+<http://dbpedia.org/resource/Yhorst> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rachav_(73-?)> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T15:23:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/genus> "Yamangalea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/First_Vienna> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Graziquartet> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/headLabel> "Executive Principal"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/property/updateProteinBox> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/mapType> "Greater Manchester"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/abstract> "Template:Infobox UK place Salford Quays is an area of Salford, Greater Manchester, England, near the end of the Manchester Ship Canal. Previously the site of Manchester Docks, it became one of the first and largest urban regeneration projects in the United Kingdom following the closure of the dockyards in 1982."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Guardians_of_the_Breath> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ng_kisillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Andrewscool101> <http://dbpedia.org/meta/contributorID> "21143054"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bulia_similaris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Alien_Logic:_A_Skyrealms_of_Jorune_Adventure&oldid=312499097> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/wikiPageLength> "18922"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:53:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/property/intensity> "VII"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/name> "Hayton, Lennie"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Esta%C3%A7%C3%A3o_Ant%C3%A1rtica_Comandante_Ferraz> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cardinal_De_Luca> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Free_Money> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/updateProteinBox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Bulia_similaris> <http://xmlns.com/foaf/0.1/name> "Bulia similaris"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/John_Pickett_(canoeist)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/nextSingle> "\"Where Did the Feeling Go?\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_written_by_A.B._Quintanilla> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/lastSingle> "\"Last Dance/The Hustle/On The Radio\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954650"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/property/aircraftType> <http://www.w3.org/2000/01/rdf-schema#label> "aircraft type"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Nikola_Andreev> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taesungkisillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ngkishinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/diversityLink> <http://www.w3.org/2000/01/rdf-schema#label> "diversity link"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/property/name> "Northwest Airlines"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Joe_Pattison> <http://xmlns.com/foaf/0.1/name> "Joe Pattison"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Life_Saver_bottle> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/chief1Name> <http://www.w3.org/2000/01/rdf-schema#label> "chief1 name"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/postcodeDistrict> "TD9"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/The_Heath_School> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Andrewscool101> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/birthPlace> "New York City, New York"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://xmlns.com/foaf/0.1/name> "Hayton, Lennie"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/County_of_Schauenburg> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_World_Book:_Organized_Knowledge_in_Story_and_Picture> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/ontology/abstract> "Template:Infobox UK place Southdean is a hamlet in the Scottish Borders area of Scotland, on the A6088, by the Rule Water and in the Wauchope Forest area. Other settlements nearby include Abbotrule, Bedrule, Bonchester Bridge, Denholm, Hallrule, Hobkirk and the Swinnie Forest.Ruins which can bee seen nearby include the remains of Southdean Old Parish Church, the remains of Dykeraw Tower, and the remains of Slack's Tower.James Telfer (1802 - 1862) was born in Southdean, and wrote ballads about farming life, typically with a zoological slant."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/ontology/wikiPageModified> "2013-10-19T04:57:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/head> "Heather Mullaney"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/camera> <http://www.w3.org/2000/01/rdf-schema#label> "camera"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/alternativeNames> "Adolf III of Schauenburg and Holstein, Adolf III of Schauenburg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Notre_Dame_University> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/wikiPageOutDegree> "27"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Lennie_Hayton__1> <http://dbpedia.org/ontology/title> "Arranger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Lennie_Hayton> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/CmdrObot> .
+<http://dbpedia.org/resource/Phytanic_acid_storage_disease> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/street> "Clifton Road"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ng_kishinron> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_kishinron&action=history> .
+<http://dbpedia.org/resource/Droopy_eyelid> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Down_Hall,_Barrow_on_Humber> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joe_Pattison__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/property/scotsName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/countriesAffected> <http://www.w3.org/2000/01/rdf-schema#label> "countries affected"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Heath_School> <http://xmlns.com/foaf/0.1/homepage> <http://www.heathschool.org.uk/> .
+<http://dbpedia.org/resource/Repeal_of_Statutes_as_to_Treasons,_Felonies,_etc._Act_1547> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Po_Lam_Road_Housing_Development> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/426th_Network_Warfare_Squadron> <http://xmlns.com/foaf/0.1/name> "426th Network Warfare Squadron"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/diversity> <http://www.w3.org/2000/01/rdf-schema#label> "diversity"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/occupation> "Author, journalist, publisher"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Africalpe_nubifera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Muhammed_Abdul_Rahman_Sahib> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/name> "Adolf III of Holstein"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Pamela_Phillips_Oland> .
+<http://dbpedia.org/resource/Dilma_Vana_Rousseff_Linhares> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Italian_submarine_S1> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/updateProteinBox> <http://www.w3.org/2000/01/rdf-schema#label> "update protein box"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Bellhalla> <http://www.w3.org/2000/01/rdf-schema#label> "Bellhalla"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/subject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/album> <http://dbpedia.org/resource/Selena_(soundtrack)> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://www.w3.org/2000/01/rdf-schema#comment> "Template:Infobox Station Sanremo railway station is situated in the Italian city of Sanremo."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/property/address> "Corso Cavallotti, Sanremo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesunggisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gwongjau> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/State_Pharmaceutical_Administration> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/In_the_End_(Snow_Patrol_song)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/property/shortDescription> "American composer"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=1944_Cornwall–Massena_earthquake&oldid=607954661> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:45Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joe_Pattison> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Sir_Hew_Dalrymple-Hamilton,_4th_Baronet&oldid=607954759> .
+<http://dbpedia.org/resource/Taes?ng_Kisinron> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_Kisinron&action=history> .
+<http://dbpedia.org/contributor/Yworo> <http://www.w3.org/2000/01/rdf-schema#label> "Yworo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Luis_Lozano> <http://xmlns.com/foaf/0.1/name> "Lozano, Luis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Rhodepsin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/destination> <http://www.w3.org/2000/01/rdf-schema#label> "destination"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Sarayu_Rao&oldid=607954650> .
+<http://dbpedia.org/resource/Mitsubishi_Electronics> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joe_Pattison> <http://xmlns.com/foaf/0.1/name> "Pattison, Joe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ng_Kisinron> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_Kisinron&action=edit> .
+<http://dbpedia.org/resource/Abram_Muusse> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/scotsName> "Soothdean"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Werner-Thorn_Ministry> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Retinal_hole> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Where_Did_the_Feeling_Go%3F> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/producer> "Abraham Quintanilla, Jr."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ngkisinron> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkisinron&action=history> .
+<http://dbpedia.org/property/urn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T00:50:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Plant_associate> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/ontology/wikiPageLength> "2528"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Steven_Long> <http://xmlns.com/foaf/0.1/name> "Long, Steven"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://en.wikipedia.org/wiki/Steven_Long> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/AuthorAuthor> .
+<http://dbpedia.org/resource/Wolfgang_Ruck> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/rebuilt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Taesung_Kishinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/agencyName> <http://www.w3.org/2000/01/rdf-schema#label> "agency name"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/tailNumber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/contributor/Tanbircdq> <http://www.w3.org/2000/01/rdf-schema#label> "Tanbircdq"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dark_Blue_(movie)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/genusAuthority> "Maddison, 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/chief1Position> "Board president"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/website> <http://www.heathschool.org.uk/> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/format> <http://dbpedia.org/resource/Compact_disc> .
+<http://dbpedia.org/resource/Bernd_Guse> <http://xmlns.com/foaf/0.1/name> "Guse, Bernd"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Prof%C3%A9nid> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taesung_kishillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rachav_(73-?)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=INS_Rachav_(73-?)&oldid=312601813> .
+<http://dbpedia.org/resource/INS_Tanin_(S71)> <http://dbpedia.org/ontology/wikiPageLength> "157"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Wendy_Carlos'_Clockwork_Orange> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/Work/runtime> "4.15"^^<http://dbpedia.org/datatype/minute> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/postcodeArea> "M"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tabuina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/VPMS_Workbench> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cheung_Fat_Shopping_Centre> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://xmlns.com/foaf/0.1/name> "The Heath School"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Cucudeta> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Lennie_Hayton&oldid=607954699> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/name> "Yamangalea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/CmdrObot> <http://www.w3.org/2000/01/rdf-schema#label> "CmdrObot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/releaseDate> "1997-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/property/updateSummary> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1997_singles> .
+<http://dbpedia.org/property/chief1Position> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Substance_flow_analysis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bob_Snyder_(musician)> <http://xmlns.com/foaf/0.1/name> "Snyder, Bob"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://xmlns.com/foaf/0.1/name> "Rao, Sarayu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/8th_Session_of_the_Serbian_Communist_Party> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Hunminjeongeum_Society_(Seoul)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/wikiPageOutDegree> "88"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Carole_Goodner> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Segunda_Divisi%C3%B3n_1943-44> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Africalpe_vagabunda> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Salford_Quays&oldid=607954649> .
+<http://dbpedia.org/resource/Foreign_Sec> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T02:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Frightened_Lady_(1932_film)> <http://xmlns.com/foaf/0.1/name> "The Frightened Lady"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://www.w3.org/2000/01/rdf-schema#comment> "The 1944 Cornwall-Massena earthquake occurred on Tuesday, September 5 at 12:38:45 am EWT in Massena, New York. It registered at magnitude 5.8 on the Richter scale and was felt for a great distance. This area is part of the Saint Lawrence River Valley and the seismically active zone known as the Saint Lawrence rift system. The earthquake is the largest known in New York's recorded history."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Oculo-auriculo-vertebral_dysplasia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/notableworks> "Death Without Dignity"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Carlos_Prendes> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Walk_on_Water_(band)> <http://xmlns.com/foaf/0.1/name> "Walk On Water"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ngkishinron> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T13:54:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Segunda_Divisi%C3%B3n_1969-70> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Tanin_(S71)> <http://dbpedia.org/ontology/wikiPageRevisionID> "540822256"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Taes?ngkisinron> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkisinron&oldid=312588250> .
+<http://dbpedia.org/resource/Oculo-mandibulo-duscephaly> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/updateCitations> <http://www.w3.org/2000/01/rdf-schema#label> "update citations"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/dfeno> <http://www.w3.org/2000/01/rdf-schema#label> "dfeno"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/recorded> "1989-10-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/country> "Scotland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Fresh_Air_Waltz> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/postcodeArea> "TD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Jatukam_Ramathep> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/property/name> "Sanremo"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Karel_Holec> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Tanin_(S71)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=INS_Tanin_(S71)&oldid=540822256> .
+<http://dbpedia.org/resource/Prismatic_effect_by_lens> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/property/subject> <http://www.w3.org/2000/01/rdf-schema#label> "subject"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Biula_propira> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageLength> "29"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/chief2Name> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Yamangalea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://dbpedia.org/property/status> "Ended"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/aircraftType> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Taes?ng_kisillon> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_kisillon&action=edit> .
+<http://dbpedia.org/property/logoCaption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/mapType> "Scotland"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Sanremo_railway_station&oldid=543347798> .
+<http://dbpedia.org/resource/Yamangalea> <http://dbpedia.org/property/species> "Y. frewana"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Battarrea_stevensii> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/title> "\"Enamorada de Ti\""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Retinal_element> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Eyetoy_(video_game_series)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/New_7_Wonders_of_Nature> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Phrynobatrachus_dispar> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Persistent_hyperplasia_of_the_primary_vitreous> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/released> "1997-02-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ocular_histoplasmosis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Syneda_mexicana> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/fatalities> <http://www.w3.org/2000/01/rdf-schema#label> "fatalities"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/passengers> <http://www.w3.org/2000/01/rdf-schema#label> "passengers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Referendary_Utriusque_Signaturae> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/artist> <http://dbpedia.org/resource/Selena> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/ontology/wikiPageModified> "2013-02-18T02:46:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/websiteName> "www.heathschool.org.uk"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/updateSummary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/property/crew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Alexander_Nikolayevich_Serov> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Tanin_(71-?)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taes?ngkishillon> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T14:02:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/subregnum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Taes?ngkishillon> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ngkishillon&action=edit> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/length> "249.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Revisional_Cosmetic_Surgery> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gynocentricity> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954707"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:54:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/property/tailNumber> "NC93044"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Africalpe_nubifera> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/tailNumber> <http://www.w3.org/2000/01/rdf-schema#label> "tail number"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/property/name> "The Heath School"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/ontology/wikiPageLength> "4436"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/property/updatePage> "yes"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/List_of_Billboard_number-one_country_albums_of_1983> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/ontology/wikiPageLength> "11692"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/National_Sanitary_Foundation> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joe_Pattison__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://dbpedia.org/ontology/wikiPageLength> "2535"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/The_Frightened_Lady_(1932_film)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/William_Paton_(pharmacologist)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Southdean> <http://xmlns.com/foaf/0.1/name> "Southdean"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Northwest_Airlines_Flight_421> <http://dbpedia.org/ontology/wikiPageRevisionID> "538812943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rub%C3%A9n_Iv%C3%A1n_Mart%C3%ADnez_Andrade> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/parentAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/shortDescription> "American journalist"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/logoCaption> <http://www.w3.org/2000/01/rdf-schema#label> "logo caption"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/jurisdiction> <http://www.w3.org/2000/01/rdf-schema#label> "jurisdiction"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Werner-Flesch_Ministry> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/site> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954699"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/BrownHairedGirl> <http://www.w3.org/2000/01/rdf-schema#label> "BrownHairedGirl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sarayu_Rao> <http://dbpedia.org/ontology/wikiPageLength> "4262"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Carlos_Prendes> <http://xmlns.com/foaf/0.1/name> "Prendes, Carlos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Retinal_elements> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Africalpe_anubia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Tanin_(S71)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/PMM1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Taes?ng_kisillon> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_kisillon&action=history> .
+<http://dbpedia.org/property/nobleFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Notre_Dame_Univerisity> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Latin_music> .
+<http://dbpedia.org/resource/Taes?ng_kishinron> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Taes?ng_kishinron&action=edit> .
+<http://dbpedia.org/resource/Indian_Army_during_the_First_World_War> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954649"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/BrownHairedGirl> <http://dbpedia.org/meta/contributorID> "754619"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Adolf_III_of_Holstein> <http://dbpedia.org/property/mother> "Mechthild of Schwarzburg-Käfernburg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Cineform> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cucudeta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Retinal_visual_cell> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rudi_Hiden> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:59Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Joachim_Wenzke> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Wolfgang_Ruck> <http://xmlns.com/foaf/0.1/name> "Ruck, Wolfgang"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Southdean> <http://dbpedia.org/property/officialName> "Southdean"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/ontology/wikiPageRevisionID> "543347798"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> .
+<http://dbpedia.org/resource/Salford_Quays> <http://dbpedia.org/property/osGridReference> "SJ807972"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Quadrantanopsia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Listowel_Ripper> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=The_Listowel_Ripper&oldid=577040919> .
+<http://dbpedia.org/resource/Indian_Army_during_the_Great_War> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lennie_Hayton> <http://dbpedia.org/ontology/wikiPageModified> "2014-05-10T19:53:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/description> "\"Enamorada de Ti\" is the Spanish version of \"Is It The Beat?\". Written and produced by A.B. Quintanilla III, Selena's brother."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/INS_Tanin_(71-?)> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T15:18:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ijhorst> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Heath_School> <http://dbpedia.org/ontology/wikiPageOutDegree> "20"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Pestisella_pestis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/property/imageCaption> "Building of the new station in 2009"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:MetroLyrics_song> .
+<http://dbpedia.org/resource/426th_Network_Warfare_Squadron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/formed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/PMM1> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Polyneuritiformis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Xqbot> <http://www.w3.org/2000/01/rdf-schema#label> "Xqbot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Marcus-Gunn_jaw_winking_syndrome> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/notableworks> "Out of Control"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/AuthorAuthor> <http://dbpedia.org/meta/contributorID> "5618112"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Tarrant_Lets_the_Kids_Loose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Sanremo_railway_station> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1944_Cornwall-Massena_earthquake> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:47Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Listowel_Ripper> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/INS_Rahav_(73-?)> <http://dbpedia.org/ontology/wikiPageLength> "61"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Alien_Logic:_A_Skyrealms_of_Jorune_Adventure> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Jorune> .
+<http://dbpedia.org/resource/Oregon_Geographic_Names_Board> <http://dbpedia.org/property/chief2Position> "Board secretary"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesung_kisillon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/ontology/wikiPageRevisionID> "552373156"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Micropthalmia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Heredopathia_atactica> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:48Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/La_Persistencia_de_Memoria> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mervil_Larson> <http://xmlns.com/foaf/0.1/name> "Larson, Mervil"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taes?ngkisinron> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-08T13:54:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Amurgian> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Yamangalea> <http://xmlns.com/foaf/0.1/name> "Yamangalea"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Steven_Long> <http://xmlns.com/foaf/0.1/name> "Steven Long"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bulia_confirmans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Dunya_telecom> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Carlos_Graeff> <http://xmlns.com/foaf/0.1/name> "Graeff, Carlos"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/property/street> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Sir_Hew_Dalrymple-Hamilton,_4th_Baronet> <http://dbpedia.org/ontology/wikiPageRevisionID> "607954759"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Retinal_pigment_epihelium> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:41Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Cydebot> <http://dbpedia.org/meta/contributorID> "1215485"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Songs_released_posthumously> .
+<http://dbpedia.org/resource/Una_River_(Bosnia_and_Herzegovina)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Ophthalmic_plastic_and_reconstructive_surgery> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/label> <http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Steven_Long> <http://dbpedia.org/property/name> "Long, Steven"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Andreanof_islands> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1944_Cornwall%E2%80%93Massena_earthquake> <http://dbpedia.org/property/countriesAffected> "Canada"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Taesung_Kisinron> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/nobleFamily> <http://www.w3.org/2000/01/rdf-schema#label> "noble family"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Salford_Quays> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Carlos_Graeff> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cooper_Center,_Michigan> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:58Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Is_It_the_Beat%3F> <http://dbpedia.org/property/cover> "SelenaIsItTheBeatSingle.jpg"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bulia_confirmans> <http://xmlns.com/foaf/0.1/name> "Bulia confirmans"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Ptotic> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:51Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Erhard_Riedrich> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-06-14T01:59:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Xqbot> <http://dbpedia.org/meta/contributorID> "8066546"^^<http://www.w3.org/2001/XMLSchema#integer> .
+# completed 2014-10-02T19:03:06Z

@@ -1,0 +1,1053 @@
+# started 2014-10-02T19:00:27Z
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-16T14:39:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/name> "Howell, Arlene"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380250"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Fact> .
+<http://dbpedia.org/contributor/AndrzejVillan> <http://www.w3.org/2000/01/rdf-schema#label> "AndrzejVillan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Robbie Ager"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Kieran Pace"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/dateOfBirth> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Charlie_and_Boots> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/locations> "Many  2008-03-31"@en .
+<http://dbpedia.org/resource/Jacarand%C3%A1_De_Brasil> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Live_(For_the_One_I_Love)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q532> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://dbpedia.org/property/name> "Lithia Springs Hotel"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Daniel Edwards"@en .
+<http://dbpedia.org/contributor/Poltergeist1911> <http://dbpedia.org/meta/contributorID> "22004066"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/contributor/Lockley> <http://dbpedia.org/meta/contributorID> "207616"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_114386> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/ontology/wikiPageLength> "6093"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/contributor/Hiddenstranger> <http://www.w3.org/2000/01/rdf-schema#label> "Hiddenstranger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Yemeni_American_Net> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Community_schools_in_Birmingham,_West_Midlands> .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Elliot Nash"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Christopher Duggan"@en .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Inopsis_funerea&oldid=621380215> .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/wikiPageLength> "3769"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/sp> "us"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Finnish_people_of_German_descent> .
+<http://dbpedia.org/resource/HD_33636> <http://xmlns.com/foaf/0.1/name> "HD33636 A / B"@en .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipName> "USS Sovereign"@en .
+<http://dbpedia.org/resource/Bogd_Khaanate_of_Mongolia> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bogd_Khaanate_of_Mongolia&oldid=621380210> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/officialName> "Victoria Day"@en .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/property/regionServed> "Andorra, Austria, Belgium, the Czech Republic, France, Germany, Gibraltar, Italy,  Liechtenstein, Luxembourg, Malta, Monaco, Portugal, Romania, San Marino, Slovakia, Spain, Switzerland, and Vatican City."@en .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/name> "Masahiro Yamada"@en .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/latDirection> "N"@en .
+<http://dbpedia.org/resource/SXION_23,_LLC> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_128311> <http://xmlns.com/foaf/0.1/name> "HD 128311"@en .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-1919)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia_(1911-1919)&oldid=621380199> .
+<http://dbpedia.org/contributor/Dravecky> <http://www.w3.org/2000/01/rdf-schema#label> "Dravecky"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://xmlns.com/foaf/0.1/surname> "Grotenfelt"@en .
+<http://dbpedia.org/resource/Bogd_Khaanate_of_Mongolia> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://en.wikipedia.org/wiki/Interjectio_denticulella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/property/name> "Aeluroidea"@en .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/class> "Type B"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FK_V%C4%97tra> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://dbpedia.org/ontology/wikiPageLength> "1508"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)__1> <http://dbpedia.org/ontology/title> "Screenwriter"@en .
+<http://dbpedia.org/resource/Aristide_Aubert_Dupetit-Thouars> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%931919)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/name> "U Make Me Wanna"@en .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/manager> "TBA"@en .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/holidayName> "(Fête de la Reine)"@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/U_Make_Me_Wanna_(Blue_song)> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/engine> "Hall-Scott gasoline"@en .
+<http://dbpedia.org/resource/Brazilian_apartheid> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911-1919> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/name> "MGVCL"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://xmlns.com/foaf/0.1/name> "Arlene Howell"@en .
+<http://en.wikipedia.org/wiki/Outer_Mongolia,_1911-1919> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Manufacturing_company> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipFate> "Returned to owner 1919"@en .
+<http://dbpedia.org/contributor/Bentogoa> <http://www.w3.org/2000/01/rdf-schema#label> "Bentogoa"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dhruma> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bogd_Khaanate_Mongolia> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/contributor/Bleaney> <http://dbpedia.org/meta/contributorID> "3441262"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/abstract> "Bromsgrove Sporting F.C. are a football club based in Bromsgrove, Worcestershire, England. The club was founded in 2009 and played their first season, 2010-11, in Midland Football Combination Division Two where they ended third. The club currently play in Division One of the newly formed Midland Football League."@en .
+<http://dbpedia.org/resource/Viewer_discretion> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/DuPont_Corporation> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Natalia_Villaveces&oldid=621380239> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/wikiPageOutDegree> "46"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/property/name> "HD 33636 B"@en .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Russell_family_(American_political_family)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://dbpedia.org/ontology/wikiPageLength> "1221"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kyakhta_Agreement_of_1914> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/abstract> "The Beaumont St. Louis and San Francisco Railroad Water Tank is a railroad water tank constructed in 1875, in Beaumont, Kansas. It served the St. Louis, Wichita & Western Railway, and was used to refill the boilers of steam locomotives on that line. It was added to the National Register of Historic Places in 1993.The Beaumont tower became the place where all passing steam trains took on their water and fuel. The nearby Beaumont St. Louis and San Francisco Railroad Retention Pond held the water supply that was piped to the water tank alongside the tracks where steam engines were re-supplied. In the era of steam-powered locomotives, watering stations like this one were essential to railroad transportation.The tower is made from sawcut and milled cypress staves bound by steel bands and has a fifty thousand gallon capacity. The tank is covered by a six-sided shingle roof and is elevated forty feet into the air by eight wooden piers on concrete footings.Technological advancements into deisel powered locomotives eliminated the need for large amounts of water. Over time, the tower became useless to the railroad but remained vital to the Beaumont community. The pump station was kept active and pipe was laid throughout the town for potable water supply. The tower continued to hold water and was in limited use until 1988.In 1989, people in the Beaumont community formed the \"Friends of the Beaumont Water Tower\" organization in efforts to preserve the tower. The group succeeded in acquiring the tower from the Burlington Northern Railroad Company in 1996 and completed repairs while taking preservation measures of the wooden structure. In 1998 the concrete foundations were strengthened. The community now holds a yearly water tower festival to raise funds and awareness for their cause."@en .
+<http://en.wikipedia.org/wiki/Inopsis_metella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Insalebria_serraticornella&oldid=621380271> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/wikiPageOutDegree> "45"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/longPeri> <http://www.w3.org/2000/01/rdf-schema#label> "long peri"@en .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Dravecky> <http://dbpedia.org/meta/contributorID> "4588674"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/ontology/wikiPageLength> "2822"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/property/location> <http://dbpedia.org/resource/Bern,_Switzerland> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/abstract> "Arlene Howell (born October 25, 1939), a.k.a. Eurlyne Howell, was an American television actress who held the Miss USA 1958 title.Howell became the first of three Miss Louisiana USA titleholders to win the Miss USA crown when she won the Miss USA 1958 pageant held in Long Beach, California in July 1958. That same week she competed in the Miss Universe pageant and placed as third runner-up.Just before she turned twenty, Howell was cast as the secretary, Melody Lee Mercer, in the ABC/Warner Brothers crime drama, Bourbon Street Beat, with Andrew Duggan, Richard Long, and Van Williams, The series is set in New Orleans in her native Louisiana, though she was born far to the north in Delhi in Richland Parish in the northeastern section of her state. The actor Earl Holliman was also born in Delhi but eleven years earlier.Howell appeared as Cindy Lou Brown in the ABC/WB western series, Maverick: in a cameo appearance in the oft-discussed episode \"Shady Deal at Sunny Acres\" and in the installments \"Island in the Swamp\" with James Garner and Edgar Buchanan, \"Alias Bart Maverick\", and \"Passage to Fort Doom\" opposite Jack Kelly.Howell was also cast in episodes of the ABC/WB series 77 Sunset Strip and Bronco and in ABC's Alcoa Premiere (in \"Whatever Happened to Miss Illinois?\"), and as \"Flora\" in an unusually memorable 1966 episode of CBS's Gomer Pyle, U.S.M.C., in which Gomer paired her off with a dumbfounded Sergeant Carter (Frank Sutton).Howell appears to have left show business at this juncture. She married Paul LaCava."@en .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Infurcitinea_argentimaculella&oldid=621380184> .
+<http://dbpedia.org/resource/Sire_Mandir_at_Jalore> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/pos> "MF"@en .
+<http://dbpedia.org/resource/Cammania> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Persondata> .
+<http://dbpedia.org/contributor/Ghmyrtle> <http://www.w3.org/2000/01/rdf-schema#label> "Ghmyrtle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Finnish_nobility> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bromsgrove_Sporting_F.C.&oldid=621380174> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/designer> "Blue Bird"@en .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/ontology/abstract> "HD 150706 is a 7th magnitude star in the constellation of Ursa Minor. It is a remarkably Sun-like yellow dwarf (spectral type G0V) being only 6% less massive than the Sun.Distance to the star, 89 light years, is enough that it is not visible to the unaided eye. However, it is an easy target for binoculars. It is located only about 10° from the northern celestial pole so it is always visible on the northern hemisphere except for near the equator. Likewise, it is never visible in most of the southern hemisphere.The existence of an extrasolar planet orbiting this star was announced at the Scientific Frontiers in Research on Extrasolar Planets conference in 2002 [1]. The claimed planet had a minimum mass equal to the mass of Jupiter and was thought to be located in an elliptical orbit with a period of 264 days. However independent measurements of the star failed to confirm the existence of the planet,  and the planet does not appear in the current web version of the Catalog of Nearby Exoplanets. [2] But another planet was discovered in system in 2012; this Jupiter-twin completes one orbit in roughly 16 years. Its eccentricity and orbit is very poorly constrained."@en .
+<http://dbpedia.org/resource/Lithuanians_and_Letts> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Historians_of_philosophy> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=None_of_Us_Are_Free&action=history> .
+<http://dbpedia.org/resource/Province_of_Armagh_(Roman_Catholic)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Russian_mtv> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/metal> "108.0"^^<http://dbpedia.org/datatype/perCent> .
+<http://dbpedia.org/resource/1_vs._100_(Philippine_version)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/wikiPageRevisionID> "627647583"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1998_World_Weightlifting_Championships_%E2%80%93_Men's_56_kg> <http://dbpedia.org/property/worldPlace> "—"@en .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/ontology/wikiPageLength> "5623"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Chaonian_cities> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://dbpedia.org/ontology/wikiPageLength> "1737"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://dbpedia.org/property/reason> "Meaning what? Billiard halls again, swimming pool rooms, rooms for betting?"@en .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911-1919> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia,_1911-1919&oldid=621380178> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-19)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Grade_I_listed_buildings_in_City_of_Bradford> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/coordDisplay> "inline, title"@en .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Maximilian_von_Mexiko&oldid=621380201> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/wikiPageLength> "13076"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/Iotaphora_admirabilis> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://en.wikipedia.org/wiki/Bogd_Khaanate_Mongolia> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/nat> "Ireland"@en .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/service> "Local"@en .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/name> "Irene’s Underwing"@en .
+<http://dbpedia.org/resource/Tung_Tau_(I)_Estate> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Niceguyedc> <http://dbpedia.org/meta/contributorID> "5288432"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/wikiPageOutDegree> "28"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/patternLa> "_red_stripes"@en .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/U_Make_Me_Wanna_(Blue_song)> <http://purl.org/dc/elements/1.1/language> "en"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Vicky_Verky> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson> .
+<http://dbpedia.org/resource/J_pouch> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/gender> "Female"@en .
+<http://dbpedia.org/resource/Rhisga> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Anti-prostitution_feminists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/membership> "900+"@en .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://www.w3.org/2000/01/rdf-schema#comment> "Interjectio denticulella is a species of snout moths in the genus Interjectio. It was described by Ragonot in 1887. It is found in California."@en .
+<http://en.wikipedia.org/wiki/Interjectio_niviella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/longtype> "Historical, cultural, nationalist"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/deathDate> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/contributor/AnomieBOT> <http://www.w3.org/2000/01/rdf-schema#label> "AnomieBOT"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/foundation> "Vadodara, INDIA"@en .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/property/system> "RER"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/relatedto> "Birthday of Queen Victoria"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_Helsinki> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipPropulsion> "Steam turbine, one shaft"@en .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1887> .
+<http://dbpedia.org/resource/St%C5%99edn%C3%AD_%C4%8Cechy> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Refimprove> .
+<http://dbpedia.org/resource/List_of_Ambassadors_of_the_United_Kingdom_to_Russia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lilian_Nordica> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/property/aricns> <http://www.w3.org/2000/01/rdf-schema#label> "ARICNS"@en .
+<http://dbpedia.org/resource/Mus_(card_game)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Mus_(card_game)&oldid=621380291> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/variable> <http://webviz.u-strasbg.fr/viz-bin/VizieR-S?V*%252520HN%252520Boo> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/bodyStyle> "School bus"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Joe Brookes"@en .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380293"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%9319)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia_(1911–19)&oldid=621380285> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mus_(card_game)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911%E2%80%931919> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:44Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/binomialAuthority> "Behr, 1870"@en .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageLength> "3559"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Miss_USA_1950s_delegates> .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Infurcitinea_ignicomella&oldid=621380198> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://dbpedia.org/property/caption> "Lithia Springs Hotel"@en .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/USS_Draco> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bayit_Vagan> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Italic_title> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/pref> "Saga"@en .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/predecessor> "Gujarat Electricity Board [GEB]"@en .
+<http://dbpedia.org/resource/Tung_Tau_(II)_Estate> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/name> "けやき台"@en .
+<http://dbpedia.org/resource/Dejan_Milosevski> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://www.w3.org/2000/01/rdf-schema#comment> "Insalebria concineratella is a species of snout moths in the genus Insalebria. It was described by Ragonot in 1887, and is known from Kazakhstan."@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Rico Taylor"@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Contemporary_R&B> .
+<http://en.wikipedia.org/wiki/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Lockley> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/ontology/wikiPageRevisionID> "624574196"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380249"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/epoch> "J2000"@en .
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipDraft> "aft"@en .
+<http://dbpedia.org/property/tPeri> <http://www.w3.org/2000/01/rdf-schema#label> "t peri"@en .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://dbpedia.org/ontology/abstract> "Insalebria concineratella is a species of snout moths in the genus Insalebria. It was described by Ragonot in 1887, and is known from Kazakhstan."@en .
+<http://dbpedia.org/resource/Mir_Ebrahim_Seyyed_Hatami> <http://xmlns.com/foaf/0.1/name> "Hatami, Mir Ebrahim Seyyed"@en .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380239"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://xmlns.com/foaf/0.1/nick> "The Rouslers"@en .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Only_A_Dream> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/frequency> "annual"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/birthName> "Arlene Howell"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380206"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/NUTS_Jihoz%C3%A1pad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Infurcitinea_ignicomella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/title> "Miss Louisiana USA1958"@en .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/property/epoch> "J2000.0"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1863_births> .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://dbpedia.org/ontology/wikiPageLength> "4317"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/name> "Yamada, Masahiro"@en .
+<http://dbpedia.org/resource/Thesprotian_cities> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/NUTS_St%C5%99edn%C3%AD_Morava> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=NUTS_Střední_Morava&action=history> .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Royal_College_of_Pathologists&oldid=621380193> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/ontology/wikiPageLength> "1125"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/ontology/wikiPageRevisionID> "621841640"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/None_of_Us_Are_Free> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380174"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380168"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1885> .
+<http://dbpedia.org/property/powerout> <http://www.w3.org/2000/01/rdf-schema#label> "powerout"@en .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1888> .
+<http://dbpedia.org/resource/Potter's_rot> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Akwasi_Nana> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Molossian_cities> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://xmlns.com/foaf/0.1/name> "پيرگز"@en .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://dbpedia.org/ontology/wikiPageLength> "5204"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911%E2%80%931919> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.sciencedirect.com/science/article/pii/S0361112478803396> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/f> "w"@en .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/type> "Public Limited"@en .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/ontology/wikiPageRevisionID> "625819067"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_150706> <http://www.w3.org/2000/01/rdf-schema#comment> "HD 150706 is a 7th magnitude star in the constellation of Ursa Minor. It is a remarkably Sun-like yellow dwarf (spectral type G0V) being only 6% less massive than the Sun.Distance to the star, 89 light years, is enough that it is not visible to the unaided eye. However, it is an easy target for binoculars. It is located only about 10° from the northern celestial pole so it is always visible on the northern hemisphere except for near the equator."@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/patternRa> "_red_stripes"@en .
+<http://dbpedia.org/resource/Oxphos> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1869_(computer_game)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:St._Louis%E2%80%93San_Francisco_Railway> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/bSide> "\"Made for Loving You\""@en .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Inter-European_Division_of_Seventh-day_Adventists&oldid=621380169> .
+<http://en.wikipedia.org/wiki/Incurvaria_vetulella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/KZUW> <http://dbpedia.org/property/frequency> "88.5"^^<http://dbpedia.org/datatype/megahertz> .
+<http://dbpedia.org/resource/Brazilian_Rosewood> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Ill> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/areaServed> "Gujarat [INDIA]"@en .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Incurvaria_vetulella&oldid=621380168> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/birthName> "Arlene Howell"@en .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911-1919> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:38Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/birthDate> "1863"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380271"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/spouse> "Paul LaCava"@en .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/abstract> "Natalia Villaveces is a TV host, writer, producer and blogger."@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-03T12:26:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380165"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://en.wikipedia.org/wiki/HD_33636> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Mike_s> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Finland-bio-stub> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-30T06:56:56Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://dbpedia.org/ontology/synonym> "*Tinea vinculimarginella (Bruand,[1854])"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/birthPlace> "Louisiana USA"@en .
+<http://dbpedia.org/contributor/Lekoren> <http://www.w3.org/2000/01/rdf-schema#label> "Lekoren"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/contributor/Lockley> <http://www.w3.org/2000/01/rdf-schema#label> "Lockley"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/elements/1.1/description> "Finnish academic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:1941_deaths> .
+<http://dbpedia.org/resource/Woman_in_Me> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://xmlns.com/foaf/0.1/name> "MGVCL"@en .
+<http://en.wikipedia.org/wiki/John_Loughlin_(bishop)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Poltergeist1911> .
+<http://dbpedia.org/resource/MDS_International> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%931919)> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/contributor/Lekoren> <http://dbpedia.org/meta/contributorID> "18024075"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380237"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/ontology/wikiPageRevisionID> "624563524"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://en.wikipedia.org/wiki/Catocala_irene> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Dger> .
+<http://en.wikipedia.org/wiki/None_of_Us_Are_Free> <http://purl.org/dc/elements/1.1/language> "en"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/route> "Kagoshima Main Line"@en .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://xmlns.com/foaf/0.1/name> "Rokhlin, Vladimir"@en .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/parent> "Gujarat Urja Vikas Nigam Ltd."@en .
+<http://en.wikipedia.org/wiki/Arvi_Grotenfelt> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/Arvi_Grotenfelt> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q215627> .
+<http://dbpedia.org/resource/Antukin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://www.w3.org/2000/01/rdf-schema#label> "None of Us Are Free"@en .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/wikiPageRevisionID> "626042599"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/ontology/wikiPageRevisionID> "624574274"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-07T19:29:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Kyakhta_Agreement_of_1914> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Diamond_In_Your_Mind> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Into_the_woods_(book)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/caption> "Arlene Howell Miss USA 1958"@en .
+<http://dbpedia.org/resource/Aeluroidea> <http://xmlns.com/foaf/0.1/name> "Aeluroidea"@en .
+<http://dbpedia.org/resource/Bogd_khaanate> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380229"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Reflist> .
+<http://dbpedia.org/resource/Rhian_Denise_Ramos_Howell> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Morey_mansion> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kisber_Feiver> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/abstract> "Athens International Radio (AIR 104.4 FM) is an Athens radio station aiming at a non-Greek speaking listenership. It broadcasts on 104.4 FM in 16 languages (not simultaneously), including English, French, German, Spanish, Italian, Russian, Arabic, Albanian, Polish, Bulgarian, Romanian, Tagalog, Portuguese, Chinese, Japanese and Urdu.The station produces more than 15 hours of locally produced programmes daily, consisting of news, music, traffic, weather, chat, comment and entertainment tips.The station broadcasts content from the BBC World Service, Radio France Internationale and Deutsche Welle.On September 16, 2010, an Athens public prosecutor confiscated AIR's transmitters on Mount Hymettus on the grounds that the radio was operating without a valid license. This led to AIR ceasing its broadcasts on the FM band, leaving it only with its 7/24 web livestream.The Greek National Broadcasting Council is to review the station's status on September 21, 2010 and is expected to issue a non-binding recommendation to the Telecommunications watchdog about AIR's future.Athens International Radio is a project of Athena 98.4 FM, a broadcasting company wholly owned by the Municipality of Athens.Foreign journalists Paul Anastasi and Lou Economopoulos created Athens International Radio (AIR 104.4 FM) in 2003 and in 2004 when Athens hosted the Olympic Games it began broadcasting. The story of Athens International Radio goes back to 1988 when Anastasi, an Anglo-Cypriot journalist who at that time was the Athens correspondent of the New York Times and the London Daily Telegraph, set up an AM radio station called Olympic Action, it was the first English-language radio station ever in Greece. The BBC granted the owners of Olympic Action, Free Press Group, the authority to receive BBC World Service radio programs via satellite as of January 1, 1989. In 2003, Anastasi asked Economopoulos to join the International Media Department of the Athens Municipality of which he was the director under Mayor Dora Bakoyanni and which was mainly set up for the Athens 2004 Olympics. One of the projects which Anastasi had planned for Athens was to create a radio station serving the foreign community and guests of the Greek capital. Due to his experience in radio programming, Anastasi asked Economopoulos to come up with a proposal for the radio station.First on Economopoulos' mind was to come up with a name for the station. He came up with Athens International Radio, with the initials AIR.A program guide was set up which included the best from the BBC World Service, programs from Radio France Internationale (RFI), Radio France Internationale Music and local programming from the International Media Department, including a morning magazine program which called Good Morning Athens which was to be live with news, features, traffic reports, weather reports, interviews, cultural events listing, financial news, Olympics news, City of Athens news, tourism news, etc. which would last 2.5 hours. On Saturday, March 6, 2004, Bakoyanni held a reception for the international media and diplomatic representatives at Zappeion Congress Hall in Athens to present the projects of the International Media Department of the City of Athens, Mayor's Cabinet, headed by Anastasi.\"We are here today to assume you that I, as Mayor of Athens, along with our International Media Department, have plans to make Athens as user-friendly as possible for the thousands of visiting foreign journalists and their associates, for the hundreds of thousands of permanent foreign residents in Athens, and for the millions of tourists,\" Bakoyanni said.\"For the first time in the history of any city hosting Olympic Games, this week we launched a 24-hour international radio station on 104.4 FM, featuring news and entertainment from the world-renowned BBC World Service. It broadcasts mainly in English, but will also contain programs and valuable news and useful advice in French and German, as well as news in brief in six more languages. The Athens International Radio station, which we have launched in cooperation with the Athens 2004 Organizing Committee for the Olympic Games, will become a valuable companion for foreigners and English-speaking Greeks in Athens and the surrounding regions, and especially for the foreign press,\" she added.Bakoyanni also mentioned the launching of a weekly magazine and guide, a news agency for tourism and culture news, the setting up of an International Press Club and a website to explain all the different activities of the International Media Department.As for the radio station, Bakoyanni turned over the responsibility to starting it to the municipal radio station Athina 98.4 FM and its director Giannis Politis and the new director of AIR 104.4 FM Thanos Economopoulos. After the departure of Thanos Economopoulos, Politis assigned Ersie Vatou and Panos Polyzoidis as directors of AIR 104.4 FM with Vana Theoharatou as the station's secretary.The first AIR 104.4 FM staff consisted of Alexia Amvrazi, Nickie Achimastos, Vanessa Alexakis, Tom Alexopoulos, Lou Economopoulos, Dimitris Dodis, Kalliopi Gonidaki, Lida Filippaki, Theodoris Zefkilis, Dionysis Iliadis, Teo Ioannou, Kerry Jacobs, Antonis Karayiannakis, Elena Karanatsi, Christos Karanatsis, Maria Katopodi, Vasiliki Kotzia, Vana Koutroulou, Ioulia Kostopoulou, Nickie Lymberaki, Elinda Lampropoulou, Takis Loukakis, Nick Malkoutzis, Tassos Mavris, Glyka Maglivera, Maria Nikolaidou, Eleftheria Pantziou, Barney Spender, Elen Skopi, Robert Stadler, Ioanna Stavropoulos, Lambrini Thoma, Magda Trichon, Thymis Tsiliopoulos, Apostolos Vaksevanelis, Constantine Venizelos, Alexandra Voudouri and Stavros Zorbas.Others added to the staff later were Nasim Alatras, Iason Athanasiadis, Panagis Galiatsatos, Maria Kangelidou, Theoni Papas, George Petropoulos, Antonis Pothitos, Danny Vergou and Georgia Voulieri. In 2009 the AIR 104.4 FM English staff consisted of Athena Korlira (Editor in Chief, Financial Editor), Helen Skopis (Presenter/co-editor Good Evening Athens), Barney Spender (Presenter/co-editor Good Evening Athens), Elinda Labropoulou (Journalist/co-presenter Good Evening Athens), Thymis Tsiliopoulos (Presenter/editor Good Morning Athens), Katerina Batzaki (Journalist/Presenter Good Morning Athens), Vaso Sklirou (Journalist/producer Good Morning Athens), Eleftheria Pantziou (Tourism editor, City of Athens editor), Lefteris Yalouros (Journalist/Good Morning Athens), Alexandra Voudouri (Diplomatic correspondent), Jina Moscholiou (Journalist/Good Morning Athens), Maria Katopodi (Music producer), Antonis Karayiannakis (Journalist), Panos Polyzoidis (Journalist), Christos Karanatsis (Journalist), Riva Lavva (Journalist), Alexia Amvrazi (Journalist), Asimina Tzatha (Journalist), Kostis Nikiforakis (Music producer), Jo Borchelle (Music producer), Dimitris Triantafyllidis (Journalist), Konstantinos Nasiri (Journalist), Glyka Maglivera (Journalist), Elena Karanatsi (Journalist) and Lou Economopoulos (Journalist); the Russian staff consisted of Elena Contratova (Journalist) and Alexandros Souprounov (Music producer); the Spanish staff consisted of Elia Ramirez (Journalist); the French staff consisted of Magda Trishon (Journalist), Nefeli Tzannetakou (Journalist) and Natasa Digoni (Journalist); the Polish staff consisted of Beata Panagiotopoulou (Journalist); the Bulgarian staff consisted of Valeria Spyrova (Journalist); the German staff consisted of Elisa Hubel (Journalist); the Romanian staff consisted of Veronica Tontor (Journalist); the Albanian staff consisted of Barda Manche (Journalist); the Filipino staff consisted of Veronica Corpuz (Journalist); the Italian staff consisted of Tassos Mavris (Journalist); the Arabic staff consisted of Christina Pavlakis (Journalist); and in charge of the AIR 104.4 FM portal, Niki Lymperaki (Journalist). The problems for AIR 104.4 FM began on September 16, 2010, when an Athens prosecutor confiscated the station's transmitters on Mount Hymettus on the grounds that AIR 104.4 FM was operating without a valid license. This led to the station ceasing its broadcasts on the FM band, leaving it only with its 24-hour web livestream.The National Radio Television Council reviewed the station's status on September 21, 2010 and refused to issue a temporary license for AIR 104.4 FM.AIR 104.4 FM issued the following statement on September 17, 2010:\"The public prosecutor's office proceeded yesterday with the unacceptable action of shutting down the transmission equipment of Athens International Radio 104.4 FM, the foreign language radio program of Municipal station Athina 98.4 FM. This comes shortly before the National Radio Television Council is due to opine on the station's status next Tuesday, September 21, 2010.AIR-FM provides news and entertainment to the immigrants and all foreigners living and working in Athens, as well as the city's visitors, while at the same time it serves as a cohesive reference point for the capital's foreign communities.AIR-FM is considered a unique global radio innovation as it has been broadcasting news and entertainment programs in 16 languages since 2004. It also broadcasts, as media partners, programs from the world's largest news networks (BBC World Service, Radio France Internationale, Deutsche Welle, China Radio International).Furthermore, AIR-FM is the exclusive broadcasting vehicle in Greece for China Radio International, and has been forced to close its transmission on the FM frequency as Athens prepares to welcome the Prime Minister of China, Wen Jiabao.Foreign embassies ande news agencies have already been informed and we request that all relevant ministers, Giannis Ragousis (Minister of Interior, Decentralization and Electronic Government), Dimitris Reppas (Minister of Infrastructure, Transport and Networks) and Giorgos Petalotis (Deputy Minister to the Prime Minister & Government Spokesperson), as well as all municipal representativbes state their position on the underlying motives behind the abrupt closure of a station that provides a public service for citizens without commercial objectives.AIR-FM will continue its 24-hour broadcasting normally over the internet.\"On September 20, 2010, the International Press Office of the City of Athens issued the following statement:\"Athens City Council examined the matter of the confiscation of a transmitter belonging to Athens International Radio (AIR) 104.4 FM, the foreign language program of Athina Municipal Radio 98.4 FM, during its September 20, 2010 meeting and passed a unanimous resolution stating that it:- considers the method via which the public prosecutor chose to implement the law to be selective and, for the most part, unjustifiable, considering that AIR 104.4 FM provides a community service as well as the arbitrariness that presently reigns in terms of utilization of radio frequencies, which are public property.- condemns the delay in the matter of issuing a license to AIR and calls for the immediate enforcement of a regulatory provision, as foreseen by the 'Roussopoulos law,' in order for the matter to be settled.- authorizes Athina Municipal Radio 98.4 FM (DERA) to undertake all possible legal measures in order to revoke the confiscation of municipal property.- will be represented by Athina Municipal Radio chairman Athanasios Kafezas and legal counsel Themis Sofos at tomorrow's meeting of the National Radio and Television Council, which will opine on the matter of AIR's license.- supports the public right to qualitatively inform citizens on a non-profit basis.- recognizes AIR's contribution to promoting the city and the integration of its migrants.- and demands the immediate resumption of AIR 104.4 FM operations.\"The employees of AIR 104.4 FM held a protest rally on October 27, 2010 outside the Dorian Inn Hotel in downtown Athens where a meeting of candidates for the municipality of Athens for the elections took place."@en .
+<http://dbpedia.org/resource/Ystrad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Oculi> <http://www.w3.org/2000/01/rdf-schema#label> "Oculi"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Westphalian_Bight> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_114386> <http://dbpedia.org/ontology/wikiPageLength> "2442"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aeluroidea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Interjectio_denticulella&oldid=621380279> .
+<http://en.wikipedia.org/wiki/None_of_Us_Are_Free> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380224"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/chairman> "John Teece"@en .
+<http://dbpedia.org/resource/Palo_Mataco> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1885> .
+<http://dbpedia.org/resource/Stemona_australiana> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/nickname> "The Rouslers"@en .
+<http://dbpedia.org/resource/Nightingales_and_Bombers> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Victoria_Day> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Bentogoa> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/Entertainment> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/names> "BD+80° 519, 22337, GCRV 9549, Gliese 632, HIP 80902, SAO 8557"@en .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Edge_localized_mode> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Kyakhta_Agreement_of_1914> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://xmlns.com/foaf/0.1/givenName> "Arvi"@en .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/designation> "Los Angeles"@en .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-1919)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lord_Temporal> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/nextSingle> "\"Guilty\""@en .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-1919)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Meteoritical_Society> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Tim%21> .
+<http://dbpedia.org/resource/Sit_This_One_Out> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipCountry> "United States"@en .
+<http://dbpedia.org/resource/Yayoigaoka_Station> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Italic_title> .
+<http://dbpedia.org/resource/La_la_(genre)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Josh McKenzie"@en .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/deathPlace> "Shinjuku, Tokyo"@en .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/latDirection> "N"@en .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1839> .
+<http://dbpedia.org/resource/Bogd_Khaanate_of_Mongolia> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380210"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911-1919> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageLength> "1493"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Athens_International_Radio&oldid=624200615> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/chassis> "Crown Coach; underfloor or rear engine"@en .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/simbad> "HD+150706"@en .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/NUTS_Severov%C3%BDchod> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Elphion> <http://dbpedia.org/meta/contributorID> "3382231"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/ontology/wikiPageRevisionID> "624211679"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/wikiPageRevisionID> "624200615"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/ESE_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/U_Make_Me_Wanna_(Blue_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://dbpedia.org/ontology/wikiPageLength> "2054"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bionicle_heroes> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Walter_Edward_Parrott> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/placeOfBirth> "Delhi, Louisiana USA"@en .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/wikiPageOutDegree> "7"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/property/aricns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://xmlns.com/foaf/0.1/name> "Arvi Grotenfelt"@en .
+<http://dbpedia.org/resource/Kyakhta_Agreement_of_1914> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Kyakhta_Agreement_of_1914&oldid=621380244> .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dutch_Draft> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/DanTD> .
+<http://dbpedia.org/contributor/Wgolf> <http://dbpedia.org/meta/contributorID> "13821812"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-1919)> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380199"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:1990s-R&B-song-stub> .
+<http://dbpedia.org/resource/Sex_meanings> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/viafId> "18002996"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911-1919> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380178"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/contributor/Mike_s> <http://www.w3.org/2000/01/rdf-schema#label> "Mike s"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bogd_Khaanate_of_Mongolia> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:54Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Interjectio_niviella&oldid=621380290> .
+<http://dbpedia.org/contributor/DanTD> <http://www.w3.org/2000/01/rdf-schema#label> "DanTD"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bogd_Khaanate_Mongolia> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380160"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/shortDescription> "American actor"@en .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380254"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/South_Central_Connecticut> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Trial_By_Fire:_Greatest_and_Latest> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1851> .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Gyges_of_Lydia&oldid=621380165> .
+<http://dbpedia.org/resource/Government_Aided> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1998_World_Weightlifting_Championships_%E2%80%93_Men's_56_kg> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Bogd_Khaanate_of_Mongolia> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/property/angDist> <http://www.w3.org/2000/01/rdf-schema#label> "ang dist"@en .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1884> .
+<http://dbpedia.org/resource/Christian_Biblical_canons> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://xmlns.com/foaf/0.1/name> "Bromsgrove Sporting"@en .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/placeOfDeath> "Shinjuku, Tokyo"@en .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://xmlns.com/foaf/0.1/name> "Aberdeen Centre"@en .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://xmlns.com/foaf/0.1/name> "John Loughlin"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/wikiPageLength> "7707"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Inopsis_catoxantha&oldid=621380207> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialPerson> .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__3> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Widzew_%C5%81%C3%B3d%C5%BA> .
+<http://dbpedia.org/resource/Pandero_octagonal> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Number_Sense> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/species> "C. irene"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/elements/1.1/description> "Finnish academic"@en .
+<http://dbpedia.org/resource/Battle_of_Changsha-Henyang> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/AnomieBOT> <http://dbpedia.org/meta/contributorID> "7611264"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mir_Ebrahim_Seyyed_Hatami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Tango_icon_theme> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/J.W._Golucke_&_Co.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Insalebria_concineratella&oldid=621380258> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/wikiPageLength> "1701"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/ontology/alias> "Umehara, Masahiro"@en .
+<http://dbpedia.org/resource/Bogd_Khaanate_Mongolia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/wikiPageLength> "3682"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Meteoritical_Society&oldid=621380276> .
+<http://dbpedia.org/resource/Sevdalin_Minchev> <http://xmlns.com/foaf/0.1/name> "Minchev, Sevdalin"@en .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/architecture> "Various 19th century styles"@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stemona_australiana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://en.wikipedia.org/wiki/Insalebria_serraticornella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://www.w3.org/2000/01/rdf-schema#comment> "\"U Make Me Wanna'\" is a song recorded by English boy band Blue. It was released as the third and final single from their second studio album, One Love (2002). It was released in 2003 in both the United Kingdom and the United States. A bilingual remake of the same name was included on Elva Hsiao's Love's Theme Song, Kiss album. Blue was featured on the track."@en .
+<http://dbpedia.org/resource/Bogd_khaanate> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/synonyms> "*Catocala volumnia\n*Catocala virgilia\n*Catocala valeria (H. Edwards, 1880)"@en .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://purl.org/dc/elements/1.1/description> "Russia-born American scientist, co-inventorfast multipole method"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1887> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://dbpedia.org/property/date> "October 2011"@en .
+<http://dbpedia.org/resource/Nueva_C%C3%A1ceres_(disambiguation)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/occupation> "Screenwriter"@en .
+<http://en.wikipedia.org/wiki/Natalia_Villaveces> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Meatsgains> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-04T21:46:40Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380198"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/wikiPageOutDegree> "24"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/St._Xavier's_Branch_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Rio_Rosewood> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/La_Chalupa_Research_Laboratory> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/property/superfamilia> "Aeluroidea"@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/cover> "Blue U Make Me Wanna.jpg"@en .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/NUTS_St%C5%99edn%C3%AD_Morava> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=NUTS_Střední_Morava&action=edit> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FK_V%C4%97tra> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/epe> "HD+150706"@en .
+<http://en.wikipedia.org/wiki/Outer_Mongolia_(1911–1919)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://en.wikipedia.org/wiki/Inopsis_catoxantha> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Pont-y-cymer> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Hiddenstranger> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://xmlns.com/foaf/0.1/name> "Pir Gaz"@en .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/wikiPageLength> "5953"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aristide_Aubert_Dupetit-Thouars_(1760-1798)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://xmlns.com/foaf/0.1/name> "Lithia Springs Hotel"@en .
+<http://dbpedia.org/resource/Mir_Ebrahim_Seyyed_Hatami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%9319)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kustannusosakeyhtio_Iltalehti> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380276"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bogd_Khaanate_Mongolia> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Unregulated_capitalism> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911%E2%80%931919> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380189"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/mass> ">3.21 ± 0.30"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikidata.dbpedia.org/resource/Q5> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/engine> "Cummins NHH diesel"@en .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Troia,_Epirus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/class> "K0V"@en .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/longDirection> "W"@en .
+<http://dbpedia.org/resource/KZUW> <http://dbpedia.org/property/class> "A"@en .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=None_of_Us_Are_Free&action=edit> .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://dbpedia.org/ontology/wikiPageLength> "1109"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://dbpedia.org/ontology/wikiPageLength> "908"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380258"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/name> "Kappe Residence"@en .
+<http://en.wikipedia.org/wiki/Inopsis_scylla> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/first> "The Final Scene"@en .
+<http://dbpedia.org/resource/Nietsche> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Dger> <http://dbpedia.org/meta/contributorID> "9297726"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/wikiPageLength> "4528"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/property/next> "Rungis – La Fraternelle"@en .
+<http://dbpedia.org/resource/Taifa_of_Huelva> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://dbpedia.org/ontology/wikiPageLength> "1228"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Leuwenhoek,_Anthony_van_Leeuwenhoek> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_114386> <http://dbpedia.org/ontology/wikiPageRevisionID> "624574080"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/MGVCL> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/abstract> "Aberdeen Centre is a shopping mall in Richmond, British Columbia. It is located in the Golden Village district on Hazelbridge Way, bordered by Cambie Road to the north.Their free wireless internet access is available in the mall in the 3rd floor food court."@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380233"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Operation_Gustavus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lich-Gate> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/property/name> "Athens International Radio"@en .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://www.w3.org/2000/01/rdf-schema#comment> "Athens International Radio (AIR 104.4 FM) is an Athens radio station aiming at a non-Greek speaking listenership."@en .
+<http://dbpedia.org/resource/Botanical_Garden_(Naples)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/nativeName> "山田 正弘"@en .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Luke Shearer"@en .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/property/type> "Religious/Non-Profit"@en .
+<http://dbpedia.org/resource/The_Judgment_(song)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://dbpedia.org/ontology/wikiPageLength> "1578"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Kappe_Residence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
+<http://dbpedia.org/resource/6-hydroxyflavone> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__4> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/G%C3%B3rnik_%C5%81%C4%99czna> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank&oldid=621380268> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/mass> ">2.18 ± 0.22"@en .
+<http://dbpedia.org/resource/Chamo,_Nigeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:34Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/exoplanet> "b"@en .
+<http://dbpedia.org/contributor/Cryptogamix> <http://dbpedia.org/meta/contributorID> "21495509"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://dbpedia.org/ontology/wikiPageLength> "1456"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/Bogd_khaanate> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/St%C5%99edn%C3%AD_%C4%8Cechy> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Střední_Čechy&oldid=531509737> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/ontology/wikiPageLength> "4551"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Albert_Paddington> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/classis> "Insecta"@en .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_American_mathematicians> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://www.w3.org/2000/01/rdf-schema#comment> "The Beaumont St. Louis and San Francisco Railroad Water Tank is a railroad water tank constructed in 1875, in Beaumont, Kansas. It served the St. Louis, Wichita & Western Railway, and was used to refill the boilers of steam locomotives on that line. It was added to the National Register of Historic Places in 1993.The Beaumont tower became the place where all passing steam trains took on their water and fuel. The nearby Beaumont St."@en .
+<http://en.wikipedia.org/wiki/Royal_College_of_Pathologists> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Tim%21> .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Pir_Gaz&oldid=621380293> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/G%C3%B3rnik_%C5%81%C4%99czna> .
+<http://en.wikipedia.org/wiki/Aeluroidea> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Cryptogamix> .
+<http://en.wikipedia.org/wiki/HD_128311> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Mike_s> .
+<http://dbpedia.org/resource/Stemona_australiana> <http://dbpedia.org/property/binomial> "Stemona australiana"@en .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911%E2%80%931919> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia,_1911–1919&oldid=621380189> .
+<http://en.wikipedia.org/wiki/Outer_Mongolia,_1911–1919> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Kappe_Residence> <http://xmlns.com/foaf/0.1/name> "Kappe Residence"@en .
+<http://en.wikipedia.org/wiki/Inopsis_modulata> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Geographical_Society> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Julia_A._Berwind> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/background> "#FFD800"@en .
+<http://en.wikipedia.org/wiki/Gyges_of_Lydia> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Elphion> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Vladimir_Rokhlin,_Jr.&oldid=621841640> .
+<http://dbpedia.org/resource/NUTS_St%C5%99edn%C3%AD_Morava> <http://dbpedia.org/ontology/wikiPageModified> "2009-09-18T05:18:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/NUTS_Severoz%C3%A1pad> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://xmlns.com/foaf/0.1/name> "Meteoritical Society"@en .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/shortDescription> "Japanese screenwriter"@en .
+<http://dbpedia.org/resource/Konone_Iemoto> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "William Tibbetts"@en .
+<http://dbpedia.org/resource/Stemona_australiana> <http://dbpedia.org/property/genus> "Stemona"@en .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/abstract> "\"None of Us Are Free\" is a rhythm and blues song written by Barry Mann, Cynthia Weil, and Brenda Russell.It was first recorded by Ray Charles on his 1993 album My World, but received relatively little attention at that time. A version was also included by Lynyrd Skynyrd on their 1997 album Twenty.In 2002, a version was recorded by soul singer Solomon Burke on his album Don't Give Up On Me. The track featured The Blind Boys of Alabama on backing vocals, and the album won the Grammy Award for Best Contemporary Blues Album, bringing Burke back into the public eye. The song was released as a single in the UK, and \"None of Us Are Free\" became a feature of Burke's later performances. The track was also featured at the end of the sixth episode of the second season of House."@en .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=None_of_Us_Are_Free&oldid=623753083> .
+<http://en.wikipedia.org/wiki/U_Make_Me_Wanna_(Blue_song)> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Maney_Hill_Primary_School&oldid=621380259> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/name> "Yamada Masahiro"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://www.w3.org/2000/01/rdf-schema#comment> "Arlene Howell (born October 25, 1939), a.k.a. Eurlyne Howell, was an American television actress who held the Miss USA 1958 title.Howell became the first of three Miss Louisiana USA titleholders to win the Miss USA crown when she won the Miss USA 1958 pageant held in Long Beach, California in July 1958."@en .
+<http://dbpedia.org/resource/Kustannusosakeyhti%C3%B6_Iltalehti> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919&oldid=621380172> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380215"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/col> "Red"@en .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/regnum> "Animalia"@en .
+<http://dbpedia.org/contributor/DanTD> <http://dbpedia.org/meta/contributorID> "1493851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=HD_128311&oldid=624574196> .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://www.w3.org/2000/01/rdf-schema#comment> "Interjectio niviella is a species of snout moths in the genus Interjectio. It was described by Hulst in 1888. It is found in Colorado, Manitoba, Alberta, North Dakota, Iowa and Arizona.The length of the forewings is about 12.3 mm. The ground color of the forewings is white."@en .
+<http://dbpedia.org/resource/Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:33Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://xmlns.com/foaf/0.1/name> "Natalia Villaveces"@en .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/wikiPageLength> "839"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taifa_of_Algarve> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Y_Porth> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Arvi_Grotenfelt> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Lekoren> .
+<http://dbpedia.org/resource/Christopher_hanke> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://xmlns.com/foaf/0.1/name> "Howell, Arlene"@en .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/ontology/wikiPageLength> "12474"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/ontology/wikiPageOutDegree> "47"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/position> "Premier Division, 2nd"@en .
+<http://dbpedia.org/resource/Paderborn_Plateau> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Stemona_australiana> <http://dbpedia.org/property/binomialAuthority> "C.H.Wright"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/pos> "FW"@en .
+<http://dbpedia.org/resource/Lithia_Springs_Hotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380169"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alfons_Marti> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-bef> .
+<http://dbpedia.org/resource/Grunge/Intro> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Unrestrained_capitalism> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/ontology/wikiPageOutDegree> "35"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageID> "6301439"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/property/regionServed> "World-wide"@en .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%9319)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bhavaniprasad_mishra> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chamo,_Nigeria> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Arson_in_the_royal_dockyards> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/HD_114386> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Mike_s> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/KZUW> <http://dbpedia.org/property/callsignMeaning> "K Z University of Wyoming"@en .
+<http://dbpedia.org/resource/UW%E2%80%93Platteville> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://xmlns.com/foaf/0.1/name> "Iotaphora admirabilis"@en .
+<http://dbpedia.org/resource/Bogd_khaanate> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Nana_Asare> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%931919)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia_(1911–1919)&oldid=621380260> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/engine> "Gasoline"@en .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/ontology/wikiPageOutDegree> "88"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Do_As_Infinity_Do_The_Best_%22Great_Supporters_Selection%22> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:03Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Chenab_river> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bogd_Khaanate_Mongolia> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bogd_Khaanate_Mongolia&oldid=621380160> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://www.w3.org/2000/01/rdf-schema#comment> "Aberdeen Centre is a shopping mall in Richmond, British Columbia. It is located in the Golden Village district on Hazelbridge Way, bordered by Cambie Road to the north.Their free wireless internet access is available in the mall in the 3rd floor food court."@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://xmlns.com/foaf/0.1/name> "(Fête de la Reine)"@en .
+<http://dbpedia.org/resource/Moravskoslezsko> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1_vs_100_(Philippine_Version)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/deathCause> "Lung cancer"@en .
+<http://dbpedia.org/resource/KZUW> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/HD_134060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalBody> .
+<http://en.wikipedia.org/wiki/Outer_Mongolia_(1911-1919)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:21st-century_American_mathematicians> .
+<http://dbpedia.org/resource/Pontllan-fraith> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/contributor/Mike_s> <http://dbpedia.org/meta/contributorID> "213131"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/writer> "John McLaughlin, Harry Wilkins, Steve Robson"@en .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Reflist> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/property/leaderName> "Bruno Vertallier"@en .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/nationality> "American"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/alias> "Eurlyne Howell"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Brett Mander"@en .
+<http://dbpedia.org/resource/Lufthansa_Flight_288> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/alternativeNames> "Umehara, Masahiro"@en .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:53Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kishorganj_District,_Bangladesh> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://xmlns.com/foaf/0.1/name> "Miloseski, Dejan"@en .
+<http://dbpedia.org/contributor/Tim%21> <http://www.w3.org/2000/01/rdf-schema#label> "Tim!"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=HD_150706&oldid=624574274> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/name> "Eustacia Andropov"@en .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/services> "Power Distribution"@en .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
+<http://dbpedia.org/contributor/Meatsgains> <http://dbpedia.org/meta/contributorID> "15420856"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Master_of_Arts_in_Higher_Education_and_Student_Development> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/None_of_Us_Are_Free> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Ghmyrtle> .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://en.wikipedia.org/wiki/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Toby Checketts"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/HD_114386> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=HD_114386&oldid=624574080> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Lewis Clarke"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation> .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/nrhpType> "hd"@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/thisSingle> "\"U Make Me Wanna'\""@en .
+<http://dbpedia.org/resource/Sevdalin_Minchev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://en.wikipedia.org/wiki/None_of_Us_Are_Free> <http://xmlns.com/foaf/0.1/primaryTopic> <http://dbpedia.org/resource/None_of_Us_Are_Free> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Craig Jones"@en .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-18T23:29:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Mus_(card_game)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=HD_33636&oldid=624563524> .
+<http://dbpedia.org/resource/Sevdalin_Minchev> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Dger> <http://www.w3.org/2000/01/rdf-schema#label> "Dger"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Caraud%C3%A1> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/caption> "A portrait in Ottawa City Hall of Queen Victoria, first sovereign of a confederated Canada"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://en.wikipedia.org/wiki/Arvi_Grotenfelt> .
+<http://dbpedia.org/property/semiAmp> <http://www.w3.org/2000/01/rdf-schema#label> "semi-amp"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#TimeInterval> .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/wikiPageOutDegree> "15"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Victoria_Day> <http://xmlns.com/foaf/0.1/name> "Victoria Day"@en .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://dbpedia.org/ontology/wikiPageOutDegree> "10"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Francois_Grosjean> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/league> "Midland League Division One"@en .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-ttl> .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:31Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/3-hydroxyflavone> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Solomon_Burke_songs> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1933> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Finnish_psychologists> .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Богд_хаант_Монгол_улс&action=history> .
+<http://dbpedia.org/resource/Laghetto_di_Morghirolo> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Inopsis_metella&oldid=621380224> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%931919)> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380260"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Inopsis_modulata&oldid=621380237> .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380193"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/namerom> "Keyakidai"@en .
+<http://en.wikipedia.org/wiki/Outer_Mongolia_(1911-19)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Caraud%C3%81> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Elphion> <http://www.w3.org/2000/01/rdf-schema#label> "Elphion"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-19)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/dateOfDeath> "1941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Dravidian_civilizations/Related_portals> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-07T19:30:29Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Daniel Ludlow"@en .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:46Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bacon_And_Eggs_(Will_&_Grace)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/town> "Kiyama"@en .
+<http://en.wikipedia.org/wiki/Inopsis_funerea> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-19)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Outer_Mongolia_(1911-19)&oldid=621380273> .
+<http://dbpedia.org/resource/440th_Troop_Carrier_Group> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/caption> "Keyakidai Station, January 2009"@en .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Ray_Charles_songs> .
+<http://dbpedia.org/resource/Coeliac_plexus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/name> "Blue Bird Mini Bird"@en .
+<http://dbpedia.org/contributor/Bentogoa> <http://dbpedia.org/meta/contributorID> "4282335"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380268"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Christopher Conway"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:20th-century_philosophers> .
+<http://dbpedia.org/resource/Inopsis_scylla> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Inopsis_scylla&oldid=621380249> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/name> "Crown Supercoach"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation> .
+<http://dbpedia.org/resource/HD_134060> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/property/district> "Miyaki"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/ground> "Victoria Ground"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/ontology/wikiPageLength> "21276"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/UW%E2%80%93Milwaukee> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cherry_blonde> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/property/format> <http://dbpedia.org/resource/News> .
+<http://dbpedia.org/resource/Sunday_mass> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/lastSingle> "\"Sorry Seems to Be the Hardest Word\""@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Aaron Williams"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://www.w3.org/2000/01/rdf-schema#comment> "Bromsgrove Sporting F.C. are a football club based in Bromsgrove, Worcestershire, England. The club was founded in 2009 and played their first season, 2010-11, in Midland Football Combination Division Two where they ended third. The club currently play in Division One of the newly formed Midland Football League."@en .
+<http://dbpedia.org/resource/Jacarand%C3%81_De_Brasil> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/property/frequency> "104.4"^^<http://dbpedia.org/datatype/megahertz> .
+<http://dbpedia.org/resource/KZUW> <http://dbpedia.org/property/owner> "University of Wyoming"@en .
+<http://dbpedia.org/contributor/Ghmyrtle> <http://dbpedia.org/meta/contributorID> "1698793"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://dbpedia.org/ontology/abstract> "Interjectio niviella is a species of snout moths in the genus Interjectio. It was described by Hulst in 1888. It is found in Colorado, Manitoba, Alberta, North Dakota, Iowa and Arizona.The length of the forewings is about 12.3 mm. The ground color of the forewings is white."@en .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:24Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Cotton_fever&oldid=621380228> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/wikiPageOutDegree> "31"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipNotes> "Operated as civilian yacht Sovereign 1911-1918 and from 1919"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-02T01:42:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/engine> "Diesel"@en .
+<http://dbpedia.org/resource/NUTS_St%C5%99edn%C3%AD_Morava> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/owner> "GUVNL"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:37Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_spiritual_peers> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Widzew_%C5%81%C3%B3d%C5%BA> .
+<http://en.wikipedia.org/wiki/Aberdeen_Centre> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/AnomieBOT> .
+<http://dbpedia.org/resource/DGVCL> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-01T19:55:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-04T20:07:32Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Finnish_philosophers> .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Madhya_Gujarat_Vij> <http://dbpedia.org/property/genre> "Corporat"@en .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-19)> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Kiffing> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1883> .
+<http://dbpedia.org/resource/List_of_schools_in_Visalia,_California> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/nationalcompetition> "Miss USA 1958"@en .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://www.w3.org/2000/01/rdf-schema#comment> "Pir Gaz (Persian: پيرگز‎, also Romanized as Pīr Gaz) is a village in Eshqabad Rural District, Miyan Jolgeh District, Nishapur County, Razavi Khorasan Province, Iran. At the 2006 census, its population was 269, in 69 families."@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/name> "Grotenfelt, Arvi"@en .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/longDirection> "W"@en .
+<http://dbpedia.org/resource/Atom_Bowl> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://xmlns.com/foaf/0.1/name> "U Make Me Wanna"@en .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://xmlns.com/foaf/0.1/name> "Masahiro Yamada"@en .
+<http://dbpedia.org/resource/Catocala_irene> <http://www.w3.org/2000/01/rdf-schema#comment> "Irene’s Underwing (Catocala irene) is a moth of the Noctuidae family. It is found in Utah and California and Nevada.The wingspan is 65–75 mm. Adults are on wing from July to September depending on the location. There is probably one generation per year.The larvae feed on Populus and Salix species."@en .
+<http://dbpedia.org/contributor/Bleaney> <http://www.w3.org/2000/01/rdf-schema#label> "Bleaney"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/David_Dougherty_(New_Zealander)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://xmlns.com/foaf/0.1/name> "Loughlin, John"@en .
+<http://dbpedia.org/resource/Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Lake_merritt,_texas> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipNamesake> "Previous name retained"@en .
+<http://dbpedia.org/resource/Gyges_of_Lydia> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:S-aft> .
+<http://dbpedia.org/contributor/Oculi> <http://dbpedia.org/meta/contributorID> "4460308"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/ontology/wikiPageLength> "6437"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jack_Poggi> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Vladimir_Rokhlin,_Jr.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%9319)> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380285"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/spectral> "G0V"@en .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://dbpedia.org/ontology/wikiPageOutDegree> "9"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://www.w3.org/2000/01/rdf-schema#comment> "\"None of Us Are Free\" is a rhythm and blues song written by Barry Mann, Cynthia Weil, and Brenda Russell.It was first recorded by Ray Charles on his 1993 album My World, but received relatively little attention at that time. A version was also included by Lynyrd Skynyrd on their 1997 album Twenty.In 2002, a version was recorded by soul singer Solomon Burke on his album Don't Give Up On Me."@en .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/doors> "Single-door"@en .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://www.w3.org/2000/01/rdf-schema#comment> "Natalia Villaveces is a TV host, writer, producer and blogger."@en .
+<http://dbpedia.org/resource/Master_of_Arts_in_Higher_Education_and_Student_Development_(MAHE)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Богд_хаант_Монгол_улс> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/platform> "Chevrolet P30"@en .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-1919)> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/binomial> "Catocala irene"@en .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/property/language> "English"@en .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://xmlns.com/foaf/0.1/name> "Eustacia Andropov"@en .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380290"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-18T05:27:30Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380201"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Jake Bedford"@en .
+<http://en.wikipedia.org/wiki/Insalebria_concineratella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/options> "Various customer options"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://xmlns.com/foaf/0.1/name> "Dejan Milošeski"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/title> "Miss Louisiana USA 1958"@en .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:49Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://xmlns.com/foaf/0.1/name> "Villaveces, Natalia"@en .
+<http://dbpedia.org/resource/Tweezer_Towers> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Ambassadors_of_the_United_Kingdom_to_Russia> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380262"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Catocala_irene&oldid=624211679> .
+<http://dbpedia.org/resource/USS_Sovereign_(SP-170)> <http://dbpedia.org/property/shipBuilder> "Charles L. Seabury and Company, Morris Heights, the Bronx, New York"@en .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/property/previous> "Orly-Ville"@en .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/property/name> "Inter-European  Division of Seventh-day Adventists"@en .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/fullname> "Bromsgrove Sporting Football Club"@en .
+<http://dbpedia.org/contributor/Tim%21> <http://dbpedia.org/meta/contributorID> "203786"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/HD_114386> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-07T19:28:42Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/1998_World_Weightlifting_Championships_%E2%80%93_Men's_56_kg> <http://dbpedia.org/property/worldAthlete> "World Standard"@en .
+<http://dbpedia.org/resource/Insalebria_concineratella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Akwasi_Asare> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Hydroxyflavone> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380172"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ilion,_Epirus> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:10Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kyakhta_Agreement_of_1914> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/governingBody> "Private; City of Schenectady"@en .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageOutDegree> "16"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/KZUW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Bogd_khaanate> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Bogd_khaanate&oldid=621380229> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/ontology/wikiPageLength> "5234"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/speciality> "Comedy"@en .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/name> "Union Street Historic District"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://xmlns.com/foaf/0.1/name> "Grotenfelt, Arvi"@en .
+<http://en.wikipedia.org/wiki/Arlene_Howell> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Dravecky> .
+<http://dbpedia.org/resource/Maximilian_von_Mexiko> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:50Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:43Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kiffing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/NUTS_Jihov%C3%BDchod> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/property/line> "C"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/nickname> "May Long Weekend, May Long, May Two-Four, May Run"@en .
+<http://dbpedia.org/resource/Ystrad-Rhondda> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/wikiPageLength> "4153"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Incurvaria_vetulella> <http://dbpedia.org/ontology/wikiPageLength> "1563"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Paderborn_Plateau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:23Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/abstract> "\"U Make Me Wanna'\" is a song recorded by English boy band Blue. It was released as the third and final single from their second studio album, One Love (2002). It was released in 2003 in both the United Kingdom and the United States. A bilingual remake of the same name was included on Elva Hsiao's Love's Theme Song, Kiss album. Blue was featured on the track."@en .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/mass> ">2.71"@en .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380184"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Bogd_Khaanate_of_Mongolia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Hiddenstranger> <http://dbpedia.org/meta/contributorID> "11241628"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alice_Cooper:_Trashes_The_World> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/ontology/abstract> "Irene’s Underwing (Catocala irene) is a moth of the Noctuidae family. It is found in Utah and California and Nevada.The wingspan is 65–75 mm. Adults are on wing from July to September depending on the location. There is probably one generation per year.The larvae feed on Populus and Salix species."@en .
+<http://dbpedia.org/resource/Pir_Gaz> <http://dbpedia.org/ontology/wikiPageLength> "1813"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/deathYear> "1941"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/St%C5%99edn%C3%AD_%C4%8Cechy> <http://dbpedia.org/ontology/wikiPageHistoryLink> <http://en.wikipedia.org/w/index.php?title=Střední_Čechy&action=history> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/species> "Human"@en .
+<http://dbpedia.org/resource/Interjectio_niviella> <http://dbpedia.org/ontology/wikiPageLength> "1267"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Czech> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/locmapin> "Los Angeles"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/nat> "England"@en .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/ontology/wikiPageModified> "2014-09-07T17:50:52Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Edwin_Brown_Alternative_High_School> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/birthYear> "1863"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Lascelles> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Jon_Gay> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:05Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Shopping_malls_established_in_1989> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/property/leaderTitle> "President"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/owner> "Bromsgrove Sporting Supporter's Trust"@en .
+<http://en.wikipedia.org/wiki/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/AndrzejVillan> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:People_from_the_Grand_Duchy_of_Finland> .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://dbpedia.org/ontology/wikiPageOutDegree> "58"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Anazah> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/St%C5%99edn%C3%AD_%C4%8Cechy> <http://dbpedia.org/ontology/wikiPageModified> "2013-01-05T21:24:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Arvi_Grotenfelt&oldid=627647583> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://xmlns.com/foaf/0.1/name> "Blue Bird Mini Bird"@en .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380228"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/HD_33636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalBody> .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Scientific_organizations_established_in_1962> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://xmlns.com/foaf/0.1/name> "Bromsgrove Sporting Football Club"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/type> "required"@en .
+<http://en.wikipedia.org/wiki/HD_150706> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Mike_s> .
+<http://dbpedia.org/resource/Banknotes_of_the_Estonian_kroon> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Keyakidai_Station> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Europe-philosopher-stub> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/wikiPageRevisionID> "619666628"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1_vs._100_Philippine> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/format> "CD single, Cassette"@en .
+<http://dbpedia.org/resource/Infurcitinea_ignicomella> <http://dbpedia.org/ontology/wikiPageLength> "1502"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/pos> "GK"@en .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:21Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/shortDescription> "Finnish academic"@en .
+<http://dbpedia.org/resource/List_of_Ambassadors_of_the_United_Kingdom_to_Russia> <http://dbpedia.org/ontology/wikiPageLength> "11093"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Beaumont_St._Louis_and_San_Francisco_Railroad_Water_Tank> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Water_towers_on_the_National_Register_of_Historic_Places> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_128311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#PhysicalBody> .
+<http://en.wikipedia.org/wiki/Maney_Hill_Primary_School> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Bleaney> .
+<http://dbpedia.org/resource/Aberdeen_Centre> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Aberdeen_Centre&oldid=621380206> .
+<http://dbpedia.org/resource/Inter-European_Division_of_Seventh-day_Adventists> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/property/classis> "Mammalia"@en .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/alt> "Three 19th century brick houses attached at the sides. The one on the left is brown, the center one white and the right one red."@en .
+<http://dbpedia.org/resource/Mus_(card_game)> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380291"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/property/wikiPageUsesTemplate> <http://dbpedia.org/resource/Template:Authority_control> .
+<http://dbpedia.org/resource/Repeating_decimals> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/pos> "DF"@en .
+<http://dbpedia.org/resource/Kappe_Residence> <http://dbpedia.org/property/governingBody> "private"@en .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Aeluroidea&oldid=625819067> .
+<http://dbpedia.org/resource/UKSIAC> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:16Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1874> .
+<http://dbpedia.org/resource/Edge-Localized_Mode> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Arvi_Grotenfelt> <http://purl.org/dc/elements/1.1/language> "en"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/patternB> "_red_stripes"@en .
+<http://dbpedia.org/resource/Outer_Mongolia,_1911%E2%80%931919> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:18Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/NUTS_St%C5%99edn%C3%AD_Morava> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=NUTS_Střední_Morava&oldid=314665819> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://dbpedia.org/ontology/abstract> "Pir Gaz (Persian: پيرگز‎, also Romanized as Pīr Gaz) is a village in Eshqabad Rural District, Miyan Jolgeh District, Nishapur County, Razavi Khorasan Province, Iran. At the 2006 census, its population was 269, in 69 families."@en .
+<http://en.wikipedia.org/wiki/Outer_Mongolia_(1911–19)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Xqbot> .
+<http://dbpedia.org/resource/Insalebria_serraticornella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1839> .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/property/type> "wall"@en .
+<http://dbpedia.org/contributor/Wgolf> <http://www.w3.org/2000/01/rdf-schema#label> "Wgolf"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/genus> "Catocala"@en .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1849> .
+<http://dbpedia.org/resource/List_of_Ambassadors_of_the_United_Kingdom_to_Russia> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=List_of_Ambassadors_of_the_United_Kingdom_to_Russia&oldid=621380262> .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Богд_хаант_Монгол_улс&action=edit> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/layout> "integrated 4x2"@en .
+<http://dbpedia.org/resource/Catocala_irene> <http://dbpedia.org/property/phylum> "Arthropoda"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Situation> .
+<http://dbpedia.org/resource/Don't_Look_Down_On_Me/Possession> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Royal_College_of_Pathologists> <http://dbpedia.org/ontology/wikiPageOutDegree> "44"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/wikiPageOutDegree> "16"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Victoria_Day> <http://xmlns.com/foaf/0.1/nick> "May Long Weekend, May Long, May Two-Four, May Run"@en .
+<http://dbpedia.org/resource/KZUW> <http://dbpedia.org/property/name> "KZUW"@en .
+<http://dbpedia.org/resource/Sevdalin_Minchev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson> .
+<http://dbpedia.org/resource/Stemona_australiana> <http://dbpedia.org/property/species> "S. australiana"@en .
+<http://dbpedia.org/resource/Harlequin_More_Than_Words> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/List_of_Ambassadors_of_the_United_Kingdom_to_Russia> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:20Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bogd_khaanate> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Itin> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/floortype> "High-floor"@en .
+<http://dbpedia.org/resource/Dejan_Milo%C5%A1eski> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:17Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/School_of_Armagh> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/Infurcitinea_argentimaculella> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Oculi> .
+<http://dbpedia.org/resource/Kyakhta_Agreement_of_1914> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380244"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/St%C5%99edn%C3%AD_%C4%8Cechy> <http://dbpedia.org/ontology/wikiPageEditLink> <http://en.wikipedia.org/w/index.php?title=Střední_Čechy&action=edit> .
+<http://dbpedia.org/resource/Cities_in_Chaonia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/ontology/wikiPageLength> "4183"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://en.wikipedia.org/wiki/List_of_Ambassadors_of_the_United_Kingdom_to_Russia> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Niceguyedc> .
+<http://dbpedia.org/contributor/Cryptogamix> <http://www.w3.org/2000/01/rdf-schema#label> "Cryptogamix"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Time_zones_in_Indiana> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_funerea> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:32:57Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Meatsgains> <http://www.w3.org/2000/01/rdf-schema#label> "Meatsgains"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Dusong_Mangban> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911-19)> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380273"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ganesh(Just_Ganesh)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=David_Wallace_(professor)&oldid=626042599> .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://dbpedia.org/ontology/abstract> "Interjectio denticulella is a species of snout moths in the genus Interjectio. It was described by Ragonot in 1887. It is found in California."@en .
+<http://dbpedia.org/resource/Pont_de_Rungis_%E2%80%93_A%C3%A9roport_d'Orly_(Paris_RER)> <http://dbpedia.org/property/type> "2.0"^^<http://dbpedia.org/datatype/nicaraguanCórdoba> .
+<http://dbpedia.org/resource/Bulunvoas> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Interjectio_denticulella> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380279"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Catocala_irene> <http://xmlns.com/foaf/0.1/name> "Irene’s Underwing"@en .
+<http://dbpedia.org/contributor/AndrzejVillan> <http://dbpedia.org/meta/contributorID> "17213042"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Mus_(card_game)> <http://dbpedia.org/ontology/wikiPageLength> "25864"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Verbaere> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/engine> "Detroit Diesel 671"@en .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://dbpedia.org/ontology/wikiPageRevisionID> "619497209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Pir_Gaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/d0.owl#Location> .
+<http://dbpedia.org/contributor/Xqbot> <http://www.w3.org/2000/01/rdf-schema#label> "Xqbot"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Crown_Supercoach> <http://dbpedia.org/property/chassis> "Single or tandem rear axles"@en .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:39Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Friend_of_the_British_Library> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Poltergeist1911> <http://www.w3.org/2000/01/rdf-schema#label> "Poltergeist1911"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://dbpedia.org/resource/Abwa> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/The_Cabinet_Room> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:15Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/African_province> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:13Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Niceguyedc> <http://www.w3.org/2000/01/rdf-schema#label> "Niceguyedc"^^<http://www.w3.org/2001/XMLSchema#string> .
+# <http://dbpedia.org/resource/David_Wallace_(professor)> <http://dbpedia.org/ontology/nationality> <BAD URI: Illegal character in path at index 6: United States> .
+<http://dbpedia.org/resource/Natalia_Villaveces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Outer_Mongolia_in_the_Bogd_Khaan_era,_1911-1919> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380207"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Infurcitinea_argentimaculella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Template:Nordic_navboxes/doc> <http://dbpedia.org/ontology/wikiPageRevisionID> "622866305"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Meteoritical_Society> <http://dbpedia.org/property/name> "Meteoritical Society"@en .
+<http://dbpedia.org/resource/David_Wallace_(professor)> <http://xmlns.com/foaf/0.1/name> "Wallace, David"@en .
+<http://dbpedia.org/resource/Mir_Ebrahim_Seyyed_Hatami> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:27Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://en.wikipedia.org/wiki/David_Wallace_(professor)> <http://dbpedia.org/meta/contributor> <http://dbpedia.org/contributor/Wgolf> .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://dbpedia.org/ontology/abstract> "Arvi Grotenfelt (10 April 1863, Helsinki - 29 March 1941), was a Finnish philosopher and psychologist.He was one of the founders of the Finnish Science Academy and the chairman of the Finnish Philosophical society 1905-36. He has studied for Wilhelm Wundt and Rudolf Eucken, and written on the subject of history philosophy. In his mind historiography is always estimating, as when it comes to the selection of sources, and this can be connected to weltanschauung.In his time Grotenfelt also was critical of the contemporary racism. He had knowledges of Houston Stewart Chamberlain, and disliked him especially. He also was critical to Arthur de Gobineaus ideas of Aryan superiority."@en .
+<http://dbpedia.org/resource/UGVCL> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://dbpedia.org/ontology/wikiPageModified> "2014-08-15T17:33:19Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%9319)> <http://dbpedia.org/ontology/wikiPageRedirects> <http://dbpedia.org/resource/Mongolia_(1911%E2%80%9324)> .
+<http://dbpedia.org/resource/Union_Street_Historic_District_(Schenectady,_New_York)> <http://dbpedia.org/property/locmapin> "New York"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Karl Gardner"@en .
+<http://dbpedia.org/resource/Cities_in_Molossia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_128311> <http://dbpedia.org/property/simbad> "HD+128311"@en .
+<http://dbpedia.org/resource/Evangelical_Church_Fellowship_of_Ethiopia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:09Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Taifa_of_Cordoba> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:11Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/name> "Luke Darby"@en .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/ontology/wikiPageLength> "2035"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Aeluroidea> <http://dbpedia.org/property/regnum> "Animalia"@en .
+<http://dbpedia.org/resource/HD_150706> <http://dbpedia.org/property/name> "HD 150706"@en .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Iotaphora_admirabilis&oldid=621380299> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/holidayName> "Victoria Day"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/celebrations> "Fireworks, parades"@en .
+<http://dbpedia.org/resource/Cotton_fever> <http://dbpedia.org/ontology/wikiPageExternalLink> <http://www.sciencedirect.com/science/article/pii/073646799090222H> .
+<http://dbpedia.org/resource/None_of_Us_Are_Free> <http://dbpedia.org/ontology/wikiPageRevisionID> "623753083"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/%D0%91%D0%BE%D0%B3%D0%B4_%D1%85%D0%B0%D0%B0%D0%BD%D1%82_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB_%D1%83%D0%BB%D1%81> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Богд_хаант_Монгол_улс&oldid=621380254> .
+<http://dbpedia.org/resource/African_Lemon-dove> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:12Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Dassaretia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:06Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://xmlns.com/foaf/0.1/name> "Yamada, Masahiro"@en .
+<http://dbpedia.org/resource/Yayoigaoka_Station> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://dbpedia.org/resource/John_Birmingham_(film-maker)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:01Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_modulata> <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Moths_described_in_1884> .
+<http://dbpedia.org/resource/Blue_Bird_Mini_Bird> <http://dbpedia.org/property/bodyStyle> "Commercial bus"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/property/clubname> "Bromsgrove Sporting"@en .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent> .
+<http://dbpedia.org/resource/Athens_International_Radio> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:25Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=U_Make_Me_Wanna_(Blue_song)&oldid=621380233> .
+<http://dbpedia.org/resource/Albert_Frederick_Brown> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:08Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/property/name> "Arlene Howell"@en .
+<http://dbpedia.org/resource/Raymond_Lee_Washington> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:02Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/DIII-D_Tokamak_Facility> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:04Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/HD_33636> <http://dbpedia.org/property/class> "G0VH-03 / M6V"@en .
+<http://dbpedia.org/resource/Bromsgrove_Sporting_F.C.> <http://dbpedia.org/ontology/wikiPageOutDegree> "35"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/last> "Curse of Blackmoor Manor"@en .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/property/longtype> "federal"@en .
+<http://dbpedia.org/resource/Arlene_Howell> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Arlene_Howell&oldid=619666628> .
+<http://dbpedia.org/resource/Woody_Dumas> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:07Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/John_Loughlin_(bishop)> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=John_Loughlin_(bishop)&oldid=619497209> .
+<http://dbpedia.org/resource/Kiju_Yoshida> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:26Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Inopsis_catoxantha> <http://dbpedia.org/ontology/wikiPageLength> "1338"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Maney_Hill_Primary_School> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380259"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Victoria_Day> <http://dbpedia.org/ontology/wikiPageRevisionLink> <http://en.wikipedia.org/w/index.php?title=Victoria_Day&oldid=621380250> .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/nativeNameLang> "ja"@en .
+<http://dbpedia.org/resource/Outer_Mongolia_(1911%E2%80%931919)> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:22Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/resource/Iotaphora_admirabilis> <http://dbpedia.org/ontology/wikiPageRevisionID> "621380299"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Catocala_irene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Eustacia_Andrapov> <http://dbpedia.org/property/portrayer> "Alena Saunders"@en .
+<http://dbpedia.org/resource/Arvi_Grotenfelt> <http://www.w3.org/2000/01/rdf-schema#comment> "Arvi Grotenfelt (10 April 1863, Helsinki - 29 March 1941), was a Finnish philosopher and psychologist.He was one of the founders of the Finnish Science Academy and the chairman of the Finnish Philosophical society 1905-36. He has studied for Wilhelm Wundt and Rudolf Eucken, and written on the subject of history philosophy."@en .
+<http://dbpedia.org/resource/Masahiro_Yamada_(screenwriter)> <http://dbpedia.org/property/placeOfBirth> "Tokyo"@en .
+<http://dbpedia.org/property/circles> <http://www.w3.org/2000/01/rdf-schema#label> "Circles"@en .
+<http://dbpedia.org/resource/U_Make_Me_Wanna_(Blue_song)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Contemporary_R&B> .
+<http://dbpedia.org/resource/Inopsis_metella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Organism> .
+<http://dbpedia.org/resource/Cities_in_Thesprotia> <http://dbpedia.org/ontology/wikiPageExtracted> "2014-10-02T19:00:14Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<http://dbpedia.org/contributor/Xqbot> <http://dbpedia.org/meta/contributorID> "8066546"^^<http://www.w3.org/2001/XMLSchema#integer> .
+# completed 2014-10-02T19:00:27Z
