@@ -4,8 +4,10 @@
 package de.unibonn.iai.eis.irap;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
+import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,8 +16,10 @@ import com.hp.hpl.jena.query.Query;
 import com.hp.hpl.jena.query.QueryFactory;
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
+import com.hp.hpl.jena.sparql.core.TriplePath;
 
-import de.unibonn.iai.eis.irap.evaluator.InterestEvaluator;
+import de.unibonn.iai.eis.irap.evaluator.EvaluationManager;
+import de.unibonn.iai.eis.irap.helper.Global;
 import de.unibonn.iai.eis.irap.helper.JenaModelUtils;
 import de.unibonn.iai.eis.irap.model.Changeset;
 import de.unibonn.iai.eis.irap.sparql.QueryDecomposer;
@@ -37,7 +41,13 @@ public class MainSync {
 	 * @param args
 	 */
 	 public static void main(String[] args) {
-		logger.info("Changeset counter starting at 0");
+		
+			
+		start();
+	 }
+
+	 private static void start(){
+		 logger.info("Changeset counter starting at 0");
 		 int lastChangeCount =0;
 		//6 digit seq and type => 000000.added.nt or 000000.removed.nt
 		
@@ -62,22 +72,23 @@ public class MainSync {
 				}
 				Model addedTriples = ModelFactory.createDefaultModel();
 				Model removedTriples = ModelFactory.createDefaultModel();
-				
+				logger.info("Reading added triples file: " + changesetAdded);
 				if(changesets.contains(changesetAdded)){
 					addedTriples = JenaModelUtils.readModel(changesetDownloadFolder+"/" + changesetAdded);
 				}
+				logger.info("Reading removed triples file:" + changesetRemoved);
 				if(changesets.contains(changesetRemoved)){
 					removedTriples = JenaModelUtils.readModel(changesetDownloadFolder+"/"+ changesetRemoved);
 				}
 				
 				//System.out.println(changesetAdded + " => "+changesetRemoved);
-			
+				logger.info("Creating changeset object");
 				Changeset changeset = new Changeset("http://live.dbpedia.org/changesets", removedTriples, addedTriples, getSequence(count));
-				InterestEvaluator evaluator = new InterestEvaluator(changeset);
-				evaluator.evaluate();
+				EvaluationManager evaluator = new EvaluationManager(changeset);
+				logger.info("Starting evaluation...");
+				evaluator.start();
 				count++;
-				
-			}		
+			}				
 			//sleep for 2 sec before reading the next changeset
 			try{
 				Thread.sleep(2000);
@@ -85,9 +96,8 @@ public class MainSync {
 				e.printStackTrace();
 			}
 		}
-		
-	}
-
+	
+	 }
 	 private static String getSequence(int seq){
 		 String sequence = "";
 		 if(seq < 10){
@@ -108,15 +118,15 @@ public class MainSync {
 	 
 	 private static void emptyEndpoints(){
 		 String target="http://localhost:3030/target/sparql";
-		 String pi= "http://localhost:3030/irap/sparql";
+		 String pi= Global.PI_SPARQL_ENDPOINT;
 		 String consQ = "CONSTRUCT {?s ?p ?o} where {?s ?p ?o}";
 		 Query tconst = QueryFactory.create(consQ);
 		 tconst.setQueryConstructType();
 		 Model targetData  = SPARQLExecutor.executeConstruct(target, tconst);
 		 System.out.println("Target Data: \n ========================================================================================");
-		 targetData.write(System.out, "N-TRIPLE");
+		 //targetData.write(System.out, "N-TRIPLE");
 		 
-		 StringBuffer targetQuery = QueryDecomposer.toUpdate(targetData, false);
+		 StringBuilder targetQuery = QueryDecomposer.toUpdate(targetData, false);
 		 
 		 boolean targetR = SPARQLExecutor.executeUpdate( "http://localhost:3030/target/update", targetQuery.toString());
 		
@@ -127,11 +137,11 @@ public class MainSync {
 		 }
 		 String piconst = "CONSTRUCT {?s ?p ?o} where {GRAPH ?g {?s ?p ?o}}";
 		 Query picon = QueryFactory.create(piconst);
-		 picon.setQueryConstructType();
+		 //picon.setQueryConstructType();
 		 Model piData = SPARQLExecutor.executeConstruct(pi, picon);
 		 System.out.println("PI Data: \n ========================================================================================");
-		 piData.write(System.out, "N-TRIPLE");
-		 StringBuffer piQuery = QueryDecomposer.toUpdate(piData,"http://eis.iai.uni-bonn.de/irap/PI/i0001" , false);
+		// piData.write(System.out, "N-TRIPLE");
+		 StringBuilder piQuery = QueryDecomposer.toUpdate(piData,"http://eis.iai.uni-bonn.de/irap/PI/i0001" , false);
 		 
 		 boolean piR = SPARQLExecutor.executeUpdate("http://localhost:3030/irap/update", piQuery.toString());
 		 if(piR){

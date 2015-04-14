@@ -9,14 +9,20 @@ import java.util.List;
 import java.util.ListIterator;
 import java.util.Set;
 
+import org.apache.log4j.Logger;
+
 import com.hp.hpl.jena.graph.Node;
 import com.hp.hpl.jena.query.Query;
 import com.hp.hpl.jena.sparql.core.TriplePath;
 import com.hp.hpl.jena.sparql.core.Var;
+import com.hp.hpl.jena.sparql.expr.Expr;
+import com.hp.hpl.jena.sparql.syntax.ElementFilter;
 import com.hp.hpl.jena.sparql.syntax.ElementOptional;
 import com.hp.hpl.jena.sparql.syntax.ElementPathBlock;
 import com.hp.hpl.jena.sparql.syntax.ElementVisitorBase;
 import com.hp.hpl.jena.sparql.syntax.ElementWalker;
+
+import de.unibonn.iai.eis.irap.helper.LoggerLocal;
 
 /**
  * @author keme686
@@ -24,6 +30,7 @@ import com.hp.hpl.jena.sparql.syntax.ElementWalker;
  */
 public class QueryPatternExtractor {
 
+	static Logger logger =LoggerLocal.getLogger(QueryPatternExtractor.class.getName());
 	/**
 	 * extracts list of triple paths of a query without considering the constructs used in query block
 	 * 
@@ -32,6 +39,8 @@ public class QueryPatternExtractor {
 	 */
 	public static List<TriplePath> getBGPTriplePaths(Query query){
 		final List<TriplePath> paths= new ArrayList<TriplePath>();
+		final List<TriplePath> optpaths= new ArrayList<TriplePath>();
+		
 		ElementWalker.walk(query.getQueryPattern(), new ElementVisitorBase(){
 			@Override
 			public void visit(ElementPathBlock el) {
@@ -41,14 +50,34 @@ public class QueryPatternExtractor {
 					paths.add(tp);
 				}
 			}
-			/*@Override
-			public void visit(ElementSubQuery el) {
-				ElementWalker.walk(el.getQuery().getQueryPattern(), this);
-			}*/
+			@Override
+			public void visit(ElementOptional el) {
+				ElementWalker.walk(el.getOptionalElement(), new ElementVisitorBase(){
+					@Override
+					public void visit(ElementPathBlock el) {
+						ListIterator<TriplePath> lit = el.getPattern().iterator();
+						while(lit.hasNext()){
+							TriplePath tp = lit.next();
+							optpaths.add(tp);
+						}
+					}
+				});
+			}
 		});
+		paths.removeAll(optpaths);
 		return paths;
 	}
 	
+	public static List<Expr> getFilters(Query query){
+		final List<Expr> exprs = new ArrayList<Expr>();
+		ElementWalker.walk(query.getQueryPattern(), new ElementVisitorBase(){
+			@Override
+			public void visit(ElementFilter el) {
+				exprs.add(el.getExpr());
+			}
+		});		
+		return exprs;
+	}
 	/**
 	 * get list of triple paths with optional patterns
 	 * @param query
@@ -57,7 +86,6 @@ public class QueryPatternExtractor {
 	public static List<TriplePath> geTriplePathsWithtOptionals(Query query){
 		final List<TriplePath> paths= new ArrayList<TriplePath>();
 		ElementWalker.walk(query.getQueryPattern(), new ElementVisitorBase(){
-		
 			@Override
 			public void visit(ElementOptional el) {
 				ElementWalker.walk(el.getOptionalElement(), new ElementVisitorBase(){
@@ -129,6 +157,8 @@ public class QueryPatternExtractor {
 		}
 		return "o";
 	}
+	
+	
 	
 
 }

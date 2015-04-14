@@ -28,13 +28,13 @@ import de.unibonn.iai.eis.irap.sparql.SPARQLExecutor;
  * @author keme686
  *
  */
-public class InterestEvaluator {
+public class EvaluationManager {
 
-	private static Logger logger = LoggerLocal.getLogger(InterestEvaluator.class.getName());
+	private static Logger logger = LoggerLocal.getLogger(EvaluationManager.class.getName());
 	private Changeset changeset;
 	
 	
-	public InterestEvaluator(Changeset changeset) {
+	public EvaluationManager(Changeset changeset) {
 		this.changeset  = changeset;
 	}
 	
@@ -42,14 +42,18 @@ public class InterestEvaluator {
 	 * evaluate all interests on a changeset in parallel for each subscriber
 	 * Called from: ChangesetManager
 	 */
-	public void evaluate(){
+	public void start(){
 		List<Subscriber> subscribers = getSubscribers(changeset);
-		
-		for(Subscriber s: subscribers){			
+		logger.info("Changeset: " + changeset.getUri() + " - " + changeset.getSequenceNum());
+		for(Subscriber s: subscribers){	
+			logger.info("Subscriber: " + s.getName());
+			logger.info("Interests: " + s.getInterests().size());
+			if(!s.getInterests().isEmpty())
 			//TODO: make evaluation in different threads for each subscriber.
-			new EvaluationThread(s, changeset).evaluateChangeset();
+				new InterestEvaluation(s, changeset).evaluateChangeset();
 			
 		}
+		logger.info("---------------------------------------------");
 	}
 	
 	public  List<Subscriber> getSubscribers(Changeset changeset){
@@ -58,6 +62,10 @@ public class InterestEvaluator {
 		
 		ResultSet rs = SPARQLExecutor.executeSelect(Global.PI_SPARQL_ENDPOINT, query);
 		Map<String, Subscriber> results = new HashMap<String, Subscriber>();
+		if(rs == null){
+			logger.error("Invalid PI SPARQL ENDPOINT! Either the endpoint is not started or invalid endpoint information was given!" );
+			System.exit(1);
+		}
 		while(rs.hasNext()){
 			QuerySolution s = rs.nextSolution();
 			RDFNode subscriberRes = s.get("subscriber");	

@@ -3,6 +3,8 @@
  */
 package de.unibonn.iai.eis.irap.sparql;
 
+import org.apache.log4j.Logger;
+
 import com.hp.hpl.jena.graph.Node;
 import com.hp.hpl.jena.query.Dataset;
 import com.hp.hpl.jena.query.Query;
@@ -10,11 +12,6 @@ import com.hp.hpl.jena.query.QueryExecution;
 import com.hp.hpl.jena.query.QueryExecutionFactory;
 import com.hp.hpl.jena.query.ResultSet;
 import com.hp.hpl.jena.rdf.model.Model;
-import com.hp.hpl.jena.rdf.model.Property;
-import com.hp.hpl.jena.rdf.model.RDFNode;
-import com.hp.hpl.jena.rdf.model.Resource;
-import com.hp.hpl.jena.rdf.model.Statement;
-import com.hp.hpl.jena.rdf.model.StmtIterator;
 import com.hp.hpl.jena.sparql.core.TriplePath;
 import com.hp.hpl.jena.sparql.vocabulary.FOAF;
 import com.hp.hpl.jena.update.UpdateAction;
@@ -26,6 +23,8 @@ import com.hp.hpl.jena.vocabulary.OWL;
 import com.hp.hpl.jena.vocabulary.RDF;
 import com.hp.hpl.jena.vocabulary.RDFS;
 
+import de.unibonn.iai.eis.irap.helper.LoggerLocal;
+
 
 /**
  * @author keme686
@@ -33,6 +32,7 @@ import com.hp.hpl.jena.vocabulary.RDFS;
  */
 public class SPARQLExecutor {
 
+	static Logger logger = LoggerLocal.getLogger(SPARQLExecutor.class.getName());
 	/////////////////////////////////////////////////////////////////////////////
 	/////////////////QUERY EXECUTION ///////////////////////////////////////////
 	///////////////////////////////////////////////////////////////////////////
@@ -102,6 +102,7 @@ public class SPARQLExecutor {
 			return result;
 		}catch(Exception e){
 			e.printStackTrace();
+			logger.error("Make sure the endpoint is running!");
 		}
 		return null;
 	}
@@ -144,7 +145,7 @@ public class SPARQLExecutor {
 	//////////////////////////////////////////////////////////////////////////////////////
 
 	public static boolean executeUpdate(Object dataset, String queryStr){
-		try{			
+		try{						
 			if(dataset == null){
 				return false;
 			}else if(dataset instanceof String){
@@ -164,59 +165,12 @@ public class SPARQLExecutor {
 			return  true;
 		}catch(Exception e){
 			e.printStackTrace();
+			logger.error(e.getMessage());
+			logger.info(queryStr);
 		}
 		return false;		
 	}
 	
-	
-	public static boolean executeUpdateOnEndpoint(String endpoint, Model model, int type){
-		try{
-			String queryStr="";
-				queryStr = prepareUpdateQuery(model, type);
-			
-			/*HttpContext httpContext = new BasicHttpContext();
-			httpContext.setAttribute("Content-Type", "application/x-www-form-urlencoded");
-			httpContext.setAttribute("update", "SPARQL");*/
-			
-			UpdateRequest request1 = UpdateFactory.create(queryStr);
-			UpdateProcessor proc = UpdateExecutionFactory.createRemote(request1, endpoint);
-			//((UpdateProcessRemote)proc).setHttpContext(httpContext);
-			proc.execute();
-		}catch(Exception e){
-			e.printStackTrace();
-			return false;
-		}
-		return true;
-	}
-	
-	public static String prepareUpdateQuery(Model model, int type){
-		String queryStr = "";
-		if(type == 0)//Delete
-			queryStr +=" DELETE DATA {";
-		else 
-			queryStr += " INSERT DATA {";
-		StmtIterator stit = model.listStatements();
-		while(stit.hasNext()){
-			Statement st = stit.next();
-			Resource s = st.getSubject();
-			queryStr += "\n";
-			queryStr += "  <"+ s.toString() +">  ";
-			Property p = st.getPredicate();
-			queryStr += " <" + p.toString() + "> ";
-			RDFNode o = st.getObject();
-			if(o.isURIResource() ) {
-				queryStr +=  " <"+o.toString()+"> ";
-			} else if(o.isAnon()) {
-				queryStr +=  " [] ";
-			} else {
-				queryStr += " \""+ o.toString() +"\" ";
-			}
-			queryStr += " .";
-		}
-		queryStr += " }";
-		return queryStr;
-	}
-
 
 	////////////////////////////////////////////////////////////////////
 	/////////PREFIXES /////////////////////////////////////////////////
@@ -249,6 +203,7 @@ public class SPARQLExecutor {
 				+ " PREFIX dbpedia-owl: <http://dbpedia.org/ontology/> " 
 				+ " PREFIX dbpedia-prop: <http://dbpedia.org/property/> "
 				+ " PREFIX irap:    <http://eis.iai.uni-bonn.de/irap/ontology/> "
+				+ " PREFIX xsd:    <http://www.w3.org/2001/XMLSchema#>"
 				+ " PREFIX :    <http://eis.iai.uni-bonn.de/irap/> ";
 	}
 	

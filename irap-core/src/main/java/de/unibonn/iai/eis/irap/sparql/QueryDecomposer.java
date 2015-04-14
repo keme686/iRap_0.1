@@ -5,7 +5,6 @@ package de.unibonn.iai.eis.irap.sparql;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Matcher;
 
 import com.hp.hpl.jena.graph.Node;
 import com.hp.hpl.jena.graph.Triple;
@@ -22,6 +21,7 @@ import com.hp.hpl.jena.sparql.core.BasicPattern;
 import com.hp.hpl.jena.sparql.core.TriplePath;
 import com.hp.hpl.jena.sparql.syntax.ElementGroup;
 import com.hp.hpl.jena.sparql.syntax.ElementNamedGraph;
+import com.hp.hpl.jena.sparql.syntax.ElementOptional;
 import com.hp.hpl.jena.sparql.syntax.ElementPathBlock;
 import com.hp.hpl.jena.sparql.syntax.Template;
 
@@ -86,6 +86,7 @@ public class QueryDecomposer {
 		List<Query> askQueries = new ArrayList<Query>();
 
 		for (List<TriplePath> tp : combinations) {
+			//TODO: add tp to list only if its non-disjoint
 			askQueries.add(toAskQuery(tp));
 		}
 		return askQueries;
@@ -103,28 +104,27 @@ public class QueryDecomposer {
 		}
 		List<List<TriplePath>> combinations = new ArrayList<List<TriplePath>>();
 		combineTriples(paths, length, 0, combinations, new TriplePath[length], 0);
-		List<Query> askQueries = new ArrayList<Query>();
+		List<Query> constQueries = new ArrayList<Query>();
 
 		for (List<TriplePath> tp : combinations) {
-			askQueries.add(toConstructQuery(tp));
+			//TODO: add tp to list only if its non-disjoint
+			constQueries.add(toConstructQuery(tp));
 		}
-		return askQueries;
+		return constQueries;
 	}	
 	
-	private static int combineTriples(List<TriplePath> paths, int length, int startPosition, List<List<TriplePath>> result,	TriplePath[] partialRes, int count) {
+	public static int combineTriples(List<TriplePath> paths, int length, int startPosition, List<List<TriplePath>> result,	TriplePath[] partialRes, int count) {
 		if (length == 0) {
 			List<TriplePath> triples = new ArrayList<TriplePath>();
 			for (TriplePath p : partialRes) {
 				triples.add(p);
 			}
 			result.add(triples);
-
 			return ++count;
 		}
 		for (int i = startPosition; i <= paths.size() - length; i++) {
 			partialRes[partialRes.length - length] = paths.get(i);
-			count = combineTriples(paths, length - 1, i + 1, result,
-					partialRes, count);
+			count = combineTriples(paths, length - 1, i + 1, result, partialRes, count);
 		}
 		return count;
 	}
@@ -147,6 +147,16 @@ public class QueryDecomposer {
 	 * @return a CONSTRUCT sparql query composed by using the given list of paths as a template and query pattern
 	 */
 	public static Query toConstructQuery(List<TriplePath> paths){
+		return toConstructQuery(paths, new ArrayList<TriplePath>());
+	}
+	/**
+	 * compose a CONSTRUCT query from a list basic graph patterns and optional patterns
+	 * 
+	 * @param paths
+	 * @param optPaths
+	 * @return
+	 */
+	public static Query toConstructQuery(List<TriplePath> paths, List<TriplePath> optPaths){
 		ElementPathBlock block = new ElementPathBlock();
 		List<Triple> triples = new ArrayList<Triple>();
 		for(TriplePath path: paths){
@@ -155,6 +165,17 @@ public class QueryDecomposer {
 		}	
 		ElementGroup group = new ElementGroup();
 		group.addElement(block);
+		
+		if(!optPaths.isEmpty()){
+			ElementPathBlock optBlock = new ElementPathBlock();
+			for(TriplePath path: optPaths){
+				optBlock.addTriple(path);
+				triples.add(path.asTriple());
+			}	
+			ElementOptional opts = new ElementOptional(optBlock);
+			
+			group.addElement(opts);
+		}
 		
 		Query decomposedQuery = QueryFactory.make();
 		decomposedQuery.setQueryConstructType();
@@ -167,6 +188,7 @@ public class QueryDecomposer {
 		
 		return decomposedQuery;
 	}
+	
 	/**
 	 * Compose CONSTRUCT query from a list of triple paths on a Named graph
 	 * 
@@ -176,15 +198,38 @@ public class QueryDecomposer {
 	 * @return 
 	 */
 	public static Query toConstructQuery(List<TriplePath> paths, String graph){
+		return toConstructQuery(paths, new ArrayList<TriplePath>(), graph);
+	}
+	/**
+	 * Compose CONSTRUCT query from a list of triple paths and optional patterns on a Named graph
+	 * 
+	 * @param paths
+	 * @param optPaths
+	 * @param graph
+	 * @return
+	 */
+	public static Query toConstructQuery(List<TriplePath> paths, List<TriplePath> optPaths,String graph){
 		ElementPathBlock block = new ElementPathBlock();
 		List<Triple> triples = new ArrayList<Triple>();
+		if(paths == null && optPaths == null)
+			return null;
 		for(TriplePath path: paths){
 			block.addTriple(path);
 			triples.add(path.asTriple());
 		}	
 		ElementGroup group = new ElementGroup();
 		group.addElement(block);
-		
+		if(optPaths != null && !optPaths.isEmpty()){
+			ElementPathBlock optBlock = new ElementPathBlock();
+			for(TriplePath path: optPaths){
+				optBlock.addTriple(path);
+				triples.add(path.asTriple());
+			}	
+			ElementOptional opts = new ElementOptional(optBlock);
+			
+			group.addElement(opts);
+		}
+				
 		Query decomposedQuery = QueryFactory.make();
 		decomposedQuery.setQueryConstructType();
 		BasicPattern bgp = BasicPattern.wrap(triples);
@@ -199,6 +244,8 @@ public class QueryDecomposer {
 		
 		return decomposedQuery;
 	}
+	
+	
 	/**
 	 * compose a SELECT query from a single triple path
 	 * 
@@ -235,9 +282,8 @@ public class QueryDecomposer {
 		return decomposedQuery;
 	}
 	
-	public static StringBuffer toUpdate(Model model, String graph, boolean toInsert){
-		StringBuffer queryBuff = new StringBuffer(SPARQLExecutor.prefixes() +"  " + (toInsert? " INSERT DATA ": " DELETE DATA ") + " { GRAPH  <" + graph+ "> { " );
-		//String query =SPARQLExecutor.prefixes() + (toInsert? " INSERT DATA ": " DELETE DATA ")+ "{ " ;
+	public static StringBuilder toUpdate(Model model, String graph, boolean toInsert){
+		StringBuilder queryBuff = new StringBuilder(SPARQLExecutor.prefixes() +"\n  " + (toInsert? " INSERT DATA ": " DELETE DATA ") + " { GRAPH  <" + graph+ "> { " );
 		StmtIterator iterator = model.listStatements();
 		while(iterator.hasNext()){
 			Statement stmt = iterator.nextStatement();
@@ -251,39 +297,50 @@ public class QueryDecomposer {
 			} else if(o.isAnon()) {
 				queryBuff.append(o);
 			} else {
-				String l = o.toString();
-				l = Matcher.quoteReplacement(l);
-				queryBuff.append( "\""+ l +"\" ");
+				String l = o.asLiteral().getString();
+				
+				l=l.replaceAll("\n", "\\\\n");
+				l = l.replaceAll("\"", "\\\\\"");
+				if(o.asLiteral().getDatatypeURI()!=null && !o.asLiteral().getDatatypeURI().equals("http://www.w3.org/2001/XMLSchema#string"))
+					queryBuff.append( "  \""+ l +"\"^^<" + o.asLiteral().getDatatypeURI() + ">  ");
+				else 
+					queryBuff.append( "  \""+ l +"\" ");
 			}
-			queryBuff.append(" .");
+			queryBuff.append(" . \n");
 		}
 		queryBuff.append(" } }");
 		return queryBuff;
 	}
 	
-	public static StringBuffer toUpdate(Model model, boolean toInsert){
-		StringBuffer queryBuff = new StringBuffer(SPARQLExecutor.prefixes() +" " + (toInsert? " INSERT DATA ": " DELETE DATA ") + " {  " );
+	public static StringBuilder toUpdate(Model model, boolean toInsert){
+		//StringBuffer queryBuff = new StringBuffer(SPARQLExecutor.prefixes() +" " + (toInsert? " INSERT DATA ": " DELETE DATA ") + " {  " );
+		StringBuilder builder = new StringBuilder(SPARQLExecutor.prefixes() +"\n " + (toInsert? " INSERT DATA ": " DELETE DATA ") + " {  " );
 		//String query =SPARQLExecutor.prefixes() + (toInsert? " INSERT DATA ": " DELETE DATA ")+ "{ " ;
 		StmtIterator iterator = model.listStatements();
 		while(iterator.hasNext()){
 			Statement stmt = iterator.nextStatement();
 			Resource s = stmt.getSubject();
-			queryBuff.append("  <"+ s.toString() +">  ");
+			builder.append("  <"+ s.toString() +">  ");
 			Property p = stmt.getPredicate();
-			queryBuff.append(" <" + p.toString() + "> ");
+			builder.append(" <" + p.toString() + "> ");
 			RDFNode o = stmt.getObject();
 			if(o.isURIResource() ) {
-				queryBuff.append(" <"+o.toString()+"> ");
+				builder.append(" <"+o.toString()+"> ");
 			} else if(o.isAnon()) {
-				queryBuff.append(o);
+				builder.append(o);
 			} else {
-				String l = o.toString();
-				l = Matcher.quoteReplacement(l);
-				queryBuff.append( "\""+ l +"\" ");
+				String l = o.asLiteral().getString();
+
+				l=l.replaceAll("\n", "\\\\n");
+				l = l.replaceAll("\"", "\\\\\"");
+				if(o.asLiteral().getDatatypeURI()!=null)
+					builder.append( "  \""+ l +"\"^^<" + o.asLiteral().getDatatypeURI() + ">  ");
+				else 
+					builder.append( "  \""+ l +"\" ");
 			}
-			queryBuff.append(" . ");
+			builder.append(" . \n");
 		}
-		queryBuff.append(" } ");
-		return queryBuff;
+		builder.append(" } ");
+		return builder;
 	}
 }
