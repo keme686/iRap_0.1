@@ -9,6 +9,7 @@ import java.util.List;
 import com.hp.hpl.jena.query.Query;
 import com.hp.hpl.jena.query.QueryFactory;
 import com.hp.hpl.jena.sparql.core.TriplePath;
+import com.hp.hpl.jena.sparql.syntax.ElementFilter;
 
 import de.unibonn.iai.eis.irap.sparql.QueryPatternExtractor;
 
@@ -38,7 +39,7 @@ public class Interest {
 	private int targetType=1;
 	private List<TriplePath> paths= new ArrayList<TriplePath>();
 	private List<TriplePath> optPaths= new ArrayList<TriplePath>();
-	
+	private List<ElementFilter> filters = new ArrayList<ElementFilter>();
 	public Interest(String uri) {
 		this.sourceUri = uri;
 	}
@@ -54,6 +55,7 @@ public class Interest {
 		this.query = QueryFactory.create(query);
 		paths = QueryPatternExtractor.getBGPTriplePaths(this.query);
 		optPaths = QueryPatternExtractor.geTriplePathsWithtOptionals(this.query);
+		filters = QueryPatternExtractor.getElementFilters(this.query);
 	}
 	
 	public List<TriplePath> getTriplePaths(){
@@ -63,7 +65,9 @@ public class Interest {
 	public List<TriplePath> getOptionalTriplePaths(){
 		return optPaths;
 	}
-	
+	public List<ElementFilter> getElementFilters(){
+		return filters;
+	}
 	public String getSourceUri() {
 		return sourceUri;
 	}
@@ -88,12 +92,14 @@ public class Interest {
 		this.query = query;
 		paths = QueryPatternExtractor.getBGPTriplePaths(this.query);
 		optPaths = QueryPatternExtractor.geTriplePathsWithtOptionals(this.query);
+		filters = QueryPatternExtractor.getElementFilters(this.query);
 	}
 	
 	public void setQuery(String queryString){
 		this.query = QueryFactory.create(queryString);
 		paths = QueryPatternExtractor.getBGPTriplePaths(this.query);
 		optPaths = QueryPatternExtractor.geTriplePathsWithtOptionals(this.query);
+		filters = QueryPatternExtractor.getElementFilters(this.query);
 	}
 	
 	public String getChangesetsUri() {
@@ -152,35 +158,5 @@ public class Interest {
 			return (this.interestId.equals(interest.getInterestId()) );
 		}else
 			return super.equals(obj);
-	}
-	
-	/**
-	 * 
-	 * @param interest
-	 * @return
-	 */
-	public boolean equivalentTo(Interest interest){
-		return (this.equalsQuery(interest));
-	}
-	
-	private boolean equalsQuery(Interest interest){
-		List<TriplePath> tps = interest.getTriplePaths();
-		List<TriplePath> t = this.getTriplePaths();
-		if(t.size() != tps.size())
-			return false;
-		//TODO: should not consider variable name differences and order of triple patterns
-		boolean found = false;
-		for(TriplePath tp: tps){
-			for(TriplePath tt: t){
-				if(tt.equals(tp)){
-					found = true;
-					break;
-				}
-			}		
-		}
-		if(!found){
-			return false;
-		}
-		return true;
 	}
 }

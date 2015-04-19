@@ -166,7 +166,7 @@ public class SPARQLExecutor {
 		}catch(Exception e){
 			e.printStackTrace();
 			logger.error(e.getMessage());
-			logger.info(queryStr);
+			logger.error(queryStr);
 		}
 		return false;		
 	}

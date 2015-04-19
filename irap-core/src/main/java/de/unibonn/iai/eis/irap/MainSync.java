@@ -4,25 +4,22 @@
 package de.unibonn.iai.eis.irap;
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
-import java.util.List;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.hp.hpl.jena.query.Query;
 import com.hp.hpl.jena.query.QueryFactory;
+import com.hp.hpl.jena.query.ResultSetFormatter;
 import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
-import com.hp.hpl.jena.sparql.core.TriplePath;
 
 import de.unibonn.iai.eis.irap.evaluator.EvaluationManager;
 import de.unibonn.iai.eis.irap.helper.Global;
 import de.unibonn.iai.eis.irap.helper.JenaModelUtils;
 import de.unibonn.iai.eis.irap.model.Changeset;
-import de.unibonn.iai.eis.irap.sparql.QueryDecomposer;
 import de.unibonn.iai.eis.irap.sparql.SPARQLExecutor;
 
 /**
@@ -51,7 +48,7 @@ public class MainSync {
 		 int lastChangeCount =0;
 		//6 digit seq and type => 000000.added.nt or 000000.removed.nt
 		
-		String changesetDownloadFolder = "data/2014-10-02-21";
+		String changesetDownloadFolder = "data/00";
 		File chfolder = new File(changesetDownloadFolder);
 		if(!chfolder.isDirectory()){
 			logger.debug("Invalid changeset folder name!");
@@ -87,6 +84,7 @@ public class MainSync {
 				EvaluationManager evaluator = new EvaluationManager(changeset);
 				logger.info("Starting evaluation...");
 				evaluator.start();
+				printCount();
 				count++;
 			}				
 			//sleep for 2 sec before reading the next changeset
@@ -101,34 +99,46 @@ public class MainSync {
 	 private static String getSequence(int seq){
 		 String sequence = "";
 		 if(seq < 10){
-			 sequence = "00000" + seq;
+			 sequence = "0-0-00000" + seq;
 		 }else if(seq < 100){
-			 sequence = "0000" + seq;
+			 sequence = "0-0-0000" + seq;
 		 }else if(seq < 1000){
-			 sequence = "000" + seq;
+			 sequence = "0-0-000" + seq;
 		 }else if(seq < 10000){
-			 sequence = "00" + seq;
+			 sequence = "0-0-00" + seq;
 		 }else if(seq < 100000){
-			 sequence = "0" + seq;
+			 sequence = "0-0-0" + seq;
 		 }else
-			 sequence = "" + seq;
+			 sequence = "0-0-" + seq;
 					 
 		 return sequence;
 	 }
-	 
+	 private static void printCount(){
+		 logger.info("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
+		 String q = "Select (count(?s) as ?count) where{?s ?p ?o}";
+		 Query queryTar = QueryFactory.create(q);
+		 logger.info("Target count: ");
+		 ResultSetFormatter.out(SPARQLExecutor.executeSelect("http://localhost:3030/target/sparql", queryTar));
+		 
+		 String pq = "Select (count(?s) as ?count) from <http://eis.iai.uni-bonn.de/irap/PI/i0001>  where{?s ?p ?o}";
+		 Query pqueryTar = QueryFactory.create(pq);
+		 logger.info("PI count: ");
+		 ResultSetFormatter.out(SPARQLExecutor.executeSelect("http://localhost:3030/irap/sparql", pqueryTar));
+		 logger.info("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
+	 }
 	 private static void emptyEndpoints(){
 		 String target="http://localhost:3030/target/sparql";
 		 String pi= Global.PI_SPARQL_ENDPOINT;
 		 String consQ = "CONSTRUCT {?s ?p ?o} where {?s ?p ?o}";
 		 Query tconst = QueryFactory.create(consQ);
 		 tconst.setQueryConstructType();
-		 Model targetData  = SPARQLExecutor.executeConstruct(target, tconst);
+		// Model targetData  = SPARQLExecutor.executeConstruct(target, tconst);
 		 System.out.println("Target Data: \n ========================================================================================");
 		 //targetData.write(System.out, "N-TRIPLE");
 		 
-		 StringBuilder targetQuery = QueryDecomposer.toUpdate(targetData, false);
-		 
-		 boolean targetR = SPARQLExecutor.executeUpdate( "http://localhost:3030/target/update", targetQuery.toString());
+		// StringBuilder targetQuery = QueryDecomposer.toUpdate(targetData, false);
+		 String emptyQ  = SPARQLExecutor.prefixes()  + " DELETE  WHERE{?s ?p ?o}";
+		 boolean targetR = SPARQLExecutor.executeUpdate( "http://localhost:3030/target/update", emptyQ);
 		
 		 if(targetR){
 			 System.out.println("Target dataset cleaned!");
@@ -136,14 +146,15 @@ public class MainSync {
 			 System.out.println("cannot clean target dataset!");
 		 }
 		 String piconst = "CONSTRUCT {?s ?p ?o} where {GRAPH ?g {?s ?p ?o}}";
+		 String emptypi = SPARQLExecutor.prefixes()  + " DELETE  WHERE{GRAPH ?G {?s ?p ?o}}";
 		 Query picon = QueryFactory.create(piconst);
 		 //picon.setQueryConstructType();
-		 Model piData = SPARQLExecutor.executeConstruct(pi, picon);
+		// Model piData = SPARQLExecutor.executeConstruct(pi, picon);
 		 System.out.println("PI Data: \n ========================================================================================");
 		// piData.write(System.out, "N-TRIPLE");
-		 StringBuilder piQuery = QueryDecomposer.toUpdate(piData,"http://eis.iai.uni-bonn.de/irap/PI/i0001" , false);
+		// StringBuilder piQuery = QueryDecomposer.toUpdate(piData,"http://eis.iai.uni-bonn.de/irap/PI/i0001" , false);
 		 
-		 boolean piR = SPARQLExecutor.executeUpdate("http://localhost:3030/irap/update", piQuery.toString());
+		 boolean piR = SPARQLExecutor.executeUpdate("http://localhost:3030/irap/update", emptypi);
 		 if(piR){
 			 System.out.println("PI dataset cleaned!");
 		 }

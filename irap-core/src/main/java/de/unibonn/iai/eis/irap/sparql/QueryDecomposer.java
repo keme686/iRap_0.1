@@ -19,6 +19,8 @@ import com.hp.hpl.jena.rdf.model.Statement;
 import com.hp.hpl.jena.rdf.model.StmtIterator;
 import com.hp.hpl.jena.sparql.core.BasicPattern;
 import com.hp.hpl.jena.sparql.core.TriplePath;
+import com.hp.hpl.jena.sparql.expr.Expr;
+import com.hp.hpl.jena.sparql.syntax.ElementFilter;
 import com.hp.hpl.jena.sparql.syntax.ElementGroup;
 import com.hp.hpl.jena.sparql.syntax.ElementNamedGraph;
 import com.hp.hpl.jena.sparql.syntax.ElementOptional;
@@ -189,6 +191,43 @@ public class QueryDecomposer {
 		return decomposedQuery;
 	}
 	
+	public static Query toConstructQuery(List<TriplePath> paths, List<TriplePath> optPaths, List<ElementFilter> filters){
+		ElementPathBlock block = new ElementPathBlock();
+		List<Triple> triples = new ArrayList<Triple>();
+		for(TriplePath path: paths){
+			block.addTriple(path);
+			triples.add(path.asTriple());
+		}	
+		ElementGroup group = new ElementGroup();
+		group.addElement(block);
+		
+		if(!optPaths.isEmpty()){
+			ElementPathBlock optBlock = new ElementPathBlock();
+			for(TriplePath path: optPaths){
+				optBlock.addTriple(path);
+				triples.add(path.asTriple());
+			}	
+			ElementOptional opts = new ElementOptional(optBlock);
+			
+			group.addElement(opts);
+		}
+		
+		for(ElementFilter e: filters)
+			group.addElementFilter(e);
+		
+		Query decomposedQuery = QueryFactory.make();
+		decomposedQuery.setQueryConstructType();
+		BasicPattern bgp = BasicPattern.wrap(triples);
+		Template templ = new Template(bgp);
+		
+		decomposedQuery.setQueryPattern(group);
+		
+		decomposedQuery.setConstructTemplate(templ);
+		decomposedQuery.setResultVars();
+		
+		return decomposedQuery;
+	}
+
 	/**
 	 * Compose CONSTRUCT query from a list of triple paths on a Named graph
 	 * 
@@ -229,7 +268,9 @@ public class QueryDecomposer {
 			
 			group.addElement(opts);
 		}
-				
+		
+		
+		
 		Query decomposedQuery = QueryFactory.make();
 		decomposedQuery.setQueryConstructType();
 		BasicPattern bgp = BasicPattern.wrap(triples);
@@ -244,7 +285,45 @@ public class QueryDecomposer {
 		
 		return decomposedQuery;
 	}
-	
+	public static Query toConstructQuery(List<TriplePath> paths, List<TriplePath> optPaths,String graph, List<ElementFilter> filters){
+		ElementPathBlock block = new ElementPathBlock();
+		List<Triple> triples = new ArrayList<Triple>();
+		if(paths == null && optPaths == null)
+			return null;
+		for(TriplePath path: paths){
+			block.addTriple(path);
+			triples.add(path.asTriple());
+		}	
+		ElementGroup group = new ElementGroup();
+		group.addElement(block);
+		if(optPaths != null && !optPaths.isEmpty()){
+			ElementPathBlock optBlock = new ElementPathBlock();
+			for(TriplePath path: optPaths){
+				optBlock.addTriple(path);
+				triples.add(path.asTriple());
+			}	
+			ElementOptional opts = new ElementOptional(optBlock);
+			
+			group.addElement(opts);
+		}
+				
+		for(ElementFilter e: filters)
+			group.addElementFilter(e);
+		
+		Query decomposedQuery = QueryFactory.make();
+		decomposedQuery.setQueryConstructType();
+		BasicPattern bgp = BasicPattern.wrap(triples);
+		Template templ = new Template(bgp);
+		
+		Node n =ResourceFactory.createResource(graph).asNode();
+		ElementNamedGraph ng = new ElementNamedGraph(n, group);
+			
+		decomposedQuery.setQueryPattern(ng);
+		decomposedQuery.setConstructTemplate(templ);
+		decomposedQuery.setResultVars();
+		
+		return decomposedQuery;
+	}
 	
 	/**
 	 * compose a SELECT query from a single triple path
@@ -298,10 +377,11 @@ public class QueryDecomposer {
 				queryBuff.append(o);
 			} else {
 				String l = o.asLiteral().getString();
-				
+				l = l.replace("\\", "\\\\");
 				l=l.replaceAll("\n", "\\\\n");
 				l = l.replaceAll("\"", "\\\\\"");
-				if(o.asLiteral().getDatatypeURI()!=null && !o.asLiteral().getDatatypeURI().equals("http://www.w3.org/2001/XMLSchema#string"))
+				
+				if(o.asLiteral().getDatatypeURI()!=null )
 					queryBuff.append( "  \""+ l +"\"^^<" + o.asLiteral().getDatatypeURI() + ">  ");
 				else 
 					queryBuff.append( "  \""+ l +"\" ");
@@ -330,7 +410,8 @@ public class QueryDecomposer {
 				builder.append(o);
 			} else {
 				String l = o.asLiteral().getString();
-
+				
+				l = l.replace("\\", "\\\\");
 				l=l.replaceAll("\n", "\\\\n");
 				l = l.replaceAll("\"", "\\\\\"");
 				if(o.asLiteral().getDatatypeURI()!=null)

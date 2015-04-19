@@ -94,7 +94,7 @@ public class EvaluationManager {
 			interest.setInterestId(id.toString());
 			interest.setTargetUri(target.toString());
 			interest.setTargetUpdateUri(targetUpdateUri.toString());
-			interest.setQuery(QueryFactory.create(iquery.toString()));
+			interest.setQuery(getQuery()); //QueryFactory.create(iquery.toString()));
 			interest.setId(interestRes.toString());
 			interest.setPigraph(pigraph.toString());
 			subscriber.addInterest(interest);
@@ -103,6 +103,42 @@ public class EvaluationManager {
 		return subscribers;
 	}
 	
+	private Query getQuery(){
+		String qstr = SPARQLExecutor.prefixes() 
+				+ " SELECT *  "
+				+ " WHERE { "
+				+ " ?subject <http://xmlns.com/foaf/0.1/homepage> ?homepage."
+				+ " ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type. "
+			//	+ " ?type rdfs:label ?label. "
+				+ " OPTIONAL {?subject rdfs:label ?slabel.}"
+				+ "} ";
+		String q = SPARQLExecutor.prefixes() 
+				+ " SELECT *  "
+				+ " WHERE { "
+				+ "?album <http://dbpedia.org/property/artist> ?artist ."
+				+ "?album <http://dbpedia.org/property/title> ?title ."
+				+ "?album <http://dbpedia.org/property/released> ?releasedDate ."
+				+ "?artist <http://dbpedia.org/property/origin> ?origin."
+				//+ " FILTER(isURI(?origin))"
+				+ "}";
+		String que = "SELECT *  WHERE { "
+				+" ?person <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person>. "
+				+" ?person <http://xmlns.com/foaf/0.1/name> ?name. "
+				+" ?person <http://xmlns.com/foaf/0.1/givenName> ?givenName. "
+				+" ?person <http://xmlns.com/foaf/0.1/surname> ?surname.  "
+				+" ?person <http://dbpedia.org/property/almaMater>  ?univ."
+				+" ?univ   <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>  ?unitype."
+				/*+" ?person <http://purl.org/dc/elements/1.1/description> ?description. "
+				+" ?person <http://dbpedia.org/ontology/abstract> ?abstract. "
+				+" ?person <http://purl.org/dc/terms/subject> ?subject. "
+				+" ?subject <http://www.w3.org/2000/01/rdf-schema#label> ?label. "
+				+" ?subject <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> ?type. "
+				+" ?type  <http://www.w3.org/2000/01/rdf-schema#label> ?typelabel."*/
+				+ "FILTER (!isBlank(?person) && isURI(?unitype))"
+				+ "}";
+		Query query = QueryFactory.create(q);
+		return query;
+	}
 	private Query getSubscribersQuery(String changeseturi){
 		String qstr = SPARQLExecutor.prefixes() 
 				+ "  PREFIX irap: <http://eis.iai.uni-bonn.de/irap/ontology/> "

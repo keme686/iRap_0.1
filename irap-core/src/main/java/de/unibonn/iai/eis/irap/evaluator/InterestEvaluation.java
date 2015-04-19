@@ -21,6 +21,8 @@ import com.hp.hpl.jena.rdf.model.ModelFactory;
 import com.hp.hpl.jena.sparql.core.TriplePath;
 import com.hp.hpl.jena.sparql.core.Var;
 import com.hp.hpl.jena.sparql.engine.binding.Binding;
+import com.hp.hpl.jena.sparql.expr.Expr;
+import com.hp.hpl.jena.sparql.syntax.ElementFilter;
 import com.hp.hpl.jena.tdb.TDBFactory;
 
 import de.unibonn.iai.eis.irap.helper.Global;
@@ -86,7 +88,16 @@ public class InterestEvaluation {
 	 *            the last update
 	 */
 	public void evaluate(final Interest interest, Changeset changeset) {
-	
+		List<Expr> exp = QueryPatternExtractor.getFilters(interest.getQuery());
+		for(Expr e: exp){
+			logger.info(e);
+			logger.info(e.getFunction());
+			for(Var v: e.getVarsMentioned()){
+				logger.info(v);
+				
+			}
+		}
+		
 		//evaluate deletion on target dataset
 		 evaluateRemoved(interest, changeset);
 		//evaluate addition
@@ -94,7 +105,7 @@ public class InterestEvaluation {
 	}
 
 	private boolean propagateToTarget(Model model, final Interest interest, boolean isInsert){
-		logger.info("Propagating triples to TARGET_ENDPOINT	....");
+		logger.info(changeset.getSequenceNum()+ ":" + "Propagating triples to TARGET_ENDPOINT	....");
 		StringBuilder removeTargetQuery = QueryDecomposer.toUpdate(model, isInsert);		
 		return SPARQLExecutor.executeUpdate(interest.getTargetUpdateUri(), removeTargetQuery.toString());
 	}
@@ -108,40 +119,40 @@ public class InterestEvaluation {
 	public void evaluateRemoved(final Interest interest, Changeset changeset) {
 		//first evaluate the removed triples on Potentially interesting triples of an interest
 
-		logger.info("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-		logger.info("EVALUATION OVER REMOVED TRIPLES");
-		logger.info("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+		logger.info(changeset.getSequenceNum()+ ":" + "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
+		logger.info(changeset.getSequenceNum()+ ":" + "EVALUATION OVER REMOVED TRIPLES");
+		logger.info(changeset.getSequenceNum()+ ":" + "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
 		Model removed = ModelFactory.createDefaultModel().add(changeset.getRemovedTriples());
 
 		// remove triples from potentially interesting graph of this interest, if they exists	
-		logger.info("Removing deleted triples from PI_ENDPOINT ....");
+		logger.info(changeset.getSequenceNum()+ ":" + "Removing deleted triples from PI_ENDPOINT ....");
 		if(propagateToPI(removed, interest.getPigraph(), false)){
-			logger.info("Potentially interesting removed triples has been deleted from PI_Endpoint!");
+			logger.info(changeset.getSequenceNum()+ ":" + "Potentially interesting removed triples has been deleted from PI_Endpoint!");
 		}else{
-			logger.warn("Cannot remove potentially interesting removed triples from PI_Endpoint!");
+			logger.warn(changeset.getSequenceNum()+ ":" + "Cannot remove potentially interesting removed triples from PI_Endpoint!");
 		}
 		
 		// Evaluate interest expression directly on target endpoint of a subscriber
-		logger.info("Evaluating on TARGET_ENDPOINT ....");
+		logger.info(changeset.getSequenceNum()+ ":" + "Evaluating on TARGET_ENDPOINT ....");
 		Model targetRemoved = ModelFactory.createDefaultModel().add(changeset.getRemovedTriples());
 		List<Model>  removeResult = evaluateOnTarget(targetRemoved, interest, false);
 		
 		
 		//store triples from target that become potentially interesting
-		logger.info("Storing potentially interesting triples in PI_ENDPOINT .... ");
+		logger.info(changeset.getSequenceNum()+ ":" + "Storing potentially interesting triples in PI_ENDPOINT .... ");
 		if(propagateToPI(removeResult.get(1), interest.getPigraph(), true)){
-			logger.info("Potenatilly interesting triples removed from target dataset!");
+			logger.info(changeset.getSequenceNum()+ ":" + "Potenatilly interesting triples removed from target dataset!");
 		}else{
-			logger.debug("Cannot store potenatilly interesting triples extracted from target dataset!");
+			logger.debug(changeset.getSequenceNum()+ ":" + "Cannot store potenatilly interesting triples extracted from target dataset!");
 		}
 		
 		// propagate interesting removed triples to interest subscribers' target update uri (endpoint - in this case)
 		if( propagateToTarget(removeResult.get(0), interest, false)){
-			logger.info("Interesting removed triples propagated to target dataset: " + interest.getTargetUpdateUri());
+			logger.info(changeset.getSequenceNum()+ ":" + "Interesting removed triples propagated to target dataset: " + interest.getTargetUpdateUri());
 		}else{
-			logger.debug("Cannot propagate interesting removed triples to target dataset:" + interest.getTargetUpdateUri());
+			logger.debug(changeset.getSequenceNum()+ ":" + "Cannot propagate interesting removed triples to target dataset:" + interest.getTargetUpdateUri());
 		}
-		logger.info("-----------------END of EVALUATION ON REMOVED TRIPLES -------------");
+		logger.info(changeset.getSequenceNum()+ ":" + "-----------------END of EVALUATION ON REMOVED TRIPLES -------------");
 	}
 
 	/**
@@ -166,9 +177,9 @@ public class InterestEvaluation {
 	 */
 	public void evaluateAdded(final Interest interest, Changeset changeset) {
 		Model added = ModelFactory.createDefaultModel().add(changeset.getAddedTriples());
-		logger.info("+++++++++++++++++++++++++++++++++++++++++");
-		logger.info("      EVALUATION OVER ADDED TRIPLES");
-		logger.info("+++++++++++++++++++++++++++++++++++++++++");
+		logger.info(changeset.getSequenceNum()+ ":" + "+++++++++++++++++++++++++++++++++++++++++");
+		logger.info(changeset.getSequenceNum()+ ":" + "      EVALUATION OVER ADDED TRIPLES");
+		logger.info(changeset.getSequenceNum()+ ":" + "+++++++++++++++++++++++++++++++++++++++++");
 		
 		List<Model> evaluationResult = evaluateOnTarget(added, interest, true);
 		
@@ -178,28 +189,28 @@ public class InterestEvaluation {
 			//StringBuilder insertPIQuery = QueryDecomposer.toUpdate(evaluationResult.get(1), interest.getPigraph(), true);
 			if(propagateToPI(evaluationResult.get(1), interest.getPigraph(), true))
 			//if(SPARQLExecutor.executeUpdate(Global.PI_UPDATE_ENDPOINT, insertPIQuery.toString()))
-				logger.info("Potentially Interesting updates stored for changeset: "+ changeset.getSequenceNum());
+				logger.info(changeset.getSequenceNum()+ ":" + "Potentially Interesting updates stored for changeset: "+ changeset.getSequenceNum());
 			else
-				logger.info("Cannot store Potentially Interesting updates for changeset: "+ changeset.getSequenceNum());
+				logger.info(changeset.getSequenceNum()+ ":" + "Cannot store Potentially Interesting updates for changeset: "+ changeset.getSequenceNum());
 		}
 		
 		//TODO: check if this next step have any result.  already done on evaluateOnTarget() ?
 		//check if the newly inserted potentially interesting triples becomes interesting
-		logger.info("CHECKING MISSING TRIPLES IN PI");
+		logger.info(changeset.getSequenceNum()+ ":" + "CHECKING MISSING TRIPLES IN PI");
 		Model gamma0 = getInterestingsFromPI(interest);
 		if(!gamma0.isEmpty()){
 			// remove the potentially interesting triples becoming interesting from interests' pi  graph
 			//StringBuilder removePIQuery = QueryDecomposer.toUpdate(gamma0, interest.getPigraph(), false);
 			if(propagateToPI(gamma0, interest.getPigraph(), false)){
 			//if(SPARQLExecutor.executeUpdate(Global.PI_UPDATE_ENDPOINT, removePIQuery.toString())){
-				logger.info("Triples that become interesting has been removed from PI endpoint!");
+				logger.info(changeset.getSequenceNum()+ ":" + "Triples that become interesting has been removed from PI endpoint!");
 			}
 			evaluationResult.get(0).add(gamma0);
 		}else{
-			logger.info("No matching for missing triples found.");
+			logger.info(changeset.getSequenceNum()+ ":" + "!!No matching for missing triples found.");
 		}
 		
-		logger.info("CHECKING ENDS HERE ------");
+		logger.info(changeset.getSequenceNum()+ ":" + "CHECKING ENDS HERE ------");
 		
 		if(evaluationResult.get(0).isEmpty())
 			return ;
@@ -209,19 +220,19 @@ public class InterestEvaluation {
 		//StringBuilder insertTargetQuery = QueryDecomposer.toUpdate(evaluationResult.get(0), true);
 		if(propagateToTarget(evaluationResult.get(0), interest, true)){
 		//if(SPARQLExecutor.executeUpdate(interest.getTargetUpdateUri(), insertTargetQuery.toString())){
-			logger.info("Interesting triples stored on target");
+			logger.info(changeset.getSequenceNum()+ ":" + "Interesting triples stored on target");
 		}else{
-			logger.info("Cannot store Interesting triples on target");
+			logger.info(changeset.getSequenceNum()+ ":" + "Cannot store Interesting triples on target");
 		}
 		
-		logger.info("~~~~~~~~~~~~~~~~END of EVALUATING ADDED TRIPLES ~~~~~~~~~~~~~~~~~~");
+		logger.info(changeset.getSequenceNum()+ ":" + "~~~~~~~~~~~~~~~~END of EVALUATING ADDED TRIPLES ~~~~~~~~~~~~~~~~~~");
 	}
 	
 	private Model getInterestingsFromPI(Interest interest){
 		List<TriplePath> paths = interest.getTriplePaths();
 
 		Query interestQuery = QueryDecomposer.toConstructQuery(paths, interest.getPigraph());
-		logger.info("PI Full interest query: \n" + interestQuery);
+		logger.info(changeset.getSequenceNum()+ ":" + "PI Full interest query: \n" + interestQuery);
 
 		Model gamma0 = SPARQLExecutor.executeConstruct(Global.PI_SPARQL_ENDPOINT, interestQuery);
 		
@@ -239,115 +250,201 @@ public class InterestEvaluation {
 		List<TriplePath> optpaths = interest.getOptionalTriplePaths();
 		
 		Query interestQuery = QueryDecomposer.toConstructQuery(paths, optpaths);
-		logger.info("Full Interest query: \n" + interestQuery);
+		
+		logger.info(changeset.getSequenceNum()+ ":" + "Full Interest query: \n" + interestQuery);
 		
 		Model interestingTriples = ModelFactory.createDefaultModel();
 		Model potentiallyInterestingTriples = ModelFactory.createDefaultModel();
 		
 		// extract interesting triples from  model
 		Model gamma = SPARQLExecutor.executeConstruct(model, interestQuery);
+		
 		if (!gamma.isEmpty()) {
-			logger.info(gamma.size() +  " - Intersting triples found!");
+			logger.info(changeset.getSequenceNum()+ ":" + gamma.size() +  " - Intersting triples found!");
+			gamma.write(System.out, "N-TRIPLE");
+			// TODO: if there is a filter expr, then apply filter before saving as
+			// interesting triples		
+			if(interest.getElementFilters() != null && !interest.getElementFilters().isEmpty()){
+				gamma = applyFilter(gamma, interest);
+				logger.info("Gamma after filter");
+				gamma.write(System.out, "N-TRIPLE");
+			}
+			if (isAdded) {
+				// Then: extract optionals in PI
+				logger.info("Extracting optional for interesting triples: ");
+				Model piOpts = extractPartialsInPI(paths, optpaths, paths, gamma, interest);
+				if (!piOpts.isEmpty()) {
+					logger.info("Optional from PI found!");
+					interestingTriples.add(piOpts);
+				} else {
+					logger.info("!Optional from PI NOT found!");
+					interestingTriples.add(gamma);
+				}
+			}else {
+				interestingTriples.add(gamma);
+			}
+			model.remove(gamma);
 		} else {
-			logger.info("No interesting  triples found");
+			logger.info(changeset.getSequenceNum()+ ":" + "!No interesting  triples found");
 		}
-		// TODO: if there is a filter expr, then apply filter before saving as
-		// interesting triples
-		interestingTriples.add(gamma);
-		model.remove(gamma);
 		
 		for(int i = paths.size()-1; i>0; i--){
+			//2^b ask queries
 			List<Query> askQueries = QueryDecomposer.composeAskQueries(paths, i);
+			
 			InterestExprGraph g = new InterestExprGraph();
-			for (Query q : askQueries) {			
-				//if q contains disjoint pattern
-				if(!g.isValid(q)){
-					logger.info("SKIPPED: Disjoint Query: " + q);
+			
+			for (Query q : askQueries) {	
+				List<TriplePath> askPaths = QueryPatternExtractor.getBGPTriplePaths(q);
+				if(askPaths.size()==1 && isAllVars(askPaths.get(0))){
+					logger.info(changeset.getSequenceNum()+ ":" + "SKIPPED: \n" + askPaths.get(0));
 					continue;
 				}
-				logger.info("Asking triples for query: \n"+ q);
-				if (SPARQLExecutor.executeAsk(model, q)) {
-					List<TriplePath> askPaths = QueryPatternExtractor.getBGPTriplePaths(q);
+					
+				//if q contains disjoint pattern				
+				if(!g.isValid(q)){
+					logger.info(changeset.getSequenceNum()+ ":" + "SKIPPED: Disjoint Query: \n" + q);
+					continue;
+				}
+				logger.info(changeset.getSequenceNum()+ ":" + "Asking triples for query: \n"+ q);
+				if (SPARQLExecutor.executeAsk(model, q)) {					
 					Query cq = QueryDecomposer.toConstructQuery(askPaths, optpaths);
 					
-					boolean isValid = true;
+					boolean includeOpts = true;
 					if (!this.isValidCombination(askPaths, optpaths)) {
 						cq = QueryDecomposer.toConstructQuery(askPaths);
-						isValid = false;
+						includeOpts = false;
 					}
+					// extract c_i
 					Model r = SPARQLExecutor.executeConstruct(model, cq);
 					
-					logger.info("Partial matching found: " );
-					//r.write(System.out, "N-TRIPLE");
+					logger.info(changeset.getSequenceNum()+ ":" + "Partial matching found: " );
+					r.write(System.out, "N-TRIPLE");
+					
 					if (!r.isEmpty()) {
 						List<TriplePath> comb = new ArrayList<TriplePath>();						
-						if(isValid){
+						if(includeOpts){
 							comb.addAll(optpaths);
 						}		
 						if (isAdded) {
 							// find missings in PI
 							Model piInteresting = extractPartialsInPI(paths, optpaths, askPaths, r, interest);
 							if (!piInteresting.isEmpty()) {
+								//filter
+								if(interest.getElementFilters() != null && !interest.getElementFilters().isEmpty()){
+									piInteresting = applyFilter(piInteresting, interest);
+									logger.info("piInteresting after filter");
+									piInteresting.write(System.out, "N-TRIPLE");
+								}
 								interestingTriples.add(piInteresting);
+							
+								logger.info(changeset.getSequenceNum()+ ": Missing found in PI!");
+								piInteresting.write(System.out, "N-TRIPLE");
+								
 								//remove from PI
 								Model m = ModelFactory.createDefaultModel().add(piInteresting);
 								m.remove(r);
+								
+								logger.info(changeset.getSequenceNum()+ ": Removing partials in PI");
+								m.write(System.out, "N-TRIPLE");
+								
 								evaluateRemovedForPI(m, interest);
 								//remove r from changeset model
 								model.remove(r);
 								continue;
 							}
-							List<Model> partials = getPartialEvaluationForAdded(paths, comb, askPaths, r, interest);
-							interestingTriples.add(partials.get(0));
-							//remove from PI
-							Model m = ModelFactory.createDefaultModel().add(partials.get(0));
-							m.remove(r);
-							evaluateRemovedForPI(m, interest);
 							
-							potentiallyInterestingTriples.add(partials.get(1));
+							Model partials = getPartialEvaluationForAdded(paths, comb, askPaths, r, interest);
+							if(!partials.isEmpty()){
+								
+								interestingTriples.add(partials);
+								
+								logger.info(changeset.getSequenceNum()+ ": Partials found in TARGET");
+								partials.write(System.out, "N-TRIPLE");
+								
+								//remove from PI
+								Model m = ModelFactory.createDefaultModel().add(partials);
+								m.remove(r);
+								
+								logger.info(changeset.getSequenceNum()+ ": Removing partials in PI after finding missing in target ..");
+								m.write(System.out, "N-TRIPLE");
+								
+								if(!m.isEmpty())
+									evaluateRemovedForPI(m, interest);
+							}
+							
+							if(partials.isEmpty())
+								potentiallyInterestingTriples.add(r);
+							else
+								potentiallyInterestingTriples.add(r.remove(partials));
+							
 						}else{ //if removed							
 							List<Model> partials = getPartialEvaluationForRemoved(paths, comb, askPaths, r, interest);
+							
 							interestingTriples.add(partials.get(0));
+							
 							potentiallyInterestingTriples.add(partials.get(1));
 						}
 					}
 					 model.remove(r);
 				}else{
-					logger.info("No matching found for query asked query ");
+					logger.info(changeset.getSequenceNum()+ ":" + ">!!No matching found for query asked query ");
 				}
 			}
 		}
 		
 		//only optionals
 		if (!isAdded) {
+		
 			Query optq = QueryDecomposer.toConstructQuery(optpaths);
 			Model o = SPARQLExecutor.executeConstruct(model, optq);
 			if (!o.isEmpty()) {
+				logger.info("OPTIONAL only triples: ");
 				interestingTriples.add(o);
+				o.write(System.out,"N-TRIPLE");
 				model.remove(o);
 			}
-		}
-		
-		for (TriplePath tp : optpaths) {
-			Query oq = QueryDecomposer.toConstructQuery(tp);
-			Model r = SPARQLExecutor.executeConstruct(model, oq);
-			if (!r.isEmpty()) {
-				potentiallyInterestingTriples.add(r);
-				model.remove(r);
+			//TODO: if partial pattern matches in optional, then retrieve missing in target and delete all related optionals
+			
+		}else{
+			Query optq = QueryDecomposer.toConstructQuery(optpaths);
+			Model o = SPARQLExecutor.executeConstruct(model, optq);
+			if (!o.isEmpty()) {
+				logger.info("OPTIONAL only triples: ");
+				interestingTriples.add(o);
+				o.write(System.out,"N-TRIPLE");
+				model.remove(o);
+			}
+			for (TriplePath tp : optpaths) {
+				Query oq = QueryDecomposer.toConstructQuery(tp);
+				Model r = SPARQLExecutor.executeConstruct(model, oq);
+				if (!r.isEmpty()) {
+					potentiallyInterestingTriples.add(r);
+					model.remove(r);
+				}
 			}
 		}
+			
 		
 		List<Model> result = new ArrayList<Model>();
 		result.add(interestingTriples);
 		result.add(potentiallyInterestingTriples);
 		return result;
 	}
+	private Model applyFilter(Model model, Interest interest){
+		List<TriplePath> paths = interest.getTriplePaths();
+		List<TriplePath> optpaths = interest.getOptionalTriplePaths();
+		List<ElementFilter> filters  = interest.getElementFilters();
+		Query interestQuery = QueryDecomposer.toConstructQuery(paths, optpaths, filters);
+		
+		return SPARQLExecutor.executeConstruct(model, interestQuery);
+		
+	}
 	private Model extractMissingFromTarget(List<TriplePath> paths, List<TriplePath> optpaths, List<TriplePath> askPaths, Model r, final Interest interest) {
 
-		Query matchingQuery = QueryDecomposer.toSelectQuery(askPaths);
 		// construct a Construct query of the overall interest expression query
 		// with bounded VALUES of the matching Model		
-		Query boundQuery = bindValues(paths, optpaths, matchingQuery, r);
+		Query boundQuery = bindValues(paths, optpaths, askPaths, r, null);
 		//System.out.println("method of bounding VALUES: " + boundQuery);
 		
 		Model matchingResults = ModelFactory.createDefaultModel();
@@ -361,43 +458,61 @@ public class InterestEvaluation {
 		return matchingResults;
 	}
 	
-	private List<Model> getPartialEvaluationForAdded(List<TriplePath> paths, List<TriplePath> optpaths, List<TriplePath> askPaths, Model r, final Interest interest){
+	private Model getPartialEvaluationForAdded(List<TriplePath> paths, List<TriplePath> optpaths, List<TriplePath> askPaths, Model r, final Interest interest){
+		
+		InterestExprGraph g = new InterestExprGraph();
 		Model interestingTriples = ModelFactory.createDefaultModel();
-		Model potentiallyInterestingTriples = ModelFactory.createDefaultModel();
-		// find partially matching from PI and check the rest
-		// from target
+		
+		// find partially matching from PI and check the rest from target
 		List<TriplePath> askDiff = new ArrayList<TriplePath>();
 		askDiff.addAll(paths);
 		askDiff.removeAll(askPaths);
-		for (int j = askDiff.size() - 1; j > 0; j--) {
+		
+		for (int j = askDiff.size()-1 ; j > 0; j--) {
 			List<Query> consQueries = QueryDecomposer.composeConstructQueries(askDiff, j);
 
 			for (Query qc : consQueries) {
 				List<TriplePath> diffAndAsk = new ArrayList<TriplePath>();
 				diffAndAsk.addAll(askPaths);
-				diffAndAsk.addAll(QueryPatternExtractor	.getBGPTriplePaths(qc));
-
+				diffAndAsk.addAll(QueryPatternExtractor.getBGPTriplePaths(qc));
+				
+				if(!g.isValid(QueryDecomposer.toAskQuery(diffAndAsk))){
+					logger.info("DISJOINT delta: \n" + QueryDecomposer.toAskQuery(diffAndAsk));					
+					continue;
+				}
+				//candidate C_i from Delta = A and pi
 				Model piR = extractPartialsInPI(diffAndAsk,	optpaths, askPaths, r, interest);
+				
+				logger.info("Combined delta: \n" + QueryDecomposer.toAskQuery(diffAndAsk));
+				piR.write(System.out, "N-TRIPLE");
+				
 				if (piR.isEmpty()) {
+					logger.info("There was no matching in PI");
 					piR.add(r);
 					diffAndAsk = askPaths;
 				}
+				
 				Model rwithMissingTriples = extractMissingFromTarget(paths, optpaths, diffAndAsk, piR,	interest);
 				if (!rwithMissingTriples.isEmpty()) {
-					logger.info("Missing triples Matching found from target!");
+					logger.error("Just messing up with ....found missing from target" );
+					logger.info(changeset.getSequenceNum()+ ":" + "MISSING triples Matching FOUND from TARGET!");
 					rwithMissingTriples.write(System.out, "N-TRIPLE");
-					interestingTriples.add(rwithMissingTriples);
+					//filter
+					if(interest.getElementFilters() != null && !interest.getElementFilters().isEmpty()){
+						rwithMissingTriples = applyFilter(rwithMissingTriples, interest);
+						logger.info("rwithMissingTriples after filter");
+						rwithMissingTriples.write(System.out, "N-TRIPLE");
+						if(!rwithMissingTriples.isEmpty())
+							interestingTriples.add(piR);
+					}else
+						interestingTriples.add(piR);
 					
 				} else {
-					logger.info("Missing triples for added triples Matching not found from target!");
-					potentiallyInterestingTriples.add(r);
+					logger.info(changeset.getSequenceNum()+ ":" + "!!!Missing triples for added triples Matching NOT found from target!");					
 				}
 			}
 		}
-		List<Model> result = new ArrayList<Model>();
-		result.add(interestingTriples);
-		result.add(potentiallyInterestingTriples);
-		return result;
+		return interestingTriples;
 	}
 	
 	private List<Model> getPartialEvaluationForRemoved(List<TriplePath> paths, List<TriplePath> optpaths, List<TriplePath> askPaths, Model r, final Interest interest){
@@ -405,35 +520,48 @@ public class InterestEvaluation {
 		Model potentiallyInterestingTriples = ModelFactory.createDefaultModel();
 		
 		InterestExprGraph g = new InterestExprGraph();
-		g.createGraph(QueryDecomposer.toAskQuery(askPaths));
+				
+		logger.info("Partial evaluation for removed: \n" + QueryDecomposer.toAskQuery(askPaths));
+		
 		Model rwithMissingTriples = extractMissingFromTarget(paths, optpaths, askPaths, r, interest); //extractRelatedFromTarget
+		
 		if (!rwithMissingTriples.isEmpty()) {
-			logger.info("Missing triples Matching found from target!");
-			//rwithMissingTriples.write(System.out, "N-TRIPLE");												
-			// compute set difference from
-			// rwithMissingTriples and r, which gives
-			// potentially interesting triples
+			
+			logger.info(changeset.getSequenceNum()+ ":" + "Missing triples Matching FOUND from TARGET!");
+			rwithMissingTriples.write(System.out, "N-TRIPLE");		
+			if(interest.getElementFilters() != null && !interest.getElementFilters().isEmpty()){
+				rwithMissingTriples = applyFilter(rwithMissingTriples, interest);				
+				logger.info("rwithMissingTriples after filter");
+				rwithMissingTriples.write(System.out, "N-TRIPLE");
+			}
+			// compute set difference from rwithMissingTriples and r, which gives potentially interesting triples
 			Model diff = ModelFactory.createDefaultModel().add(rwithMissingTriples);
 			diff = diff.remove(r);
-
+			
+			g.createGraph(QueryDecomposer.toAskQuery(askPaths));
 			Map<Node, InterestExprNode> rtrees = g.getTrees();
 
-			InterestExprGraph gDiff = new InterestExprGraph();
+			//determine missing triple pattern
 			List<TriplePath> diffTp = new ArrayList<TriplePath>();
 			diffTp.addAll(paths);
 			diffTp.removeAll(askPaths);
+			
+			InterestExprGraph gDiff = new InterestExprGraph();
 			gDiff.createGraph(QueryDecomposer.toAskQuery(diffTp));
 			Map<Node, InterestExprNode> diffTrees = gDiff.getTrees();
 
 			for (Node n : diffTrees.keySet()) {
-				if (rtrees.containsKey(n))
+				logger.info("Diff graph tree: \n" + QueryDecomposer.toAskQuery(diffTrees.get(n).triplePath) );
+				if (rtrees.containsKey(n)){
+					logger.info("Same tree found in result trees \n" + QueryDecomposer.toAskQuery(rtrees.get(n).triplePath));
 					continue;
+				}
 
 				List<TriplePath> tp = diffTrees.get(n).triplePath;
 				Query tq = QueryDecomposer.toConstructQuery(tp);
 				Model tv = SPARQLExecutor.executeConstruct(diff, tq);
-
-				Query bq = bindValues(paths,new ArrayList<TriplePath>(),QueryDecomposer.toSelectQuery(tp), tv);
+				
+				Query bq = bindValues(paths,new ArrayList<TriplePath>(),tp, tv, null);
 				Model alpha = SPARQLExecutor.executeConstruct(rwithMissingTriples, bq);
 				Model beta = SPARQLExecutor.executeConstruct(interest.getTargetUri(), bq);
 
@@ -446,11 +574,11 @@ public class InterestEvaluation {
 			// TODO: check if the diff is related to r only.
 			// If there are other triples connected a triple
 			// in diff from target, then leave this triple
-			// (remove from rwithMissingTriples)
+			// (remove from rwithMissingTriples)			
 			interestingTriples.add(rwithMissingTriples);
 			
 		} else { //if related triples not found
-			logger.info("Missing triples Matching not found from target!");			
+			logger.info(changeset.getSequenceNum()+ ":" + "!!!~Missing triples Matching not found from target!");			
 		}
 		List<Model> result = new ArrayList<Model>();
 		result.add(interestingTriples);
@@ -458,10 +586,10 @@ public class InterestEvaluation {
 		return result;
 	}
 	private Model extractPartialsInPI(List<TriplePath> paths, List<TriplePath> optpaths, List<TriplePath> comPaths, Model r, final Interest interest){
-		Query matchingQuery = QueryDecomposer.toSelectQuery(comPaths);
 		// construct a Construct query of the overall interest expression query
 		// with bounded VALUES of the matching Model		
-		Query boundQuery = bindValues(paths, optpaths, matchingQuery, r);
+		Query boundQuery = bindValues(paths, optpaths, comPaths, r, interest.getPigraph());
+		logger.info("extractPartialsInPI: bounded query: \n" + boundQuery);
 		//System.out.println("method of bounding VALUES: " + boundQuery);
 		Model gamma = SPARQLExecutor.executeConstruct(Global.PI_SPARQL_ENDPOINT, boundQuery);
 		
@@ -482,7 +610,14 @@ public class InterestEvaluation {
 	}
 	
 	
-	private Query bindValues(List<TriplePath> paths, List<TriplePath> optpaths, Query query,	Model resultModel) {
+	private Query bindValues(List<TriplePath> paths, List<TriplePath> optpaths, List<TriplePath>  queryPath,	Model resultModel, String graph) {
+		List<TriplePath> tps = new ArrayList<TriplePath>();
+		tps.addAll(queryPath);
+		for(TriplePath tp: queryPath){
+			if(isAllVars(tp))
+				tps.remove(tp);
+		}
+		Query query = QueryDecomposer.toSelectQuery(tps);
 		query.setResultVars();
 		//System.out.println(query);
 		ResultSet rs = SPARQLExecutor.executeSelect(resultModel, query);
@@ -503,10 +638,17 @@ public class InterestEvaluation {
 			}
 		}
 		vars.addAll(varset);
-		Query qeuryConst = QueryDecomposer.toConstructQuery(paths, optpaths);
-
+		Query qeuryConst;
+		if(graph != null && !graph.isEmpty())
+			qeuryConst = QueryDecomposer.toConstructQuery(paths, optpaths, graph);
+		else
+			qeuryConst = QueryDecomposer.toConstructQuery(paths, optpaths);
+		
 		if (!optpaths.isEmpty() && !isValidCombination(paths, optpaths)) {
-			qeuryConst = QueryDecomposer.toConstructQuery(paths);
+			if(graph != null && !graph.isEmpty())
+				qeuryConst = QueryDecomposer.toConstructQuery(paths, graph);
+			else
+				qeuryConst = QueryDecomposer.toConstructQuery(paths);
 		}
 
 		qeuryConst.setValuesDataBlock(vars, prevBindings);
@@ -524,6 +666,15 @@ public class InterestEvaluation {
 				return false;
 			}
 		}	
+		return true;
+	}
+	private boolean isAllVars(TriplePath tp){
+		if(!tp.getSubject().isVariable())
+			return false;
+		if(!tp.getPredicate().isVariable())
+			return false;
+		if(!tp.getObject().isVariable())
+			return false;
 		return true;
 	}
 }

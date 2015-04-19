@@ -13,9 +13,17 @@ import org.apache.log4j.Logger;
 
 import com.hp.hpl.jena.graph.Node;
 import com.hp.hpl.jena.query.Query;
+import com.hp.hpl.jena.sparql.algebra.Algebra;
+import com.hp.hpl.jena.sparql.algebra.Op;
+import com.hp.hpl.jena.sparql.algebra.OpVisitorBase;
+import com.hp.hpl.jena.sparql.algebra.OpWalker;
+import com.hp.hpl.jena.sparql.algebra.op.OpFilter;
 import com.hp.hpl.jena.sparql.core.TriplePath;
 import com.hp.hpl.jena.sparql.core.Var;
 import com.hp.hpl.jena.sparql.expr.Expr;
+import com.hp.hpl.jena.sparql.expr.ExprList;
+import com.hp.hpl.jena.sparql.expr.ExprTransformBase;
+import com.hp.hpl.jena.sparql.expr.ExprVisitorBase;
 import com.hp.hpl.jena.sparql.syntax.ElementFilter;
 import com.hp.hpl.jena.sparql.syntax.ElementOptional;
 import com.hp.hpl.jena.sparql.syntax.ElementPathBlock;
@@ -73,10 +81,22 @@ public class QueryPatternExtractor {
 		ElementWalker.walk(query.getQueryPattern(), new ElementVisitorBase(){
 			@Override
 			public void visit(ElementFilter el) {
-				exprs.add(el.getExpr());
+				exprs.add(el.getExpr());				
 			}
 		});		
+	
 		return exprs;
+	}
+	public static List<ElementFilter> getElementFilters(Query query){
+		final List<ElementFilter> ef = new ArrayList<ElementFilter>();
+		ElementWalker.walk(query.getQueryPattern(), new ElementVisitorBase(){
+			@Override
+			public void visit(ElementFilter el) {
+				ef.add(el);			
+			}
+		});		
+		
+		return ef;
 	}
 	/**
 	 * get list of triple paths with optional patterns
