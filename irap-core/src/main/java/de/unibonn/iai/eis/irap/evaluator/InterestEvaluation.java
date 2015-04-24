@@ -296,16 +296,18 @@ public class InterestEvaluation {
 			
 			for (Query q : askQueries) {	
 				List<TriplePath> askPaths = QueryPatternExtractor.getBGPTriplePaths(q);
+				
 				if(askPaths.size()==1 && isAllVars(askPaths.get(0))){
 					logger.info(changeset.getSequenceNum()+ ":" + "SKIPPED: \n" + askPaths.get(0));
 					continue;
 				}
 					
 				//if q contains disjoint pattern				
-				if(!g.isValid(q)){
+				if(askPaths.size() > 1 && !g.isValid(q)){
 					logger.info(changeset.getSequenceNum()+ ":" + "SKIPPED: Disjoint Query: \n" + q);
 					continue;
 				}
+				
 				logger.info(changeset.getSequenceNum()+ ":" + "Asking triples for query: \n"+ q);
 				if (SPARQLExecutor.executeAsk(model, q)) {					
 					Query cq = QueryDecomposer.toConstructQuery(askPaths, optpaths);
@@ -395,7 +397,6 @@ public class InterestEvaluation {
 		
 		//only optionals
 		if (!isAdded) {
-		
 			Query optq = QueryDecomposer.toConstructQuery(optpaths);
 			Model o = SPARQLExecutor.executeConstruct(model, optq);
 			if (!o.isEmpty()) {
@@ -404,8 +405,7 @@ public class InterestEvaluation {
 				o.write(System.out,"N-TRIPLE");
 				model.remove(o);
 			}
-			//TODO: if partial pattern matches in optional, then retrieve missing in target and delete all related optionals
-			
+			//TODO: if partial pattern matches in optional, then retrieve missing in target and delete all related optionals			
 		}else{
 			Query optq = QueryDecomposer.toConstructQuery(optpaths);
 			Model o = SPARQLExecutor.executeConstruct(model, optq);
@@ -424,13 +424,13 @@ public class InterestEvaluation {
 				}
 			}
 		}
-			
 		
 		List<Model> result = new ArrayList<Model>();
 		result.add(interestingTriples);
 		result.add(potentiallyInterestingTriples);
 		return result;
 	}
+	
 	private Model applyFilter(Model model, Interest interest){
 		List<TriplePath> paths = interest.getTriplePaths();
 		List<TriplePath> optpaths = interest.getOptionalTriplePaths();
@@ -525,8 +525,7 @@ public class InterestEvaluation {
 		
 		Model rwithMissingTriples = extractMissingFromTarget(paths, optpaths, askPaths, r, interest); //extractRelatedFromTarget
 		
-		if (!rwithMissingTriples.isEmpty()) {
-			
+		if (!rwithMissingTriples.isEmpty()) {			
 			logger.info(changeset.getSequenceNum()+ ":" + "Missing triples Matching FOUND from TARGET!");
 			rwithMissingTriples.write(System.out, "N-TRIPLE");		
 			if(interest.getElementFilters() != null && !interest.getElementFilters().isEmpty()){

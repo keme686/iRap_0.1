@@ -17,7 +17,6 @@ import com.hp.hpl.jena.rdf.model.Model;
 import com.hp.hpl.jena.rdf.model.ModelFactory;
 
 import de.unibonn.iai.eis.irap.evaluator.EvaluationManager;
-import de.unibonn.iai.eis.irap.helper.Global;
 import de.unibonn.iai.eis.irap.helper.JenaModelUtils;
 import de.unibonn.iai.eis.irap.model.Changeset;
 import de.unibonn.iai.eis.irap.sparql.SPARQLExecutor;
@@ -37,12 +36,10 @@ public class MainSync {
 	 /**
 	 * @param args
 	 */
-	 public static void main(String[] args) {
-		
-			
+	 public static void main(String[] args) {					
 		start();
 	 }
-
+	 
 	 private static void start(){
 		 logger.info("Changeset counter starting at 0");
 		 int lastChangeCount =0;
@@ -93,8 +90,7 @@ public class MainSync {
 			}catch(Exception e){
 				e.printStackTrace();
 			}
-		}
-	
+		}	
 	 }
 	 private static String getSequence(int seq){
 		 String sequence = "";
@@ -127,8 +123,8 @@ public class MainSync {
 		 logger.info("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^");
 	 }
 	 private static void emptyEndpoints(){
-		 String target="http://localhost:3030/target/sparql";
-		 String pi= Global.PI_SPARQL_ENDPOINT;
+		// String target="http://localhost:3030/target/sparql";
+		// String pi= Global.PI_SPARQL_ENDPOINT;
 		 String consQ = "CONSTRUCT {?s ?p ?o} where {?s ?p ?o}";
 		 Query tconst = QueryFactory.create(consQ);
 		 tconst.setQueryConstructType();
